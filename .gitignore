@@ -1,0 +1,4 @@
+_ignore*
+_site/
+.vscode
+node_modules/
