@@ -1,19 +1,29 @@
 {
-	"devDependencies": {
-		"@11ty/eleventy": "^2.0.1",
-		"@11ty/eleventy-img": "^3.1.0",
-		"@11ty/eleventy-navigation": "^0.3.5",
-		"@11ty/eleventy-plugin-bundle": "^1.0.4",
-		"@11ty/eleventy-plugin-rss": "^1.2.0",
-		"@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
-		"glob": "^10.2.4",
-		"less": "^4.1.3",
-		"luxon": "^3.3.0",
-		"markdown-it": "^13.0.1",
-		"markdown-it-anchor": "^8.6.7",
-		"markdown-it-task-lists": "^2.1.1",
-		"marked": "^5.0.2",
-		"marked-gfm-heading-id": "^3.0.3",
-		"showdown": "^2.1.0"
-	}
+  "scripts": {
+    "clean": "rm -rf _site",
+    "lint:spell": "cspell --gitignore '**/*.{txt,md,markdown}'",
+    "lint": "pnpm lint:spell",
+    "dev": "eleventy --serve",
+    "build": "eleventy",
+    "all": "pnpm clean && pnpm lint && pnpm build",
+    "push": "rsync -aP _site/ boson:/var/www/metaist.com/public_html/"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy-img": "^3.1.0",
+    "@11ty/eleventy-navigation": "^0.3.5",
+    "@11ty/eleventy-plugin-bundle": "^1.0.4",
+    "@11ty/eleventy-plugin-rss": "^1.2.0",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
+    "cspell": "^6.31.1",
+    "glob": "^10.2.4",
+    "less": "^4.1.3",
+    "luxon": "^3.3.0",
+    "markdown-it": "^13.0.1",
+    "markdown-it-anchor": "^8.6.7",
+    "markdown-it-task-lists": "^2.1.1",
+    "marked": "^5.0.2",
+    "marked-gfm-heading-id": "^3.0.3",
+    "showdown": "^2.1.0"
+  }
 }

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="{{ metadata.language }}">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta name="description" content="{{ description or metadata.description }}"/>
+
+    <title>{{ title or metadata.title }}</title>
+
+    {%- if metadata.IS_DEV %}
+      <link rel="alternate" type="application/atom+xml" title="{{ metadata.title }}" href="/blog/feed/index.xml"/>
+    {% else %}
+      <link rel="alternate" type="application/atom+xml" title="{{ metadata.title }}" href="http://feeds.feedburner.com/metaist"/>
+    {% endif %}
+
+    <link rel="preconnect" href="https://fonts.googleapis.com"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap"/>
+    <link rel="stylesheet" href="https://unpkg.com/prismjs@1.20.0/themes/prism-okaidia.css"/>
+    <link rel="stylesheet" href="/style.css"/>
+    <style>
+      {% getBundle "css" %}
+    </style>
+  </head>
+  <body>
+    <a href="#skip" class="visually-hidden">Skip to main content</a>
+
+    <header>
+      <a href="/blog" class="home-link">{{ metadata.title }}</a>
+
+      <nav>
+        <h2 class="visually-hidden">Top level navigation menu</h2>
+        <ul class="nav">
+          {%- for entry in collections.all | eleventyNavigation %}
+            <li class="nav-item">
+              <a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a>
+            </li>
+          {%- endfor %}
+        </ul>
+      </nav>
+    </header>
+
+    <main id="skip">{{ content | safe }}</main>
+
+    <footer>
+      <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a> Metaist LLC
+    </footer>
+
+    <!-- Current page: {{ page.url | htmlBaseUrl }} -->
+  </body>
+</html>

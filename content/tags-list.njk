@@ -1,0 +1,18 @@
+---
+permalink: /blog/tag/
+layout: home.njk
+eleventyNavigation:
+  key: Tags
+  order: 2
+---
+<h1>Tags</h1>
+
+<ul>
+  {% for tag in collections.all | getAllTags | filterTagList | sort %}
+    {% set tagUrl %}/blog/tag/{{ tag | slugify }}/{% endset %}
+    <li>
+      <a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>
+      ({{ collections[tag].length }})
+    </li>
+  {% endfor %}
+</ul>
