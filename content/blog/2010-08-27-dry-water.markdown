@@ -1,0 +1,59 @@
+---
+author: The Metaist
+tags: [fun, physics]
+title: Dry Water
+---
+
+## Summary
+
+<div class="entity-summary" markdown="1">
+
+**Dry water** is the result of coating small water droplets in silica. It is a
+powdery substance like sugar and is composed of 95% water.
+
+</div>
+
+<figure markdown="1">
+
+![Silica][fig-1]
+
+<figcaption markdown="1">
+
+Dehydrated water crystals. Just add water!
+
+  <address markdown="1">
+
+(Photo: [Taran Rampersad][fig-1-link] at Flickr)</address>
+
+</figcaption>
+</figure><!--more-->
+
+[fig-1]: {{thumbnail}}
+[fig-1-link]: http://www.flickr.com/photos/knowprose/2167889396/
+
+## Commentary
+
+Jokes about dehydrated water crystals aside, this is a pretty impressive
+technique for collecting and containing water which has been around since 1968.
+In 2006, it was rediscovered as a potential way to absorb carbon gases and a
+host of other applications.
+
+I've got to think back to other 8<sup>th</sup> grade jokes to see what future
+technology will bring.
+
+## See Also
+
+- <cite>["Dry water" could make a big splash commercially][1]</cite>
+  at the <span class="vcard org fn">American Chemical Society</span>
+  where the announcement of this announcement was made at the 240<sup>th</sup>
+  meeting in Boston.
+
+- <cite>[Scientists Create 'Dry' Water Droplets][2]</cite>
+  at <span class="vcard org fn">Scientific American</span>
+
+- <cite>[Scientists create 'dry water'][3]</cite>
+  at <span class="vcard org fn">The Telegraph</span>
+
+[1]: http://portal.acs.org/portal/acs/corg/content?_nfpb=true&_pageLabel=PP_ARTICLEMAIN&node_id=222&content_id=CNBP_025406&use_sec=true&sec_url_var=region1&__uuid=7980a5fb-0466-4fda-96d5-97345b695337
+[2]: http://www.scientificamerican.com/article.cfm?id=scientists-create-dry-wat
+[3]: http://www.telegraph.co.uk/science/science-news/7964109/Scientists-create-dry-water.html

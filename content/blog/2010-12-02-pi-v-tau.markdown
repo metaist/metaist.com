@@ -1,0 +1,110 @@
+---
+author: The Metaist
+tags: [education, math]
+title: Pi v. Tau
+---
+
+## Summary
+
+<div class="entry-summary" markdown="1">
+
+[Pi][wiki-pi] is considered one of the most important mathematical constants.
+However, there is a growing movement that suggests that a different constant
+may be easier to use and easier to teach.
+
+</div>
+
+[wiki-pi]: http://en.wikipedia.org/wiki/Archimedes_constant
+
+<figure markdown="1">
+
+![Circle][fig-1]
+
+<figcaption markdown="1">
+
+We've already computed [trillions of digits of pi][1].
+Don't make me restart.
+
+  <address markdown="1">
+
+(Photo: [Chris Blakeley][fig-1-link] on Flickr)</address>
+
+</figcaption>
+</figure><!--more-->
+
+[fig-1]: {{thumbnail}}
+[fig-1-link]: http://www.flickr.com/photos/csb13/2707466298/
+[1]: http://www.numberworld.org/misc_runs/pi-10t/details.html
+
+## Commentary
+
+The value of _pi_ is a constant that relates the circumference of a circle
+(length around the circle) to its diameter (length through the center).
+In 2000, Bob Palais wrote a short article called
+[Pi is Wrong!][2] where he outlined arguments for a different _circle constant_:
+one that relates the circumference to the _radius_ (length from the center to
+any point on the circle). In June 2010, Michael Hartl published Palais' arguments
+as [_The Tau Manifesto_][3] where he suggested that the new circle constant
+be represented by the [Greek letter tau][wiki-tau].
+
+[2]: http://www.math.utah.edu/~palais/pi.pdf
+[3]: http://tauday.com/
+[wiki-tau]: http://en.wikipedia.org/wiki/Tau
+
+The main arguments are as follows:
+
+1. While _pi_ appears in many equations, it most frequently appears as
+   2<em>pi</em>. All instances of 2<em>pi</em> can be replaced by _tau_.
+
+2. Measuring angles in [radians][wiki-radian] is much more straightforward
+   because there are _tau_ radians in a circle (rather than 2<em>pi</em> radians).
+
+3. The relationship between the [trigonometric functions][wiki-trig]
+   and the unit circle is easier to grasp.
+
+4. [Euler's identity][wiki-euler] ends up sounding even more powerful:
+   e<sup><em>it</em></sup> = 1 (Read as: _A rotation by one turn in the
+   [complex plane][wiki-complex] is 1._)
+
+5. The area of a circle is in quadratic form similar to many other physical
+   phenomena where two values are proportional to each other.
+   [Examples][4]:
+
+   - Falling in a uniform gravitational field (velocity is proportional to time)
+   - Potential energy in a linear spring (force is proportional to distance)
+   - Energy of motion (force is proportional to acceleration)
+
+   So now we can add: Area of a circle (area is proportional to radius).
+
+[wiki-radian]: http://en.wikipedia.org/wiki/Radian
+[wiki-trig]: http://en.wikipedia.org/wiki/Trigonometric_functions
+[wiki-euler]: http://en.wikipedia.org/wiki/Euler's_identity
+[wiki-complex]: http://en.wikipedia.org/wiki/Complex_plane
+[4]: http://tauday.com/#sec:quadratic_forms
+
+The arguments are persuasive and merit thought, especially for the pedagogical
+benefits _tau_ provides. I suspect it will be some time before anyone adopts this
+constant as a matter of course, but I have no problem writing "_tau_ = 2<em>pi</em>"
+and moving on from there.
+
+## See Also
+
+- <cite>[Pi is Wrong!][2]</cite>
+  by <span class="vcard fn">Bob Palais</span>
+  for the original paper.
+
+- <cite>[The Tau Manifesto][3]</cite>
+  by <span class="vcard fn">Michael Hartl</span>
+  for why _tau_ ought to be the new circle constant.
+
+- <cite>[Turn][wiki-turn]</cite>
+  at <span class="vcard org fn">Wikipedia</span>
+  for a historical discussion of using a turn as a unit of rotation.
+
+[wiki-turn]: http://en.wikipedia.org/wiki/Turn_(geometry)
+
+## Updates
+
+### <span class="rel-date" title="2013-03-07T20:07:00-05:00">2013-03-07</span>
+
+- Updated link to trillions of digits of pi.

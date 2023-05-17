@@ -1,0 +1,63 @@
+---
+author: The Metaist
+tags: [education, software]
+title: Zotero
+---
+
+## Summary
+
+<div class="entry-summary" markdown="1">
+
+[Zotero](http://www.zotero.org/) is an excellent way to organize, save, and
+cite your research.
+
+In other words, magic.
+
+</div>
+
+<figure markdown="1">
+
+![Library books on shelf]({{thumbnail}})
+
+<figcaption>
+  <address markdown="1">
+
+(Photo: [Christopher Warren](http://www.flickr.com/photos/libraryriot/3040401076/) at Flickr)</address>
+
+</figcaption>
+</figure><!--more-->
+
+## Commentary
+
+Zotero is plugin for [Firefox](http://en.wikipedia.org/wiki/Firefox) that
+provides inline [citation](http://en.wikipedia.org/wiki/Citation) and
+[bibliography](http://en.wikipedia.org/wiki/Bibliography) for many
+different styles including [MLA](http://en.wikipedia.org/wiki/The_MLA_Style_Manual),
+[APA](http://en.wikipedia.org/wiki/APA_style),
+[IEEE](http://en.wikipedia.org/wiki/IEEE_Style) and many more.
+
+Zotero also provides plugins for
+[OpenOffice.org](http://en.wikipedia.org/wiki/Openoffice.org) and
+[Microsoft Word](http://en.wikipedia.org/wiki/Microsoft_Word). One thing I
+particularly like is its ability to store PDFs and extract
+[metadata](http://en.wikipedia.org/wiki/Metadata); it saves so much time and
+lets you focus on continuing to do your research.
+
+## Meta
+
+What tools do you use to organize your research?
+
+## See Also
+
+- [Zotero](http://www.zotero.org/) for the plugin and related resources.
+
+## Updates
+
+### <span class="rel-date" title="2010-02-24">2010-02-24</span>
+
+- Added link to Zotero.
+
+### <span class="rel-date" title="2011-09-19T20:17:00-04:00">2011-09-19</span>
+
+- Zotero now offers [Zotero Standalone](http://www.zotero.org/support/3.0#zotero_standalone)
+  which works without requiring Firefox (e.g., in Google Chrome).

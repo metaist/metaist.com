@@ -1,0 +1,35 @@
+---
+author: The Metaist
+tags: [technology]
+title: "3D Printing"
+video: OhYvDS7q_V8
+---
+
+## Summary
+
+<div class="entry-summary" markdown="1">
+
+[3D Printing][wiki-1] is a production process in which thin layers of an object
+are deposited on top of each other to produce a physical object.
+
+</div>
+
+<figure markdown="1">
+
+<iframe width="560" height="315"
+  src="http://www.youtube.com/embed/{{video}}?rel=0"
+  frameborder="0"
+  allowfullscreen></iframe>
+<figcaption>
+  <address markdown="1">
+
+(Video: [YouTube](http://www.youtube.com/watch?v={{video}}))</address>
+
+</figcaption>
+</figure><!--more-->
+
+## See Also
+
+- <cite>[3D Printing][wiki-1]</cite> at Wikipedia for more information.
+
+[wiki-1]: http://en.wikipedia.org/wiki/3D_printing
