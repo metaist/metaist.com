@@ -1,9 +1,11 @@
 ---
 layout: base.njk
 ---
-
 <section>
   <article>
+    {%- if draft %}
+      <div class="draft-banner" style="color: #fff; background-color: #f53; text-align: center">DRAFT</div>
+    {% endif -%}
     <h1>{{ title }}</h1>
     <ul class="post-metadata">
       <li>
