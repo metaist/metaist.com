@@ -1,4 +1,5 @@
 ---
+updated: "2023-05-18T09:07:53Z"
 title: "Adventures in Eleventy"
 tags:
   [
@@ -14,6 +15,9 @@ tags:
 ---
 
 _Previously_: [2023-05-14 Weekend Notes]({{BLOG_URL}}/2023/05/2023-05-14-weekend-notes.html)
+
+**Contents**
+[[toc]]
 
 ## Goal
 
@@ -313,3 +317,9 @@ Now that I managed to get a basic thing working, let me try, one more time to po
 - **Wish List**
 - [ ] dark mode
 - [ ] mobile view
+
+## Updates
+
+### 2023-05-18
+
+- [I added table of contents support]({{BLOG_URL}}/2023/05/adding-a-toc.html).

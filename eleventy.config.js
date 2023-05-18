@@ -2,7 +2,9 @@ const { DateTime } = require("luxon");
 const less = require("less");
 
 const markdownItAnchor = require("markdown-it-anchor");
+const markdownItAttrs = require("markdown-it-attrs");
 const markdownItTasks = require("markdown-it-task-lists");
+const markdownItTOC = require("markdown-it-toc-done-right");
 
 const {
   EleventyHtmlBasePlugin,
@@ -79,6 +81,7 @@ module.exports = function (eleventyConfig) {
 
   // Customize Markdown library settings:
   eleventyConfig.amendLibrary("md", (mdLib) => {
+    mdLib.use(markdownItAttrs);
     mdLib.use(markdownItTasks, { label: true });
     mdLib.use(markdownItAnchor, {
       permalink: markdownItAnchor.permalink.ariaHidden({
@@ -90,6 +93,7 @@ module.exports = function (eleventyConfig) {
       level: [1, 2, 3, 4],
       slugify: eleventyConfig.getFilter("slugify"),
     });
+    mdLib.use(markdownItTOC, { listType: "ul" });
   });
 
   // Old Markdown Processing

@@ -37,9 +37,15 @@ devDependencies:
   markdown-it-anchor:
     specifier: ^8.6.7
     version: 8.6.7(@types/markdown-it@12.2.3)(markdown-it@13.0.1)
+  markdown-it-attrs:
+    specifier: ^4.1.6
+    version: 4.1.6(markdown-it@13.0.1)
   markdown-it-task-lists:
     specifier: ^2.1.1
     version: 2.1.1
+  markdown-it-toc-done-right:
+    specifier: ^4.2.0
+    version: 4.2.0
   marked:
     specifier: ^5.0.2
     version: 5.0.2
@@ -1855,8 +1861,21 @@ packages:
       markdown-it: 13.0.1
     dev: true
 
+  /markdown-it-attrs@4.1.6(markdown-it@13.0.1):
+    resolution: {integrity: sha512-O7PDKZlN8RFMyDX13JnctQompwrrILuz2y43pW2GagcwpIIElkAdfeek+erHfxUOlXWPsjFeWmZ8ch1xtRLWpA==}
+    engines: {node: '>=6'}
+    peerDependencies:
+      markdown-it: '>= 9.0.0'
+    dependencies:
+      markdown-it: 13.0.1
+    dev: true
+
   /markdown-it-task-lists@2.1.1:
     resolution: {integrity: sha512-TxFAc76Jnhb2OUu+n3yz9RMu4CwGfaT788br6HhEDlvWfdeJcLUsxk1Hgw2yJio0OXsxv7pyIPmvECY7bMbluA==}
+    dev: true
+
+  /markdown-it-toc-done-right@4.2.0:
+    resolution: {integrity: sha512-UB/IbzjWazwTlNAX0pvWNlJS8NKsOQ4syrXZQ/C72j+jirrsjVRT627lCaylrKJFBQWfRsPmIVQie8x38DEhAQ==}
     dev: true
 
   /markdown-it@13.0.1:
