@@ -307,9 +307,9 @@ Now that I managed to get a basic thing working, let me try, one more time to po
 - [x] LESS
 - [x] syntax highlighting
 - [ ] `hentry` microformat (not sure this was used)
-- [ ] RSS
+- [x] RSS
   - [x] `id` (should be a metadata field)
-  - [ ] `<published>` and `<updated>` should use post metadata with a backup to the file
+  - [x] `<published>` and `<updated>` should use post metadata with a backup to the file
 - **Wish List**
 - [ ] dark mode
 - [ ] mobile view

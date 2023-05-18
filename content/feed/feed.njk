@@ -17,7 +17,8 @@ permalink: /blog/feed/index.xml
       <title>{{ post.data.title }}</title>
       <link href="{{ absolutePostUrl }}"/>
       <id>{{ post.data.id or absolutePostUrl }}</id>
-      <updated>{{ post.date | dateToRfc3339 }}</updated>
+      <published>{{ post.data.created or post.date | dateToRfc3339 }}</published>
+      <updated>{{ post.data.updated or post.date | dateToRfc3339 }}</updated>
       <author>
         <name>{{ post.data.author }}</name>
       </author>
