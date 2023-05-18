@@ -4,6 +4,7 @@ title: 2023-05-14 Weekend Notes
 slug: 2023-05-14-weekend-notes
 tags:
   [
+    "note",
     "Shalev NessAiver",
     "ruff",
     "ezq",
