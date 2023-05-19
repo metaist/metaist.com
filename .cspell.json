@@ -11,6 +11,14 @@
     "Arirang",
     "Arnell",
     "Atul",
+    "babeld",
+    "hostkey",
+    "hostkeys",
+    "hostkeyalgs",
+    "KEXINIT",
+    "fopen",
+    "NONBLOCK",
+    "compat_banner",
     "Baranovskiy",
     "Barners",
     "Bastiat",
@@ -207,7 +215,5 @@
     "Zombieland",
     "Zotero"
   ],
-  "ignorePaths": [
-    "node_modules/**"
-  ]
+  "ignorePaths": ["node_modules/**"]
 }
