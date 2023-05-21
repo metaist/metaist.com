@@ -1,4 +1,6 @@
 ---
+created: "2012-02-20T00:00:00Z"
+updated: "2023-05-21T20:50:29Z"
 author: The Metaist
 tags: [software]
 title: "Code Review: metadash"
@@ -196,7 +198,7 @@ The result is a small little personal dashboard that is entirely cookie-based.
 ## See Also
 
 - <cite>[metadash][meta-1]</cite> for the cookie-based personal dashboard;
-  get the [source code here]({BASE_URL}/dash/dash.zip)
+  get the [source code here]({{BASE_URL}}/dash/dash.zip)
   ([MIT License](http://www.opensource.org/licenses/mit-license.php)).
 
 - <cite>[Best Practices for Speeding Up Your Web Site][ydn-1]</cite>
@@ -208,7 +210,7 @@ The result is a small little personal dashboard that is entirely cookie-based.
   at <span class="vcard org fn">Joel on Software</span> for a primer on
   Unicode.
 
-[meta-1]: {BASE_URL}/dash/
+[meta-1]: {{BASE_URL}}/dash/
 [wiki-3]: http://en.wikipedia.org/wiki/Programming_idiom
 [wiki-4]: http://en.wikipedia.org/wiki/Best_practice
 [wiki-5]: http://en.wikipedia.org/wiki/Document_Object_Model

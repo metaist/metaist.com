@@ -304,6 +304,7 @@ Now that I managed to get a basic thing working, let me try, one more time to po
   - [ ] `/blog/{year}/{month}/index.html` (posts by year + month)
 - [x] heading links
 - [x] `{thumbnail}`
+- [x] `{BASE_URL}`
 - [x] `{BLOG_URL}`
 - [x] `{IMG_URL}`
 - [x] `{video}`

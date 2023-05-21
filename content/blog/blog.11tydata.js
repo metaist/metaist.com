@@ -29,6 +29,7 @@ module.exports = {
   layout: "post.njk",
   author: "The Metaist",
   tags: ["post"],
+  BASE_URL: "/",
   BLOG_URL: "/blog",
   IMG_URL: "/static/img",
   eleventyComputed: {
