@@ -127,6 +127,7 @@
     "Moneyball",
     "MSNBC",
     "multiprocess",
+    "mypy",
     "naïveté",
     "NCCAM",
     "NessAiver",
@@ -230,5 +231,7 @@
     "Zombieland",
     "Zotero"
   ],
-  "ignorePaths": ["node_modules/**"]
+  "ignorePaths": [
+    "node_modules/**"
+  ]
 }
