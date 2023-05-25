@@ -17,9 +17,11 @@ const makePermalink = (data) => {
 };
 
 const findThumbnail = async (data) => {
-  const search = data.page.inputPath
-    .replace(/^\.\/content\/blog/, "./content/static/img")
-    .replace(/\.markdown$/, ".*");
+  if (data.thumbnail) return data.thumbnail;
+
+  const search = `./content/static/img/${path
+    .basename(data.page.inputPath)
+    .replace(/\.(markdown|md)$/, ".*")}`;
 
   const files = await glob(search);
   return files.length ? files[0].replace(/^content/, "") : "";
