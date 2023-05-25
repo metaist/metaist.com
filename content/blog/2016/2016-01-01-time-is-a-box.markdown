@@ -2,7 +2,6 @@
 author: The Metaist
 tags: [technique]
 title: "Time is a Box"
-thumbnail: foo
 ---
 
 ## Summary
