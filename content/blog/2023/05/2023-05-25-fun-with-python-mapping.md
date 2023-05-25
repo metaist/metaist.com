@@ -1,7 +1,6 @@
 ---
-draft: true
-created: ""
-updated: ""
+created: "2023-05-25T23:10:50Z"
+updated: "2023-05-25T23:10:51Z"
 title: "Fun with Python Mapping"
 tags: ["note", "python", "mypy"]
 ---
