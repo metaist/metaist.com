@@ -52,10 +52,13 @@
     "dihydrogen",
     "DKNY",
     "Dmitry",
+    "docstrings",
     "dogfooding",
     "doppelgänger",
     "Downton",
     "Dreamcatcher",
+    "Dunder",
+    "dunders",
     "Duong",
     "Dziuba",
     "eleventy-plugin-syntaxhighlight",
@@ -148,6 +151,7 @@
     "Pipfile",
     "pomodoro",
     "Pomodoros",
+    "Popen",
     "Predictioneer",
     "pretotype",
     "pretotyping",
@@ -205,6 +209,7 @@
     "TOMY",
     "Toohey",
     "toolset",
+    "tracebacks",
     "twentysomething",
     "twentysomethings",
     "Umwelt",
@@ -233,5 +238,7 @@
     "Zombieland",
     "Zotero"
   ],
-  "ignorePaths": ["node_modules/**"]
+  "ignorePaths": [
+    "node_modules/**"
+  ]
 }
