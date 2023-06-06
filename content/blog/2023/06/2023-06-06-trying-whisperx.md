@@ -1,5 +1,4 @@
 ---
-draft: true
 created: "2023-06-06T20:31:34Z"
 updated: "2023-06-06T20:31:35Z"
 title: "Trying whisperX"
