@@ -8,7 +8,7 @@ tags: ["note", "ezq", "LTS"]
 
 ## Releases
 
-- [`ezq` 3.0.0](https://github.com/metaist/ezq/releases/tag/3.0.0); [my brief notes]({{BLOG_URL}}/2023/05/ezq-3.0.0.html). I then released [`ezq 3.0.3`](https://github.com/metaist/ezq/releases/tag/3.0.3) to fix a dependency issue.
+- [`ezq` 3.0.0](https://github.com/metaist/ezq/releases/tag/3.0.0); [my brief notes]({{BLOG_URL}}/2023/05/ezq-3.0.0.html). I then released [`ezq` 3.0.3](https://github.com/metaist/ezq/releases/tag/3.0.3) to fix a dependency issue.
 
 ## Posts
 
