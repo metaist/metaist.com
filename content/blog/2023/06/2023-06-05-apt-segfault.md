@@ -29,7 +29,7 @@ sudo apt-get clean all
 
 That worked!
 
-## autoremove brings the segfault back
+## `autoremove` brings the segfault back
 
 About once a month, I run `sudo apt autoremove` to get rid of old kernels and things that have accumulated. But now I notice that running that gets me a segfault which then causes all other `apt-get` commands to segfault too.
 
