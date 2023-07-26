@@ -9,6 +9,7 @@
     "Amirav-Drory",
     "Andreas",
     "Anscombe",
+    "appsscript",
     "Arirang",
     "Arnell",
     "attrbox",
@@ -94,6 +95,7 @@
     "Gladwell",
     "Godin",
     "Groklaw",
+    "gscript",
     "Hartl",
     "hcard",
     "Hedlund",
@@ -121,6 +123,7 @@
     "Korem",
     "Krauss",
     "Lintgen",
+    "Litwin",
     "Loglan",
     "Lukas",
     "Lupia",
@@ -258,9 +261,8 @@
     "ZINK",
     "Zohner",
     "Zombieland",
-    "Zotero"
+    "Zotero",
+    "Stackdriver"
   ],
-  "ignorePaths": [
-    "node_modules/**"
-  ]
+  "ignorePaths": ["node_modules/**"]
 }
