@@ -88,6 +88,7 @@
     "Frum",
     "Gawande",
     "Gazzaniga",
+    "gdrive",
     "geodynamo",
     "getitem",
     "Gladwell",
@@ -155,6 +156,7 @@
     "parkinsons-law",
     "partiallyblind",
     "Patt",
+    "pbcopy",
     "pdfmerge",
     "peptidoglycan",
     "phphoto2010",
@@ -175,6 +177,7 @@
     "Rakison",
     "Ramit",
     "Rampersad",
+    "rclone",
     "realise",
     "Rebecca",
     "recordkeeping",
@@ -206,6 +209,7 @@
     "stenospermocarpy",
     "stylesheet",
     "subsp",
+    "SUMIF",
     "SUNY",
     "Surowiecki",
     "talkin'",
@@ -235,17 +239,18 @@
     "Vogel",
     "voxel",
     "voxels",
+    "WEBVTT",
     "Weeknotes",
     "Weidenhaupt",
     "Wesabe",
     "whisperx",
-    "WEBVTT",
     "whoohoo120",
     "Wiesner",
     "Willison",
     "Winer",
     "Wondermark",
     "workwheel",
+    "xclip",
     "xiao",
     "XKCD",
     "Yeshivat",
@@ -255,5 +260,7 @@
     "Zombieland",
     "Zotero"
   ],
-  "ignorePaths": ["node_modules/**"]
+  "ignorePaths": [
+    "node_modules/**"
+  ]
 }
