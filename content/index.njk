@@ -1,7 +1,7 @@
 ---
 permalink: /blog/
 layout: home.njk
-numberOfLatestPostsToShow: 3
+numberOfLatestPostsToShow: 10
 ---
 {% set postsCount = collections.post | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
