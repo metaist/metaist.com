@@ -3,6 +3,7 @@ created: "2023-07-27T19:13:39Z"
 updated: "2023-07-27T19:13:39Z"
 title: "Terms of Service"
 layout: "post.njk"
+permalink: /terms/
 ---
 
 **Last updated**: 2023-07-27<br />
@@ -18,7 +19,7 @@ These terms of service apply to your access and use of Metaist web and mobile ap
 
 The Service is owned and provided by Metaist LLC (the "**Company**", "**us**", "**our**", or "**we**").
 
-Please read these terms of service carefully before installing or using our Service. By accessing, using, downloading, or installing our Service you acknowledge that you have read these terms of service and our [Privacy Policy](/legal/privacy) which is incorporated herein by reference, as may be amended from time to time (collectively the "**Terms**"). These Terms shall govern any and all kinds of use and features offered via the Service as may become available from time to time. You agree to be bound by these Terms and to fully comply with them. If you do not agree to any of the Terms you should immediately stop using the Service. In this case, you may not download, copy, access, install or use any of our Services in any manner whatsoever.
+Please read these terms of service carefully before installing or using our Service. By accessing, using, downloading, or installing our Service you acknowledge that you have read these terms of service and our [Privacy Policy](/privacy) which is incorporated herein by reference, as may be amended from time to time (collectively the "**Terms**"). These Terms shall govern any and all kinds of use and features offered via the Service as may become available from time to time. You agree to be bound by these Terms and to fully comply with them. If you do not agree to any of the Terms you should immediately stop using the Service. In this case, you may not download, copy, access, install or use any of our Services in any manner whatsoever.
 
 ## What are the Apps?
 
@@ -30,11 +31,11 @@ Apps that are published publicly and are governed by the MIT license may be used
 
 ## Your Privacy
 
-Please read our [Privacy Policy](/legal/privacy) to learn about the use of your personal data by us.
+Please read our [Privacy Policy](/privacy) to learn about the use of your personal data by us.
 
-We respect your Privacy and take it very seriously. By using the Service, you agree to the collection and use of your personal information in accordance with our [Privacy Policy](/legal/privacy).
+We respect your Privacy and take it very seriously. By using the Service, you agree to the collection and use of your personal information in accordance with our [Privacy Policy](/privacy).
 
-Our [Privacy Policy](/legal/privacy), which is incorporated into these Terms, explains our privacy practices.
+Our [Privacy Policy](/privacy), which is incorporated into these Terms, explains our privacy practices.
 
 ## Creating an Account
 
@@ -52,13 +53,13 @@ Your continued use of the App and Service, following any such revisions, constit
 
 You understand and agree that you are solely responsible for your use of the Service.
 
-As an App user, you may use the Service and content we provide. Unless stated otherwise, you may not copy or publish any part of the App or Service. By using the App, you consent that we use certain personal information about you to provide the Service and improve it to all users, as detailed in our Privacy Policy.
+As an App user, you may use the Service and content we provide. Unless stated otherwise, you may not copy or publish any part of the App or Service. By using the App, you consent that we use certain personal information about you to provide the Service and improve it to all users, as detailed in our [Privacy Policy](/privacy).
 
 Unless stated otherwise, by accessing the Service, we grant you a revocable, non-exclusive, non-transferable, limited right to install and use the App on wireless electronic devices owned or controlled by you, and to access and use the App on such devices strictly in accordance with these Terms. You shall not: (1) decompile, reverse engineer, disassemble, attempt to derive the source code of, or decrypt the App; (2) make any modification, adaptation, improvement, enhancement, translation, or derivative work from the App; (3) violate any applicable laws, rules, or regulations in connection with your access or use of the App; (4) remove, alter, or obscure any proprietary notice (including any notice of copyright or trademark) posted by us; (5) use the App for any revenue generating endeavor, commercial enterprise, or other purpose for which it is not designed or intended; (6) make the App available over a network or other environment permitting access or use by multiple devices or users at the same time; (7) use the App for creating a product, service, or software that is, directly or indirectly, competitive with or in any way a substitute for the App; or (8) use any proprietary information or any of our interfaces or our other intellectual property in the design, development, manufacture, licensing, or distribution of any applications, accessories, or devices for use with the App.
 
 The App may automatically download and install updates and upgrades from time to time without further notice to you. These updates are designed to technically improve and/or enhance the App and the Service. You agree that we may automatically deliver such updates and upgrades to you as part of your use of the Service.
 
-You are solely responsible for and retain ownership of all profile information, data, messages, files or other materials that you create, post, or otherwise add to the Service ("**Your Content**"). Our use of Your Content shall be governed by our [Privacy Policy](/legal/privacy). We are not in any way liable for Your Content. You are solely responsible for backing up Your Content. We assume no liability for the deletion, corruption, or failure to store any of Your Content maintained or transmitted through your use of the Service other than the liability required by applicable law.
+You are solely responsible for and retain ownership of all profile information, data, messages, files or other materials that you create, post, or otherwise add to the Service ("**Your Content**"). Our use of Your Content shall be governed by our [Privacy Policy](/privacy). We are not in any way liable for Your Content. You are solely responsible for backing up Your Content. We assume no liability for the deletion, corruption, or failure to store any of Your Content maintained or transmitted through your use of the Service other than the liability required by applicable law.
 
 You agree not to post, upload, publish, submit, store or transmit any content that: (i) infringes, misappropriates or violates a third party's patent, copyright, trademark, trade secret, moral rights or other intellectual property rights, or rights of publicity or privacy; (ii) violates, or encourages any conduct that would violate, any applicable law or regulation or would give rise to civil liability; (iii) is fraudulent, false, misleading or deceptive; (iv) is defamatory, obscene, pornographic, vulgar or offensive; (v) promotes discrimination, bigotry, racism, hatred, harassment or harm against any individual or group; (vi) is violent or threatening or promotes violence or actions that are threatening to any person or entity; or (vii) promotes illegal or harmful activities or substances. You further agree not to engage in any activity that interferes with or disrupts the Service (or the servers and networks which are connected to the Service).
 

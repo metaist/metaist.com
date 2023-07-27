@@ -3,6 +3,7 @@ created: "2023-07-27T19:13:39Z"
 updated: "2023-07-27T19:13:39Z"
 title: "Privacy Policy"
 layout: "post.njk"
+permalink: /privacy/
 ---
 
 **Last updated**: 2023-07-27
@@ -17,7 +18,7 @@ We have created this Privacy Policy to explain how we collect, use, disclose and
 
 In addition, this Privacy Policy explains the rights and choices available to you with respect to your personal data.
 
-We ask that you read this Privacy Policy carefully. This Privacy Policy should be read together with our [Terms of Service](/legal/terms). By using the Service, you are agreeing to the terms of this Privacy Policy and the accompanying [Terms of Service](/legal/terms), both of which govern your use of the Service.
+We ask that you read this Privacy Policy carefully. This Privacy Policy should be read together with our [Terms of Service](/terms). By using the Service, you are agreeing to the terms of this Privacy Policy and the accompanying [Terms of Service](/terms), both of which govern your use of the Service.
 
 ## Information We Collect
 
