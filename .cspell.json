@@ -49,6 +49,7 @@
     "ctype",
     "Cuil",
     "Cyborgization",
+    "decompile",
     "delbrueckii",
     "delims",
     "Derren",
@@ -207,6 +208,7 @@
     "Solberg",
     "Spolsky",
     "Squidoo",
+    "Stackdriver",
     "Stankuns",
     "startswith",
     "stenospermocarpy",
@@ -261,8 +263,9 @@
     "ZINK",
     "Zohner",
     "Zombieland",
-    "Zotero",
-    "Stackdriver"
+    "Zotero"
   ],
-  "ignorePaths": ["node_modules/**"]
+  "ignorePaths": [
+    "node_modules/**"
+  ]
 }
