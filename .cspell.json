@@ -4,6 +4,7 @@
   "words": [
     "11tydata",
     "1happysnapper",
+    "DALL-E",
     "Alderfer",
     "Alexa",
     "Amirav-Drory",
@@ -239,11 +240,13 @@
     "tracebacks",
     "twentysomething",
     "twentysomethings",
+    "twittersphere",
     "typable",
     "Umwelt",
     "Unported",
     "vcard",
     "Vedol",
+    "virtualenv",
     "visuospatial",
     "voels",
     "Vogel",
@@ -271,7 +274,5 @@
     "Zombieland",
     "Zotero"
   ],
-  "ignorePaths": [
-    "node_modules/**"
-  ]
+  "ignorePaths": ["node_modules/**"]
 }
