@@ -4,6 +4,7 @@ _site/
 .vscode
 node_modules/
 
+content/blog/**/*.gif
 content/blog/**/*.jpeg
 content/blog/**/*.jpg
 content/blog/**/*.pdf
