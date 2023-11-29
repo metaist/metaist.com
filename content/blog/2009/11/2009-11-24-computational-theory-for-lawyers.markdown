@@ -1,7 +1,8 @@
 ---
-author: The Metaist
-tags: math
-title: Computational Theory for Lawyers
+published: "2009-11-24T00:00:00Z"
+updated: "2023-11-28T17:09:10Z"
+title: "Computational Theory for Lawyers"
+tags: ["math"]
 ---
 
 ## Definition
@@ -55,8 +56,8 @@ From the article:
 The notion of an _intensional_ and _extensional_ perspectives is actually an
 amazing insight into the world of mathematics that I hope to discuss more as I
 make my way through the excellent book
-[Autonomy of Mathematical Knowledge](http://www.amazon.com/gp/product/0521514371?ie=UTF8&tag=themet-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0521514371)
-by [Curtis Franks](http://www.nd.edu/~cfranks/). ![.](http://www.assoc-amazon.com/e/ir?t=themet-20&l=as2&o=1&a=0521514371)
+[Autonomy of Mathematical Knowledge](http://www.amazon.com/gp/product/0521514371)
+by [Curtis Franks](http://www.nd.edu/~cfranks/).
 _(Disclosure: the author is a friend of mine.)_
 
 ## Meta
@@ -73,5 +74,9 @@ _More on this later._
 
 ### <span class="rel-date" title="2010-02-24T00:00-05:00">2010-02-24</span>
 
-- See <cite>[Review: The Autonomy of Mathematical Knowledge]({{BLOG_URL}}/2010/02/review-autonomy-of-mathematical.html)</cite>
+- See <cite>[Review: The Autonomy of Mathematical Knowledge](/blog/2010/02/review-autonomy-of-mathematical.html)</cite>
   for my review of that book.
+
+### <span class="rel-date" title="2023-11-28T17:09:10Z">2023-11-28</span>
+
+- Updated broken links.

@@ -1,7 +1,8 @@
 ---
-author: The Metaist
-tags: technique
-title: Pomodoro Technique
+published: "2009-11-19T00:00:00Z"
+updated: "2023-11-28T17:09:10Z"
+title: "Pomodoro Technique"
+tags: ["technique"]
 ---
 
 ## Technique
@@ -83,6 +84,12 @@ better."
 
 ### <span class="rel-date" title="2011-09-20T21:31:16-04:00">2011-09-20</span>
 
-- See <cite>[Time management: How an MIT postdoc writes 3 books, a PhD defense, and 6+ peer-reviewed papers &ndash; and finishes by 5:30pm](http://www.iwillteachyoutoberich.com/blog/time-management-how-an-mit-postdoc-writes-3-books-a-phd-defense-and-6-peer-reviewed-papers-and-finishes-by-530pm/)</cite>
+- See <cite>[Time management: How an MIT postdoc writes 3 books, a PhD defense, and 6+ peer-reviewed papers &ndash; and finishes by 5:30pm][1]</cite>
   at <span class="vcard org fn">IWillTeachYouToBeRich</span>
   for a remarkable example of time management.
+
+[1]: https://web.archive.org/web/20091121214205/http://www.iwillteachyoutoberich.com/blog/time-management-how-an-mit-postdoc-writes-3-books-a-phd-defense-and-6-peer-reviewed-papers-and-finishes-by-530pm/
+
+### <span class="rel-date" title="2023-11-28T17:09:10Z">2023-11-28</span>
+
+- Updated broken links.

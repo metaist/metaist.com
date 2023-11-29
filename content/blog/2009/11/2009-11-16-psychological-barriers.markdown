@@ -1,7 +1,8 @@
 ---
-author: The Metaist
-tags: psychology
-title: Psychological Barriers
+published: "2009-11-16T00:00:00Z"
+updated: "2023-11-28T17:09:10Z"
+title: "Psychological Barriers"
+tags: ["psychology"]
 ---
 
 ## Definition
@@ -34,7 +35,7 @@ only 40% of employees took advantage of matching programs (note that this is
 basically free money). Most employees viewed the task of enrolling as annoying
 and simply took the passive do-nothing route.
 
-Ramit Sethi likes to talk about [psychological barriers](http://www.getrichslowly.org/blog/2009/03/17/the-psychology-of-passive-barriers-why-your-friends-dont-save-money-eat-healthier-or-clean-their-garages/)
+Ramit Sethi likes to talk about [psychological barriers](https://www.getrichslowly.org/passive-barriers/)
 and how to overcome them. In that post, he also mentions how one could use
 psychological barriers to intentionally prevent oneself from doing an action.
 For example, people who have trouble using credit cards responsibly can freeze
@@ -55,3 +56,9 @@ try to tear down the barriers between you and an order for their product
 to create barriers for the "problem" that their product "solves". Of course we
 always knew that
 [television is the opiate of the masses](http://www.gocomics.com/calvinandhobbes/1986/01/19/).
+
+## Updates
+
+### <span class="rel-date" title="2023-11-28T17:09:10Z">2023-11-28</span>
+
+- Updated broken links.

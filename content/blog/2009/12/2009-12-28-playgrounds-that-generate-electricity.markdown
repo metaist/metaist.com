@@ -1,7 +1,8 @@
 ---
-author: The Metaist
-tags: [fun, business]
-title: Playgrounds that Generate Electricity
+published: "2009-12-28T00:00:00Z"
+updated: "2023-11-28T17:09:10Z"
+title: "Playgrounds that Generate Electricity"
+tags: ["fun", "business"]
 ---
 
 ## Summary
@@ -39,7 +40,7 @@ What other naturally fun forces could be harnessed (but not enslaved)?
 
 ## See Also
 
-- <cite>[BYU and Empower Playgrounds install electricity-generating merry-go-round in Ghana](http://news.byu.edu/archive08-Jun-Ghana.aspx)</cite>
+- <cite>[BYU and Empower Playgrounds install electricity-generating merry-go-round in Ghana](https://web.archive.org/web/20091008005512/news.byu.edu/archive08-Jun-Ghana.aspx)</cite>
 
 - <cite>[Empower Playgrounds](http://en.wikipedia.org/wiki/Empower_Playgrounds)</cite>
   at <span class="vcard org fn">Wikipedia</span>
@@ -50,3 +51,7 @@ What other naturally fun forces could be harnessed (but not enslaved)?
 
 - Removed <cite>Could it become a workwheel?</cite>
   originally at <code>http://www.empowerplaygrounds.org/main/index.php?option=com_content&view=article&id=93:could-it-become-a-workwheel&catid=7:frequently-asked-questions&Itemid=25</code>
+
+### <span class="rel-date" title="2023-11-28T17:09:10Z">2023-11-28</span>
+
+- Updated broken links.

@@ -57,6 +57,6 @@ should be fostering that ability, most
 
 [link-1]: http://www.edwdebono.com/course/index.htm
 [wiki-4]: http://en.wikipedia.org/wiki/Lateral_thinking
-[meta-1]: {{BLOG_URL}}/2011/09/quality-quantity.html
-[meta-2]: {{BLOG_URL}}/2009/12/intrinsic-v-extrinsic-motivation.html
-[meta-3]: {{BLOG_URL}}/2012/04/review-stop-stealing-dreams.html
+[meta-1]: /blog/2011/09/quality-quantity.html
+[meta-2]: /blog/2009/12/intrinsic-v-extrinsic-motivation.html
+[meta-3]: /blog/2012/04/review-stop-stealing-dreams.html

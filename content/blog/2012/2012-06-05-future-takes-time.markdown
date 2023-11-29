@@ -1,7 +1,8 @@
 ---
-author: The Metaist
-tags: [business, education, security, technology]
+published: "2012-06-05T00:00:00Z"
+updated: "2023-11-28T17:09:10Z"
 title: "The Future Takes Time"
+tags: ["business", "education", "security", "technology"]
 ---
 
 ## Summary
@@ -95,8 +96,8 @@ for the better. And while we should be patient, we should
 - <cite>[Enjoying the Process][meta-1]</cite>
   for our discussion of investing in the process rather than the outcome.
 
-[meta-1]: {{BLOG_URL}}/2012/01/enjoying-the-process.html
-[meta-2]: {{BLOG_URL}}/2012/06/security-theater.html
+[meta-1]: /blog/2012/01/enjoying-the-process.html
+[meta-2]: /blog/2012/06/security-theater.html
 [wiki-1]: http://en.wikipedia.org/wiki/Evidence_based_policy
 [wiki-2]: http://en.wikipedia.org/wiki/Policy-based_evidence_making
 [wiki-3]: http://en.wikipedia.org/wiki/Intellectual_property
@@ -104,9 +105,15 @@ for the better. And while we should be patient, we should
 [link-1]: http://www.iwillteachyoutoberich.com/blog/the-invisible-scripts-that-guide-our-lives/
 [link-2]: http://www.schneier.com/blog/archives/2012/05/overreacting_to.html
 [link-3]: http://historymatters.gmu.edu/d/5057/
-[link-4]: http://www.fastcompany.com/1657030/the-happiness-culture-zappos-isn-t-a-company-it-s-a-mission
+[link-4]: https://web.archive.org/web/20120806211005/https://www.fastcompany.com/1657030/happiness-culture-zappos-isnt-company-its-mission
 [link-5]: http://www.freakonomics.com/2012/02/23/the-dilbert-index-a-new-marketplace-podcast/
-[link-6]: http://onefte.com/2012/03/16/gfc-a-coming-of-age/
-[link-7]: http://www.law.yale.edu/documents/pdf/CDO_Public/cdo-billable_hour.pdf
+[link-6]: https://web.archive.org/web/20120605111453/http://onefte.com/2012/03/16/gfc-a-coming-of-age/
+[link-7]: https://web.archive.org/web/20120105074011/https://law.yale.edu/documents/pdf/CDO_Public/cdo-billable_hour.pdf
 [link-8]: http://www.everythingisaremix.info/
 [link-9]: http://www.youtube.com/watch?v=G2VHf5vpBy8
+
+## Updates
+
+### <span class="rel-date" title="2023-11-28T17:09:10Z">2023-11-28</span>
+
+- Updated broken links.

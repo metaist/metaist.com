@@ -1,17 +1,17 @@
 ---
-author: The Metaist
-tags: technique
-title: Inbox Zero
+published: "2009-11-17T00:00:00Z"
+updated: "2023-11-28T17:09:10Z"
+title: "Inbox Zero"
+tags: ["technique"]
 ---
 
 ## Technique
 
 <div class="entry-summary" markdown="1">
 
-[Inbox Zero](http://inboxzero.com/video/) is a technique for processing your
+[Inbox Zero](https://web.archive.org/web/20090905004742/http://inboxzero.com/video/) is a technique for processing your
 email and somewhat related to the concepts David Allen put forth in
-[Getting Things Done](http://www.amazon.com/gp/product/0142000280?ie=UTF8&tag=themet-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0142000280).
-![.](http://www.assoc-amazon.com/e/ir?t=themet-20&l=as2&o=1&a=0142000280)
+[Getting Things Done](http://www.amazon.com/gp/product/0142000280).
 
 </div>
 
@@ -29,7 +29,7 @@ email and somewhat related to the concepts David Allen put forth in
 ## Commentary
 
 I have found Inbox Zero effective at dealing with the
-[psychological barriers]({{BLOG_URL}}/2009/11/psychological-barriers.html) around
+[psychological barriers](/blog/2009/11/psychological-barriers.html) around
 checking and responding to email. I've adapted the process so that for every
 email (starting with the oldest) I choose one of the following actions:
 
@@ -47,8 +47,14 @@ email (starting with the oldest) I choose one of the following actions:
 
 After all the emails have been processed, I view all the starred emails. I add
 all the items I need to do to my task list. (I will discuss how I process the
-task list in a [future post]({{BLOG_URL}}/2009/11/pomodoro-technique.html).)
+task list in a [future post](/blog/2009/11/pomodoro-technique.html).)
 
 In the past two years, I have maintained an empty inbox at home and at work and
 have found that I spend more time doing what needs to be done rather then
 [trying to keep it all in my head](http://linkinghub.elsevier.com/retrieve/pii/S0361923098000835).
+
+## Updates
+
+### <span class="rel-date" title="2023-11-28T17:09:10Z">2023-11-28</span>
+
+- Updated broken links.

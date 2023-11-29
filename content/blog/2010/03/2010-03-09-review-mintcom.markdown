@@ -1,4 +1,7 @@
 ---
+published: "2010-03-09T00:00:00Z"
+updated: "2023-11-28T21:20:53Z"
+
 author: The Metaist
 tags: [review, money, software]
 title: "Review: Mint.com"
@@ -31,7 +34,7 @@ another place online.
 ## Review
 
 Mint.com is relatively new (since 2006), yet
-[amazingly popular](http://trends.google.com/websites?q=mint.com,quicken.com&geo=all&date=all&sort=0).
+[amazingly popular](https://trends.google.com/trends/explore?date=now%201-d&q=%2Fm%2F03cj4p7,%2Fm%2F0cfzgk&hl=en-US).
 
 As I see it the main benefits of Mint.com are:
 
@@ -53,21 +56,16 @@ As I see it the main benefits of Mint.com are:
 
 Some downsides:
 
-- <strike>**Small Banks** - Even though many institutions are supported, some smaller
-  (e.g., local banks) are not, and there's no way to manually import your
-  data. (Although, they say it's coming "mid-march.")</strike>
+- <strike>**Small Banks** - Even though many institutions are supported, some smaller (e.g., local banks) are not, and there's no way to manually import your data. (Although, they say it's coming "mid-march.")</strike>
 
-- **Privacy** - Mint has a [strong privacy policy](https://www.mint.com/how-it-works/security/policy/)
-  and many implicitly trust its security model. Nonetheless, it's a little
-  strange to trust one entity with all of your transaction history
-  <small>(_*Cough*_ Google)</small>.
+- **Privacy** - Mint has a [strong privacy policy](https://web.archive.org/web/20201203213724/https://mint.intuit.com/how-mint-works/security) and many implicitly trust its security model. Nonetheless, it's a little strange to trust one entity with all of your transaction history <small>(_*Cough*_ Google)</small>.
 
 On balance, Mint helps people who are interested in their spending habits get a
 larger picture of their income & expenses.
 
 ## See Also
 
-- <cite>[MintLife Blog](http://www.mint.com/blog/)</cite>
+- <cite>[MintLife Blog](https://web.archive.org/web/20201221003553/https://mint.intuit.com/blog/)</cite>
   for personal finance articles that occasionally feature high quality
   [infographics](http://en.wikipedia.org/wiki/Infographics).
 
@@ -75,7 +73,7 @@ larger picture of their income & expenses.
   at <span class="vcard org fn">Wikipedia</span>
   for some other information.
 
-- <cite>[Want Everyone To See Your Credit Card Transactions?](http://techcrunch.com/2009/12/11/blippy/)</cite>
+- <cite>[Want Everyone To See Your Credit Card Transactions?](https://web.archive.org/web/20100308132737/http://techcrunch.com/2009/12/11/blippy/)</cite>
   at <span class="vcard org fn">TechCrunch</span>
   for a discussion about <span class="vcard org fn">Blippy</span>&mdash;a
   twitter-like site that tells everyone what you're buying.
@@ -84,14 +82,18 @@ larger picture of their income & expenses.
 
 ### <span class="rel-date" title="2010-03-30T18:52-00:00">2010-03-30</span>
 
-- Mint now allows the creation of [manual transactions](http://satisfaction.mint.com/mint/topics/ability_to_manually_enter_transactions_now_available).
+- Mint now allows the creation of [manual transactions](https://web.archive.org/web/20100402090643/http://satisfaction.mint.com/mint/topics/ability_to_manually_enter_transactions_now_available).
 
 ### <span class="rel-date" title="2011-09-20T20:17:43-04:00">2011-09-20</span>
 
-- See <cite>[Why Wesabe Lost to Mint](http://blog.precipice.org/why-wesabe-lost-to-mint)</cite>
+- See <cite>[Why Wesabe Lost to Mint](https://web.archive.org/web/20101002232640/http://blog.precipice.org/why-wesabe-lost-to-mint)</cite>
   by <span class="vcard fn">Marc Hedlund</span>
   for an introspective article on how Mint surpassed Wesabe, a former competitor.
 
 ### <span class="rel-date" title="2011-12-18T12:38-00:00">2012-12-18</span>
 
 - Forgot to mention that mint supports lots of banks now; even small ones.
+
+### <span class="rel-date" title="2023-11-28T21:14:47Z">2023-11-28</span>
+
+- Sadly, [Mint is shutting down](https://web.archive.org/web/20231115141619/https://www.theverge.com/2023/11/2/23943254/mint-intuit-shutting-down-credit-karma).

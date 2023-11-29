@@ -29,7 +29,7 @@ attention of prospective clients or employers.
 
 Clearly, the force of this method depends on how well you do your research.
 However, it is noteworthy that by overcoming your own
-[psychological barriers]({{BLOG_URL}}/2009/11/psychological-barriers.html),
+[psychological barriers](/blog/2009/11/psychological-barriers.html),
 and doing all the prep work _before_ you meet the client, you make it
 easier for client to overcome their psychological barriers to hiring you.
 

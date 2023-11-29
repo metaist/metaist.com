@@ -10,7 +10,7 @@ tags: ["trace"]
 
 ## Goal
 
-To release [`ezq 3.0.0`]({{BLOG_URL}}/2023/05/ezq-3.0.0.html) while I'm traveling on a plane.
+To release [`ezq 3.0.0`](/blog/2023/05/ezq-3.0.0.html) while I'm traveling on a plane.
 
 ## `git push` hangs
 

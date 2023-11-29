@@ -62,4 +62,4 @@ future.
 - <cite>[Counterfactual Thinking and the First Instinct Fallacy][1]</cite>
   for the full text of the study.
 
-[1]: http://psych.colorado.edu/~vanboven/teaching/p7536_heurbias/p7536_readings/kuger_1stinstinct.pdf
+[1]: https://web.archive.org/web/20081203055340/http://psych.colorado.edu/~vanboven/teaching/p7536_heurbias/p7536_readings/kuger_1stinstinct.pdf

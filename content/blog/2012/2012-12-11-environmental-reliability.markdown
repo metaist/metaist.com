@@ -47,5 +47,5 @@ shown to be mediated by the environment instead of being a "personality trait".
 - <cite>[Deferred Gratification][meta-1]</cite>
   for our previous discussion of this topic.
 
-[meta-1]: {{BLOG_URL}}/2012/01/deferred-gratification.html
+[meta-1]: /blog/2012/01/deferred-gratification.html
 [science-1]: http://www.sciencedirect.com/science/article/pii/S0010027712001849

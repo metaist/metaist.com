@@ -50,7 +50,7 @@ The humanities are [sidelined as well][2] (via **Robert**):
 > for people to be prepared for the inevitable shock of change is to be as broadly educated
 > as possible, because today's backwater is often tomorrow's hot field.
 
-[2]: http://genomebiology.com/2010/11/10/138
+[2]: https://web.archive.org/web/20101203003148/http://genomebiology.com:80/2010/11/10/138
 
 In the course of my discussions, some people have raised the following objections to
 Dr. Tae's approach. Here are some of the more common reactions:
@@ -93,7 +93,7 @@ comments below (deadline: Friday, 2010-12-10). I'll write a separate post if Dr.
   at <span class="vcard org fn">GenomeBiology</span>
   for the full text of the open letter to the President of SUNY Albany.
 
-- <cite><a class="icon pdf" href="http://www.yctorah.org/component/option,com_docman/task,doc_view/gid,360/">An
+- <cite><a class="icon pdf" href="https://web.archive.org/web/20160203225107/http://www.yctorah.org/component/option,com_docman/task,doc_view/gid,360/">An
   Integrated Vision of Jewish Education</a></cite>
   at <span class="vcard org fn">Yeshivat Chovevei Torah</span>
   for a Talmudic story that exemplifies a teaching and learning culture (in the utmost).

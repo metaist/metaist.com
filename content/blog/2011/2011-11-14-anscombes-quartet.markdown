@@ -73,13 +73,13 @@ can divert the reader away from the underlying truth about the data.
   at <span class="vcard org fn">Wikipedia</span>
   for some other ways that statistics can be misused.
 
-- <cite>[Most Misleading Graphs](http://dpcdsb-gains.wikispaces.com/file/view/Worst+Graphs+Ever.pdf)
+- <cite>[Most Misleading Graphs]</cite>
   for an interesting set of graphs.
 
 - <cite>[How to Lie with Statistics][amazon-1]</cite>
   at <span class="vcard org fn">Amazon</span>
   for a humorous approach.
-  ![.](http://www.assoc-amazon.com/e/ir?t=themet-20&l=as2&o=1&a=0393310728&camp=217145&creative=399369)
 
-[amazon-1]: http://www.amazon.com/gp/product/0393310728/ref=as_li_ss_tl?ie=UTF8&tag=themet-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0393310728
+[amazon-1]: http://www.amazon.com/gp/product/0393310728
 [wiki-stats]: http://en.wikipedia.org/wiki/Misuse_of_statistics
+[Most Misleading Graphs]: https://web.archive.org/web/20170829084921/http://dpcdsb-gains.wikispaces.com/file/view/Worst+Graphs+Ever.pdf

@@ -1,7 +1,8 @@
 ---
-author: The Metaist
-tags: [meme, math, literature]
+published: "2009-11-12T00:00:00Z"
+updated: "2023-11-28T17:09:10Z"
 title: Zombies in Math and Literature
+tags: ["meme", "math", "literature"]
 ---
 
 ## Definition
@@ -16,13 +17,11 @@ corpse. Also known as the "un-dead."
 While zombies are not as popular as brains, the former are increasingly the
 subject of discussion. For example, the recent film
 [Zombieland](http://www.imdb.com/title/tt1156398/) and the video game
-[Left 4 Dead](http://www.amazon.com/gp/product/B001EHD9GA?ie=UTF8&tag=themet-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B001EHD9GA)
+[Left 4 Dead](http://www.amazon.com/gp/product/B001EHD9GA)
 both feature zombies.
 Various [defenses](http://www.flickr.com/photos/samsmith/243104896/sizes/l/) and
-[survival guides](http://www.amazon.com/gp/product/1400049628?ie=UTF8&tag=themet-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1400049628)
+[survival guides](http://www.amazon.com/gp/product/1400049628)
 exist to help you deal with potential zombie attacks.
-![.](http://www.assoc-amazon.com/e/ir?t=themet-20&l=as2&o=1&a=B001EHD9GA)
-![.](http://www.assoc-amazon.com/e/ir?t=themet-20&l=as2&o=1&a=1400049628)
 
 </div>
 
@@ -44,12 +43,14 @@ However, the emergence of zombies in non-entertainment fields is interesting. Da
 
 ## See Also
 
-- <cite>[When Zombies Attack!: Mathematical Modelling of an Outbreak of Zombie Infection](http://www.mathstat.uottawa.ca/~rsmith/Zombies.pdf)</cite>
+- <cite>[When Zombies Attack!: Mathematical Modelling of an Outbreak of Zombie Infection](https://web.archive.org/web/20101231214804/https://mysite.science.uottawa.ca/rsmith43/Zombies.pdf)</cite>
   (via [Schneier](http://www.schneier.com/blog/archives/2009/08/modeling_zombie.html))
 
-- <cite>[Pride and Prejudice and Zombies](http://www.amazon.com/gp/product/1594743347?ie=UTF8&tag=themet-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1594743347)</cite>
-  ![.](http://www.assoc-amazon.com/e/ir?t=themet-20&l=as2&o=1&a=1594743347)
+- <cite>[Pride and Prejudice and Zombies](http://www.amazon.com/gp/product/1594743347)</cite>
+- <cite>[Sense and Sensibility and Sea Monsters](http://www.amazon.com/gp/product/1594744424)</cite> <small>(not about zombies, but related)</small>
 
-- <cite>[Sense and Sensibility and Sea Monsters](http://www.amazon.com/gp/product/1594744424?ie=UTF8&tag=themet-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1594744424)</cite>
-  <small>(not about zombies, but related)</small>
-  ![.](http://www.assoc-amazon.com/e/ir?t=themet-20&l=as2&o=1&a=1594744424)
+## Updates
+
+### <span class="rel-date" title="2023-11-28T17:09:10Z">2023-11-28</span>
+
+- Updated broken links.

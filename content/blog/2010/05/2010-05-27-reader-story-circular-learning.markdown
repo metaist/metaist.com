@@ -31,8 +31,6 @@ how to use them.
 </figcaption>
 </figure><!--more-->
 
-[fig-1-link]: http://www.images-graphics-pics.com/signs/books/dummies/cover.asp?pic=pointing&title=Reading+Skills!&text=Basic+Reading&text3=Learn+to+read+manuals+and+other+books+like+this!&text2=Now+you+can+read+this+and+other+books!&book=Humans&tag=2nd&time=1109
-
 ## Story
 
 Imagine you are told you have to use a new internal learning management system
@@ -61,4 +59,4 @@ have you had with trying to explain the issues with circular reasoning?
 
 ### <span class="rel-date" title="2010-06-18T18:43:18-04:00">2010-06-18</span>
 
-- Replaced the [txt2pic][fig-1-link] image with a hand-drawn one.
+- Replaced the `txt2pic` image with a hand-drawn one.

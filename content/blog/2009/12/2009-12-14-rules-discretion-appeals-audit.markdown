@@ -36,7 +36,7 @@ as an example of an unbalanced policy gone awry.
 
 Zero-discretion policies stem from the need to avoid inappropriate
 discrimination, that is
-[to be "fair"]({{BLOG_URL}}/2009/11/fairness-equity-equality-and-relative.html).
+[to be "fair"](/blog/2009/11/fairness-equity-equality-and-relative.html).
 To that end, no discrimination&mdash;no matter how warranted&mdash;must be
 allowed. You know you're dealing with a zero-discretion policy when the enforcer
 of the policy agrees with you, but "those are the rules, I can't do anything

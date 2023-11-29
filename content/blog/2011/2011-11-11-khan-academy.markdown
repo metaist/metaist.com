@@ -71,5 +71,5 @@ whether or not drills are the most effective learning tool. My take:
 - <cite>[The Importance of Numeracy][meta-1]</cite> for our discussion
   on numeracy.
 
-[wired]: http://www.wired.com/magazine/2011/07/ff_khan/all/1
-[meta-1]: {{BLOG_URL}}/2009/11/importance-of-numeracy.html
+[wired]: https://web.archive.org/web/20111111232316/http://www.wired.com/magazine/2011/07/ff_khan/all/1
+[meta-1]: /blog/2009/11/importance-of-numeracy.html

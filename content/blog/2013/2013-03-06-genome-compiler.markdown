@@ -1,8 +1,9 @@
 ---
-author: The Metaist
-tags: [biology, software]
+published: "2013-03-06T00:00:00Z"
+updated: "2023-11-28T17:09:10Z"
 title: "Genome Compiler"
-video: F8qcDQaY8Mw
+tags: ["biology", "software"]
+video: "F8qcDQaY8Mw"
 ---
 
 ## Summary
@@ -116,10 +117,16 @@ computing, but with far-reaching consequences for life on the planet.
 - See <cite>[Glowing Plants: Natural Lighting with no Electricity][kick-1]</cite>
   for the Kickstarter project to create glowing plants using Genome Compiler.
 
-[genome-1]: http://www.genomecompiler.com/download-page/
+[genome-1]: https://web.archive.org/web/20130305123624/http://www.genomecompiler.com/download-page/
 [linked-1]: http://www.linkedin.com/pub/omri-amirav-drory/27/727/505
 [mit-1]: http://scratch.mit.edu/
 [wiki-2]: http://en.wikipedia.org/wiki/Computation
 [wiki-3]: http://en.wikipedia.org/wiki/Operating_system
 [phys-1]: http://phys.org/news/2013-03-cicada-wing-bacteria-contact-video.html
 [kick-1]: http://www.kickstarter.com/projects/antonyevans/glowing-plants-natural-lighting-with-no-electricit
+
+## Updates
+
+### <span class="rel-date" title="2023-11-28T17:09:10Z">2023-11-28</span>
+
+- Updated broken links.

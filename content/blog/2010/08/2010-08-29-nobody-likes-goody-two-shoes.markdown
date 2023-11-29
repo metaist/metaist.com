@@ -36,7 +36,7 @@ Thanks for the offer, but I think I'll go [barefoot][meta-shoes].
 
 [fig-1]: {{thumbnail}}
 [fig-1-link]: http://www.flickr.com/photos/24578558@N03/5085150612/
-[meta-shoes]: {{BLOG_URL}}/2010/02/shoes-gait.html
+[meta-shoes]: /blog/2010/02/shoes-gait.html
 
 ## Commentary
 

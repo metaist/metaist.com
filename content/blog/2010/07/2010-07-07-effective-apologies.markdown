@@ -31,7 +31,7 @@ Sorry, Frankenapple. At least you're alive.
 </figure><!--more-->
 
 [fig-1]: {{thumbnail}}
-[fig-1-link]: http://www.flickr.com/photos/21560098@N06/4260085365/
+[fig-1-link]: https://web.archive.org/web/20100128033535/https://www.flickr.com/photos/21560098@N06/4260085365/
 
 ## Commentary
 

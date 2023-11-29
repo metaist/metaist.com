@@ -63,6 +63,6 @@ future participants will have to doubt the veracity of the claim
   to make predictions about future political behavior.
 
 [link-1]: http://www.schneier.com/blog/archives/2012/04/amazing_round_o.html
-[link-2]: http://www.tutor2u.net/blog/index.php/economics/comments/game-show-game-theory
-[meta-1]: {{BLOG_URL}}/2010/08/prisoners-dilemma.html
+[link-2]: https://web.archive.org/web/20120531075226/https://www.tutor2u.net/blog/index.php/economics/comments/game-show-game-theory
+[meta-1]: /blog/2010/08/prisoners-dilemma.html
 [link-3]: http://www.predictioneersgame.com/

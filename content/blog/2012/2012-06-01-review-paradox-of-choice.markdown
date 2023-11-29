@@ -36,7 +36,7 @@ up choosing.
 
 <figure markdown="1">
 
-![Choice]({{IMG_URL}}/2012-06-01-choice.jpg)
+![Choice](/static/img/2012-06-01-choice.jpg)
 
 <figcaption markdown="1">
 
@@ -72,6 +72,6 @@ It's almost as if for maximizers
   at <span class="vcard org fn">Wikipedia</span>
   for a related concept.
 
-[amazon]: http://www.amazon.com/gp/product/0060005696/ref=as_li_ss_tl?ie=UTF8&tag=themet-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0060005696
+[amazon]: http://www.amazon.com/gp/product/0060005696
 [wiki-1]: http://en.wikipedia.org/wiki/Satisficing
 [wiki-2]: http://en.wikipedia.org/wiki/Buyers_remorse

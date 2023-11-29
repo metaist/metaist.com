@@ -1,7 +1,8 @@
 ---
-author: The Metaist
-tags: math
-title: The Importance of Numeracy
+published: "2009-11-25T00:00:00Z"
+updated: "2023-11-28T17:09:10Z"
+title: "The Importance of Numeracy"
+tags: ["math"]
 ---
 
 ## Definition
@@ -36,12 +37,12 @@ effectiveness of their policy choices.
 ## Commentary
 
 In a country of over $12 trillion dollars deficit (and
-[counting](http://www.brillig.com/debt_clock/)), about 80% of people
+[counting](https://www.usdebtclock.org/)), about 80% of people
 [cannot conceive of the magnitude of a trillion](http://econ4u.org/blog/2009/05/01/poll-how-many-millions-are-in-a-trillion/).
 Very small quantities are equally confusing, because people are unaccustomed to
 seeing them in their everyday lives. However, thanks to
 [wonderful videos](http://www.mint.com/blog/trends/one-trillion-dollars-video/)
-and [interactive comparisons](http://learn.genetics.utah.edu/content/begin/cells/scale/)
+and [interactive comparisons](https://learn.genetics.utah.edu/content/cells/scale/)
 you can get a better sense of how
 [orders of magnitude](http://en.wikipedia.org/wiki/Order_of_magnitude) work.
 
@@ -79,3 +80,7 @@ _More on this later._
 - See <cite>[Poll: How many millions are in a trillion?](http://vimeo.com/4428480)</cite>
   for a poll by <span class="vcard org fn">Econ4U</span> that shows that
   people don't know how many millions are in a trillion.
+
+### <span class="rel-date" title="2023-11-28T17:09:10Z">2023-11-28</span>
+
+- Updated broken links.

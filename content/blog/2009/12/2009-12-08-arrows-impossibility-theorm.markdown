@@ -14,13 +14,13 @@ little break from paradoxes after this one._
 <div class="entry-summary" markdown="1">
 
 In 1951, Kenneth Arrow demonstrated that it is not possible to have a
-"[fair]({{BLOG_URL}}/2009/11/fairness-equity-equality-and-relative.html)" voting
+"[fair](/blog/2009/11/fairness-equity-equality-and-relative.html)" voting
 system that satisfied the following three criteria (imagine the group is voting
 on which fruit to eat: apples or pears):
 
 1. If every voter prefers apples to pears, then the group prefers apples to
    pears. <small>(Sound familiar? It's called
-   [Pareto efficiency]({{BLOG_URL}}/2009/11/pareto-efficiency.html).)</small>
+   [Pareto efficiency](/blog/2009/11/pareto-efficiency.html).)</small>
 
 2. If every voter prefers apples to pears, then even if bananas are added to
    the set of options, the group will still prefer apples to pears.

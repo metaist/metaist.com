@@ -54,7 +54,7 @@ can update this post appropriately.
 
 ## See Also
 
-- <cite>[Olympic Science: The Science of Curling](http://www.foxnews.com/scitech/2010/02/12/olympic-science-science-curling/)</cite>
+- <cite>[Olympic Science: The Science of Curling](https://web.archive.org/web/20100215131454/http://www.foxnews.com/scitech/2010/02/12/olympic-science-science-curling/)</cite>
   at <span class="vcard org fn">Fox News</span>
   for a discussion of curling.
 

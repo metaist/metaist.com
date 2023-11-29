@@ -18,12 +18,11 @@ mistakes&mdash;particularly in judging our future happiness.
 <figure>
 <iframe width="560" height="340" src="http://www.youtube.com/embed/LTO_dZUvbJA?rel=0" allowfullscreen></iframe>
 <figcaption>
-  <address markdown="1">
+<address markdown="1">
 
-    (Video: [YouTube](http://www.youtube.com/watch?v=LTO_dZUvbJA)
-    via [TED](http://www.ted.com/talks/lang/eng/dan_gilbert_asks_why_are_we_happy.html))
+(Video: [YouTube](http://www.youtube.com/watch?v=LTO_dZUvbJA) via TED)
 
-  </address>
+</address>
 </figcaption>
 </figure><!--more-->
 
@@ -63,4 +62,4 @@ Ever catch yourself synthesizing happiness?
   at <span class="vcard org fn">GetRichSlowly</span>. I apologize for the
   error.
 
-[grs-1]: http://www.getrichslowly.org/blog/2008/12/21/reader-survey-which-personal-finance-books-should-i-review/
+[grs-1]: https://web.archive.org/web/20091026021840/http://www.getrichslowly.org/blog/2008/12/21/reader-survey-which-personal-finance-books-should-i-review/

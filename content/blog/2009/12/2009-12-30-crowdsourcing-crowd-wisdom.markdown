@@ -32,7 +32,8 @@ Crowdsourcing is a popular concept that harnesses the
 [wisdom of crowds](http://en.wikipedia.org/wiki/Wisdom_of_Crowds) to solve a
 problem. This communal wisdom is especially popular online where we vote, rate,
 and assess content. James Surowiecki published a book called
-[The Wisdom of Crowds](http://www.amazon.com/gp/product/0385721706?ie=UTF8&tag=themet-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0385721706) on this subject <small>(I haven't read it)</small>. ![.](http://www.assoc-amazon.com/e/ir?t=themet-20&l=as2&o=1&a=0385721706)
+[The Wisdom of Crowds](http://www.amazon.com/gp/product/0385721706)
+on this subject <small>(I haven't read it)</small>.
 
 Many famous demonstrations involve a large audience guessing the number of
 jellybeans in a jar and having the guesses averaged. There have been interesting
@@ -42,7 +43,7 @@ and [how it could have saved us from the financial crisis](http://online.wsj.com
 
 ## Meta
 
-The answer to the [previous meta]({{BLOG_URL}}/2009/12/vending-machines-for-crows.html#meta)
+The answer to the [previous meta](/blog/2009/12/vending-machines-for-crows.html#meta)
 is **crowds**.
 
 ## See Also

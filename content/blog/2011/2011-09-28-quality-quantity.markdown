@@ -55,15 +55,14 @@ when you think about it that way.
 - <cite>[Art & Fear][amazon]</cite>
   at <span class="vcard org fn">Amazon</span>
   for a book that contains the anecdote.
-  ![.](http://www.assoc-amazon.com/e/ir?t=themet-20&l=as2&o=1&a=0961454733&camp=217145&creative=399369)
 
 - <cite>[Quantity Always Trumps Quality][1]</cite>
   at <span class="vcard org fn">Coding Horror</span>
   by <span class="vcard fn">Jeff Atwood</span>
   for a discussion of how this principle applies to software.
 
-- <cite>[Pretotyping]({{BLOG_URL}}/2011/09/pretotyping.html)</cite>
+- <cite>[Pretotyping](/blog/2011/09/pretotyping.html)</cite>
   for our discussion of the broader trend of testing assumptions.
 
-[1]: http://www.codinghorror.com/blog/2008/08/quantity-always-trumps-quality.html
-[amazon]: http://www.amazon.com/gp/product/0961454733/ref=as_li_ss_tl?ie=UTF8&tag=themet-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0961454733
+[1]: https://web.archive.org/web/20110921061803/www.codinghorror.com/blog/2008/08/quantity-always-trumps-quality.html
+[amazon]: http://www.amazon.com/gp/product/0961454733

@@ -1,7 +1,8 @@
 ---
-author: The Metaist
-tags: [review, economics]
+published: "2009-12-09T00:00:00Z"
+updated: "2023-11-28T17:09:10Z"
 title: "Review: Economics in One Lesson"
+tags: ["review", "economics"]
 ---
 
 <figure style="float: right; width: 7em; margin: 0 0 1em 0;" markdown="1">
@@ -16,14 +17,14 @@ title: "Review: Economics in One Lesson"
 </figcaption>
 </figure>
 
-[amazon]: http://www.amazon.com/gp/product/0517548232?ie=UTF8&tag=themet-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0517548232
+[amazon]: http://www.amazon.com/gp/product/0517548232
 
 ## Review
 
 [Economics in One Lesson][amazon] ([PDF version][1]) is an excellent primer to
 economic thought. If I didn't know that it was published in 1940's, I could
 easily have assumed that it was a pamphlet discussing the modern financial,
-automotive, music, or newspaper industries. ![.](http://www.assoc-amazon.com/e/ir?t=themet-20&l=as2&o=1&a=0517548232)
+automotive, music, or newspaper industries.
 
 The main purpose of the book is expose common economic fallacies that
 "are at last so prevalent that they have almost become a new orthodoxy"
@@ -44,7 +45,7 @@ as explained by [Frédéric Bastiat](https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%
 
 <figure markdown="1">
 
-![Broken glass]({{IMG_URL}}/2009-12-09-broken-window.jpg)
+![Broken glass](/static/img/2009-12-09-broken-window.jpg)
 
 <figcaption>
   <address markdown="1">
@@ -77,8 +78,14 @@ many ways of obscuring the destruction to make it more palatable to the masses,
 and Hazlitt covers many such fallacies in eminently accessibly prose.
 
 _The reader is urged to read at least the first two chapters of
-[the book](http://www.fee.org/pdf/books/Economics_in_one_lesson.pdf) because
+[the book][1] because
 many future posts will depend on understanding the "Fundamental Lesson of
 Economics" and it's applications._
 
-[1]: http://www.fee.org/pdf/books/Economics_in_one_lesson.pdf
+[1]: https://web.archive.org/web/20090329165134/https://fee.org/pdf/books/Economics_in_one_lesson.pdf
+
+## Updates
+
+### <span class="rel-date" title="2023-11-28T17:09:10Z">2023-11-28</span>
+
+- Updated broken links.

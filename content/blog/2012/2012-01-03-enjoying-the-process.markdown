@@ -50,6 +50,6 @@ to focus on passion&mdash;which actually produced higher profits.
 - <cite>[Patient Problem Solving][meta-1]</cite>
   for our discussion about focusing on the process of learning math.
 
-[meta-1]: {{BLOG_URL}}/2011/11/patient-problem-solving.html
+[meta-1]: /blog/2011/11/patient-problem-solving.html
 [hbr-1]: http://blogs.hbr.org/cs/2011/10/steve_jobs_solved_the_innovato.html
 [wiki-1]: http://en.wikipedia.org/wiki/Disruptive_technology

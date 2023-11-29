@@ -44,8 +44,8 @@ pointing skills and to communicate.
 ## Commentary
 
 Facilitated communication may be related to the
-[Ideomotor Effect]({{BLOG_URL}}/2010/06/ideomotor-effect.html) or the
-[Clever Hans Effect]({{BLOG_URL}}/2010/01/clever-hans-effect.html).
+[Ideomotor Effect](/blog/2010/06/ideomotor-effect.html) or the
+[Clever Hans Effect](/blog/2010/01/clever-hans-effect.html).
 This would go a long way to explaining the facilitator's denial of interference
 as well as the subject's inability to answer questions to which the facilitator
 does not know the answer (among other anomalies in this form of communication).
@@ -71,4 +71,4 @@ does not know the answer (among other anomalies in this form of communication).
 - Updated link to <cite>Prisoners of Silence</cite>.
 
 [1]: http://www.youtube.com/watch?v=HXw8Ksvyt5Y
-[2]: http://www.dbskeptic.com/2009/12/06/facilitated-communication-and-rom-houben/
+[2]: https://web.archive.org/web/20131015051032/http://www.dbskeptic.com/2009/12/06/facilitated-communication-and-rom-houben/

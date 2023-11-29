@@ -54,4 +54,4 @@ _More on this later._
   at <span class="vcard org fn">Digital Bits Skeptic</span>
   for a longer discussion.
 
-[1]: http://www.dbskeptic.com/2009/06/12/the-ideomotor-effect/
+[1]: https://web.archive.org/web/20110526090735/http://www.dbskeptic.com/2009/06/12/the-ideomotor-effect/

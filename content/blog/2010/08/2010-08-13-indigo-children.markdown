@@ -63,7 +63,7 @@ Reader **Matthew** suggests that perhaps a belief in indigo children may be rela
 [Forer effect][meta-forer] and [confirmation bias][wiki-confbias]. What do you
 think?
 
-[meta-forer]: {{BLOG_URL}}/2010/08/forer-effect.html
+[meta-forer]: /blog/2010/08/forer-effect.html
 [wiki-confbias]: http://en.wikipedia.org/wiki/Confirmation_bias
 
 ## See Also

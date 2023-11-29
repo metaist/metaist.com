@@ -1,12 +1,12 @@
 ---
-published: 2023-09-04T21:08:52Z
-updated: 2023-09-04T21:08:52Z
+published: "2023-09-04T21:08:52Z"
+updated: "2023-11-28T17:09:10Z"
 title: "Non-Consecutive Mappiq He"
 tags: ["Torah", "concordance"]
 description: "What is the maximum number of mappiq he in any one verse?"
 ---
 
-_Previously: [Consecutive Mappiq He]({{BLOG_URL}}/2023/09/consecutive-mappiq-he.html)_
+_Previously: [Consecutive Mappiq He](/blog/2023/09/consecutive-mappiq-he.html)_
 
 A natural follow-up question to yesterday's post is: What is the maximum number of mappiq he in any one verse?
 
@@ -61,8 +61,8 @@ for path in sorted(Path(".").glob("*.xml")):
 | 4     | [Joshua 10:37](https://www.sefaria.org/Joshua.10.37)           |
 | 5     | [Joshua 10:39](https://www.sefaria.org/Joshua.10.39)           |
 | 4     | [Joshua 19:47](https://www.sefaria.org/Joshua.19.47)           |
-| 4     | [Kings_2 4:27](https://www.sefaria.org/Kings_2.4.27)           |
-| 4     | [Kings_2 8:5](https://www.sefaria.org/Kings_2.8.5)             |
+| 4     | [Kings_2 4:27](https://www.sefaria.org/II_Kings.4.27)          |
+| 4     | [Kings_2 8:5](https://www.sefaria.org/II_Kings.8.5)            |
 | 5     | [Lamentations 1:2](https://www.sefaria.org/Lamentations.1.2)   |
 | 5     | [Leviticus 2:2](https://www.sefaria.org/Leviticus.2.2)         |
 | 4     | [Leviticus 2:16](https://www.sefaria.org/Leviticus.2.16)       |
@@ -78,7 +78,13 @@ for path in sorted(Path(".").glob("*.xml")):
 | 5     | [Numbers 30:9](https://www.sefaria.org/Numbers.30.9)           |
 | 4     | [Numbers 30:12](https://www.sefaria.org/Numbers.30.12)         |
 | 4     | [Numbers 30:13](https://www.sefaria.org/Numbers.30.13)         |
-| 4     | [Samuel_1 1:23](https://www.sefaria.org/Samuel_1.1.23)         |
+| 4     | [I_Samuel 1:23](https://www.sefaria.org/I_Samuel.1.23)         |
 | 4     | [Zechariah 4:2](https://www.sefaria.org/Zechariah.4.2)         |
 
 Lots of fours and fives, but there are **six** in [Numbers 5:27](https://www.sefaria.org/Numbers.5.27).
+
+## Updates
+
+### <span class="rel-date" title="2023-11-28T17:09:10Z">2023-11-28</span>
+
+- Updated broken links.

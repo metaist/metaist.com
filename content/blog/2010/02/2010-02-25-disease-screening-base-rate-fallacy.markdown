@@ -108,13 +108,13 @@ higher) or to improve the test by reducing its false-positive rate.
 
 ## See Also
 
-- <cite>[Screening for disease and dishonesty](http://understandinguncertainty.org/node/238)</cite>
+- <cite>[Screening for disease and dishonesty](https://web.archive.org/web/20100211135919/https://understandinguncertainty.org/node/238)</cite>
   at <span class="vcard org fn">Understanding Uncertainty</span>
   for an excellent interactive representation of base rates.
 
-- <cite>[Screening for Breast Cancer](http://www.uspreventiveservicestaskforce.org/uspstf/uspsbrca.htm)</cite>
+- <cite>[Screening for Breast Cancer](https://web.archive.org/web/20100820220942/https://uspreventiveservicestaskforce.org/uspstf/uspsbrca.htm)</cite>
   at the <span class="vcard org fn">U.S. Preventive Services Task Force</span>
   for a summary of its recommendations.
 
-- <cite>[The base rate fallacy reconsidered](http://www.bbsonline.org/Preprints/OldArchive/bbs.koehler.html)</cite>
+- <cite>[The base rate fallacy reconsidered](https://web.archive.org/web/20090608214008/http://www.bbsonline.org/Preprints/OldArchive/bbs.koehler.html)</cite>
   for a counter-argument about base rate neglect.

@@ -44,8 +44,8 @@ confidence and skill.
   and <cite>[Patient Problem Solving][meta-2]</cite>
   for our discussion of similar topics.
 
-[meta-1]: {{BLOG_URL}}/2011/09/boredom-distraction.html
-[meta-2]: {{BLOG_URL}}/2011/11/patient-problem-solving.html
+[meta-1]: /blog/2011/09/boredom-distraction.html
+[meta-2]: /blog/2011/11/patient-problem-solving.html
 [wiki-1]: http://en.wikipedia.org/wiki/Zone_of_proximal_development
 [wiki-2]: http://en.wikipedia.org/wiki/Boredom
 [wiki-3]: http://en.wikipedia.org/wiki/Anxiety

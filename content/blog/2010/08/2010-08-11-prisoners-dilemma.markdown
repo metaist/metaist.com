@@ -170,10 +170,8 @@ end?" My other classmates asked me "But what if they're open?"
 they are going to abide by the agreement, and from now on, it will just be us
 nuking each other." (I choose the Cold War analogy because we had all watched
 [Thirteen Days][amazon-13-days] as part of a previous assignment.)
-![.][amazon-13-days-i]
 
-[amazon-13-days]: http://www.amazon.com/Thirteen-Days-Infinifilm-Kevin-Costner/dp/B00005J760?ie=UTF8&tag=themet-20&link_code=btl&camp=213689&creative=392969
-[amazon-13-days-i]: http://www.assoc-amazon.com/e/ir?t=themet-20&l=btl&camp=213689&creative=392969&o=1&a=B00005J760
+[amazon-13-days]: http://www.amazon.com/Thirteen-Days-Infinifilm-Kevin-Costner/dp/B00005J760
 
 The other team was closed and they were upset. Since negotiations had to occur, Bob
 tried to present the situation as "nothing personal"; that our group was
@@ -276,4 +274,4 @@ than the other team. Here is the final score:
 - <cite>[Pareto Efficiency][meta-pareto]</cite>
   for the game-theoretic concept of optimizing gains.
 
-[meta-pareto]: {{BLOG_URL}}/2009/11/pareto-efficiency.html
+[meta-pareto]: /blog/2009/11/pareto-efficiency.html

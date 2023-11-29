@@ -53,7 +53,7 @@ participation of the spine in the placebo effect.
   for a brief discussion of the _real_ effects that placebos have
   (i.e. generating chemicals in our bodies).
 
-- <cite>[The Dilute Homeopathy]({{BLOG_URL}}/2010/01/dilute-homeopathy.html)</cite>
+- <cite>[The Dilute Homeopathy](/blog/2010/01/dilute-homeopathy.html)</cite>
   for an example of a very expensive placebo.
 
 [1]: http://www.wired.com/medtech/drugs/magazine/17-09/ff_placebo_effect?currentPage=all

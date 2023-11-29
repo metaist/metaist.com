@@ -31,7 +31,7 @@ The study was the latest product of the
 (NCCAM)&mdash;an organization that uses taxpayer money to design excellent
 studies to demonstrate the worthlessness of
 [alternative medicines](http://en.wikipedia.org/wiki/Alternative_medicine)
-(such as [homeopathy]({{BLOG_URL}}/2010/01/dilute-homeopathy.html)).
+(such as [homeopathy](/blog/2010/01/dilute-homeopathy.html)).
 
 This particular study is impressive:
 

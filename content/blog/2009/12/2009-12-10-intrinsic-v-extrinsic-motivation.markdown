@@ -1,7 +1,8 @@
 ---
-author: The Metaist
-tags: [psychology, business]
-title: Intrinsic & Extrinsic Motivation
+published: "2009-12-10T00:00:00Z"
+updated: "2023-11-28T17:09:10Z"
+title: "Intrinsic & Extrinsic Motivation"
+tags: ["psychology", "business"]
 ---
 
 ## Summary
@@ -20,10 +21,11 @@ business does."
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/rrkrvAUbU9Y?rel=0" allowfullscreen></iframe>
 <figcaption>
-  <address markdown="1">
+<address markdown="1">
 
-(Video: [YouTube](http://www.youtube.com/watch?v=rrkrvAUbU9Y) via [TED](http://www.ted.com/talks/dan_pink_on_motivation.html))</address>
+(Video: [YouTube](http://www.youtube.com/watch?v=rrkrvAUbU9Y) via TED)
 
+</address>
 </figcaption>
 </figure><!--more-->
 
@@ -35,7 +37,7 @@ such as your level of effort, whereas extrinsic motivators are outside of your
 control: rewards, punishments, etc.
 
 Pink quotes from a 2005 commissioned by the Federal Reserve of Boston called
-"<cite>[Large Stakes and Big Mistakes](http://www.bos.frb.org/economic/wp/wp2005/wp0511.pdf)</cite>".
+"<cite>[Large Stakes and Big Mistakes](https://web.archive.org/web/20100410083618/http://www.bos.frb.org/economic/wp/wp2005/wp0511.pdf)</cite>".
 Some random excerpts (emphasis added):
 
 - "With some important exceptions, we observed that **high reward** levels can
@@ -73,7 +75,6 @@ How do you cater to people's intrinsic motivations?
 - See <cite>[Drive: The Surprising Truth About What Motivates Us][amazon-drive]</cite>
   at <span class="vcard org fn">Amazon</span>
   for <span class="vcard fn">Dan Pink</span>'s book on the subject.
-  ![.](http://www.assoc-amazon.com/e/ir?t=themet-20&l=as2&o=1&a=1594484805&camp=217145&creative=399369)
 
 - See <cite>[RSA Animate - Drive: The surprising truth about what motivates us](http://www.youtube.com/watch?v=u6XAPnuFjJc)</cite>
   at <span class="vcard org fn">YouTube</span>
@@ -84,7 +85,11 @@ How do you cater to people's intrinsic motivations?
 - See <cite>[Review: Drive][meta-3]</cite>
   for our review of [the book][amazon-drive].
 
-[amazon-drive]: http://www.amazon.com/gp/product/1594484805/ref=as_li_ss_tl?ie=UTF8&tag=themet-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=1594484805
-[meta-1]: {{BLOG_URL}}/2009/11/maslows-hierarchy-of-needs.html
-[meta-2]: {{BLOG_URL}}/2009/11/psychological-barriers.html
-[meta-3]: {{BLOG_URL}}/2013/03/review-drive.html
+[amazon-drive]: http://www.amazon.com/gp/product/1594484805
+[meta-1]: /blog/2009/11/maslows-hierarchy-of-needs.html
+[meta-2]: /blog/2009/11/psychological-barriers.html
+[meta-3]: /blog/2013/03/review-drive.html
+
+### <span class="rel-date" title="2023-11-28T17:09:10Z">2023-11-28</span>
+
+- Updated broken links.

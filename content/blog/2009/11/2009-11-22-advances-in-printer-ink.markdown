@@ -1,7 +1,8 @@
 ---
-author: The Metaist
-tags: technology
-title: Advances in Printer Ink
+published: "2009-11-22T00:00:00Z"
+updated: "2023-11-28T17:09:10Z"
+title: "Advances in Printer Ink"
+tags: ["technology"]
 ---
 
 ## Summary
@@ -28,7 +29,7 @@ A recent IEEE Spectrum featured an article about an
 ## Commentary
 
 As consumers, we're familiar with the
-[high price of ink](http://www.pcworld.com/article/112199/why_do_ink_cartridges_cost_so_much.html).
+[high price of ink](https://web.archive.org/web/20091124070724/https://www.pcworld.com/article/112199/why_do_ink_cartridges_cost_so_much.html).
 If you think [gasoline is expensive](http://auto.howstuffworks.com/fuel-efficiency/fuel-consumption/gas-price.htm),
 how's [$8,000 a gallon](http://www.ebusinessforum.com/index.asp?doc_id=7159&layout=rich_story)
 for HP ink? And it doesn't help that many printers have been
@@ -46,12 +47,11 @@ The most recent attempt at overcoming printer ink pricing comes from a
 <small>(for Zero-ink)</small> that has been working for decades on creating
 colorless, ink-less paper that uses localized heat to change the color at each
 point. Several companies have cameras that also print 2x3 inch photos using
-ZINK: the
-[Polaroid PoGo](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=https%3A%2F%2Fwww.amazon.com%2Fs%3Fie%3DUTF8%26x%3D0%26ref_%3Dnb%255Fss%255F4%255F9%26y%3D0%26field-keywords%3Dpolaroid%2520pogo%26url%3Dsearch-alias%253Daps%26sprefix%3Dpolaroid%2520&tag=themet-20&linkCode=ur2&camp=1789&creative=390957),
-[Dell Wasabi](http://www.amazon.com/gp/product/B002LOC3PS?ie=UTF8&tag=themet-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B002LOC3PS),
-and the [TOMY xiao](http://www.engadget.com/2008/11/06/tomy-xiao-digital-camera-has-built-in-zink-printer-the-spirit-o/).
-![.](https://www.assoc-amazon.com/e/ir?t=themet-20&l=ur2&o=1)
-![.](http://www.assoc-amazon.com/e/ir?t=themet-20&l=as2&o=1&a=B002LOC3PS)
+ZINK: the [Polaroid PoGo], [Dell Wasabi], and the [TOMY xiao].
+
+[Dell Wasabi]: http://www.amazon.com/gp/product/B002LOC3PS
+[Polaroid PoGo]: https://www.amazon.com/Polaroid-PoGo-Instant-Mobile-Printer/dp/B001ZSDC1A
+[TOMY xiao]: https://web.archive.org/web/20201127152454/https://www.engadget.com/2008-11-06-tomy-xiao-digital-camera-has-built-in-zink-printer-the-spirit-o.html
 
 It's fascinating to see the old fallen giants Kodak and Polaroid wake from their
 slumber and try to compete in their former markets adapting to the digital
@@ -65,3 +65,7 @@ disruption in the printer market similar to that of the '80s.
 - Updated link about Kodak's All-in-One printers.
 
 [nyt-1]: http://www.nytimes.com/2007/05/17/technology/17pogue.html?_r=0&ei=5090&en=0d0fc2e6a84ceb30&ex=1337054400&partner=rssuserland&emc=rss&pagewanted=all
+
+### <span class="rel-date" title="2023-11-28T17:09:10Z">2023-11-28</span>
+
+- Updated broken links.

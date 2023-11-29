@@ -91,7 +91,7 @@ for providing a high resolution version of the Atlantic salmon fMRI.
   by <span class="vcard fn">David Howell</span>
   for a lengthy discussion on the subject.
 
-- <cite>[The Importance of Numeracy]({{BLOG_URL}}/2009/11/importance-of-numeracy.html)</cite>
+- <cite>[The Importance of Numeracy](/blog/2009/11/importance-of-numeracy.html)</cite>
 
 [1]: http://prefrontal.org/blog/2009/06/human-brain-mapping-2009-presentations/
 [2]: http://www.uvm.edu/~dhowell/StatPages/More_Stuff/RepMeasMultComp/RepMeasMultComp.html

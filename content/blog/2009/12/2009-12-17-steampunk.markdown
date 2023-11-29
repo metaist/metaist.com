@@ -32,7 +32,7 @@ modern context.
 ## Commentary
 
 While I've never read any of the
-[zombie-enhanced literature]({{BLOG_URL}}/2009/11/zombies-in-math-and-literature.html),
+[zombie-enhanced literature](/blog/2009/11/zombies-in-math-and-literature.html),
 I do appreciate the resurgence of interest in 19th-century, albeit with a darker
 twist.
 

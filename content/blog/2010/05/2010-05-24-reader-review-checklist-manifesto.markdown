@@ -11,7 +11,6 @@ title: "Reader Review: The Checklist Manifesto"
 <figure class="cover" markdown="1">
 
 [![Checklist Manifesto]({{thumbnail}})][amazon]
-![.](http://www.assoc-amazon.com/e/ir?t=themet-20&l=btl&camp=213689&creative=392969&o=1&a=0805091742)
 
 <figcaption>
   <address markdown="1">
@@ -27,7 +26,7 @@ _This post was submitted by reader **[Josh Vogel][josh-vogel]**._
 
 [meta-email]: mailto:metaist@metaist.com?subject=[Metaist]%20Review
 
-[amazon]: http://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0805091742?ie=UTF8&tag=themet-20&link_code=btl&camp=213689&creative=392969
+[amazon]: http://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0805091742
 
 ## Review
 

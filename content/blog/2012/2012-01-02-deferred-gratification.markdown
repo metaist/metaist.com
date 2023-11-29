@@ -1,7 +1,8 @@
 ---
-author: The Metaist
-tags: [psychology, happiness, technique]
+published: "2012-01-02T00:00:00Z"
+updated: "2023-11-28T17:09:10Z"
 title: "Deferred Gratification"
+tags: ["psychology", "happiness", "technique"]
 ---
 
 ## Summary
@@ -36,7 +37,7 @@ However, we should also note that there are many [psychological barriers][meta-1
 that need to be overcome in order to improve one's willpower. This is not a
 trivial task.
 
-[meta-1]: {{BLOG_URL}}/2009/11/psychological-barriers.html
+[meta-1]: /blog/2009/11/psychological-barriers.html
 
 ## See Also
 
@@ -63,5 +64,11 @@ trivial task.
 [wiki-1]: http://en.wikipedia.org/wiki/Deferred_gratification
 [wiki-2]: http://en.wikipedia.org/wiki/Stanford_marshmallow_experiment
 [wiki-3]: http://en.wikipedia.org/wiki/Longitudinal_study
-[1]: http://duende.uoregon.edu/~hsu/blogfiles/Shoda,Mischel,&Peake(1990).pdf
-[meta-1]: {{BLOG_URL}}/2012/12/environmental-reliability.html
+[1]: https://web.archive.org/web/20120813041347/http://duende.uoregon.edu/~hsu/blogfiles/Shoda,Mischel,&Peake(1990).pdf
+[meta-1]: /blog/2012/12/environmental-reliability.html
+
+## Updates
+
+### <span class="rel-date" title="2023-11-28T17:09:10Z">2023-11-28</span>
+
+- Updated broken links.

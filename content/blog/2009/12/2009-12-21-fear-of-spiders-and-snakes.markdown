@@ -1,7 +1,8 @@
 ---
-author: The Metaist
-tags: psychology
-title: Fear of Spiders and Snakes
+published: "2009-12-21T00:00:00Z"
+updated: "2023-11-28T17:09:10Z"
+title: "Fear of Spiders and Snakes"
+tags: ["psychology"]
 ---
 
 ## Summary
@@ -9,7 +10,7 @@ title: Fear of Spiders and Snakes
 <div class="entry-summary" markdown="1">
 
 Fear is an important part of how we make decisions. Everything from
-[selecting car seats for our children](http://www.ted.com/talks/lang/eng/steven_levitt_on_child_carseats.html)
+[selecting car seats for our children](https://web.archive.org/web/20090624004642/http://www.ted.com/talks/lang/eng/steven_levitt_on_child_carseats.html)
 to our [policy decisions](http://www.schneier.com/blog/archives/2009/11/fear_and_overre.html).
 
 </div>
@@ -29,7 +30,7 @@ to our [policy decisions](http://www.schneier.com/blog/archives/2009/11/fear_and
 ## Commentary
 
 Fear of snakes and spiders is relatively common <small>(among humans)</small>.
-And thanks to shows like [Fear Factor](http://www.nbc.com/Fear_Factor/), we can
+And thanks to shows like [Fear Factor](https://en.wikipedia.org/wiki/Fear_Factor), we can
 all watch others try to overcome these primal fears from the comfort of our
 homes.
 
@@ -52,3 +53,9 @@ is that certain types of fears are the products of
 ## Meta
 
 What steps have you taken to mitigate a fear you've had? Were you successful?
+
+## Updates
+
+### <span class="rel-date" title="2023-11-28T17:09:10Z">2023-11-28</span>
+
+- Updated broken links.

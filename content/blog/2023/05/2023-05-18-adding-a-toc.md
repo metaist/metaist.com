@@ -11,7 +11,7 @@ tags: ["trace", "markdown", "eleventy"]
 
 ## Goal
 
-To easily add a table of contents for longer posts especially [traces]({{BLOG_URL}}/tag/trace/).
+To easily add a table of contents for longer posts especially [traces](/blog/tag/trace/).
 
 ## Which library should I pick? {#pick-a-lib}
 

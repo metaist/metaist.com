@@ -6,13 +6,13 @@ title: "Review: Stop Stealing Dreams"
 
 <figure class="cover" markdown="1">
 
-[![Stop Stealing Dreams]({{thumbnail}})][squidoo]
+[![Stop Stealing Dreams]({{thumbnail}})][ssd-pdf]
 
 <figcaption markdown="1">
 
   <address markdown="1">
 
-(Image: [Seth Godin][squidoo])</address>
+(Image: [Seth Godin][ssd-pdf])</address>
 
 </figcaption>
 </figure>
@@ -21,7 +21,7 @@ title: "Review: Stop Stealing Dreams"
 
 <div class="entry-summary" markdown="1">
 
-[Seth Godin][seth-godin] recently published <cite>[Stop Stealing Dreams][squidoo]</cite>
+[Seth Godin][seth-godin] recently published <cite>[Stop Stealing Dreams][ssd-pdf]</cite>
 which discusses the origins of public education in the United States and how
 the 100-year institution no longer serves our needs. He proposes several strategies
 with which to reshape mass education.
@@ -30,7 +30,7 @@ with which to reshape mass education.
 
 <figure markdown="1">
 
-![Dreamcatcher]({{IMG_URL}}/2012-04-02-dream-catcher.jpg)
+![Dreamcatcher](/static/img/2012-04-02-dream-catcher.jpg)
 
 <figcaption markdown="1">
 
@@ -38,7 +38,7 @@ Recommended [method for avoiding dream theft][wiki-1]. [Gotta catch 'em all][wik
 
   <address markdown="1">
 
-(Photo: [Bruce McAdam](http://www.flickr.com/photos/bruce_mcadam/2267957799/) on Flickr)</address>
+(Photo: [Bruce McAdam](https://web.archive.org/web/20131213172514/http://www.flickr.com/photos/bruce_mcadam/2267957799/) on Flickr)</address>
 
 </figcaption>
 </figure><!--more-->
@@ -95,20 +95,18 @@ Format aside, I only had a few minor points of disagreement:
 
 ## See Also
 
-- <cite>[Stop Stealing Dreams][squidoo]</cite> ([PDF][ssd-pdf])
-  at <span class="vcard org fn">Squidoo</span>
+- <cite>[Stop Stealing Dreams][ssd-pdf]</cite>
   for the book by <span class="vcard org fn">Seth Godin</span>.
 
 - <cite>[Khan Academy][meta-2]</cite>
   and <cite>[Patient Problem Solving][meta-3]</cite>
   for our discussion of alternative methods for teaching mathematics.
 
-[squidoo]: http://www.squidoo.com/stop-stealing-dreams
-[ssd-pdf]: http://www.sethgodin.com/sg/docs/StopStealingDreamsSCREEN.pdf
-[seth-godin]: http://www.sethgodin.com/sg/
-[godin-2]: http://sethgodin.typepad.com/stop_stealing_dreams/2012/03/stop-stealing-dreams-the-entire-manifesto-on-the-web-cleaned-up-html-version.html#section_2
-[godin-5]: http://sethgodin.typepad.com/stop_stealing_dreams/2012/03/stop-stealing-dreams-the-entire-manifesto-on-the-web-cleaned-up-html-version.html#section_5
-[godin-106]: http://sethgodin.typepad.com/stop_stealing_dreams/2012/03/stop-stealing-dreams-the-entire-manifesto-on-the-web-cleaned-up-html-version.html#section_106
+[ssd-pdf]: /static/archive/seths.blog/wp-content/uploads/2019/05/stop-stealing-dreams6print.pdf
+[seth-godin]: https://www.sethgodin.com/
+[godin-2]: https://web.archive.org/web/20120313234812/http://sethgodin.typepad.com/stop_stealing_dreams/2012/03/stop-stealing-dreams-the-entire-manifesto-on-the-web-cleaned-up-html-version.html#section_2
+[godin-5]: https://web.archive.org/web/20120313234812/http://sethgodin.typepad.com/stop_stealing_dreams/2012/03/stop-stealing-dreams-the-entire-manifesto-on-the-web-cleaned-up-html-version.html#section_5
+[godin-106]: https://web.archive.org/web/20120313234812/http://sethgodin.typepad.com/stop_stealing_dreams/2012/03/stop-stealing-dreams-the-entire-manifesto-on-the-web-cleaned-up-html-version.html#section_106
 [wiki-1]: http://en.wikipedia.org/wiki/Dreamcatcher
 [wiki-2]: http://en.wikipedia.org/wiki/Gotta_catch_%27em_all
 [wiki-3]: http://en.wikipedia.org/wiki/Child_labor
@@ -116,6 +114,6 @@ Format aside, I only had a few minor points of disagreement:
 [wiki-5]: http://en.wikipedia.org/wiki/Rote_learning
 [wiki-6]: http://en.wikipedia.org/wiki/Malcolm_Gladwell
 [wiki-7]: http://en.wikipedia.org/wiki/Richard_Feynman
-[meta-1]: {{BLOG_URL}}/2009/11/psychological-barriers.html
-[meta-2]: {{BLOG_URL}}/2011/11/khan-academy.html
-[meta-3]: {{BLOG_URL}}/2011/11/patient-problem-solving.html
+[meta-1]: /blog/2009/11/psychological-barriers.html
+[meta-2]: /blog/2011/11/khan-academy.html
+[meta-3]: /blog/2011/11/patient-problem-solving.html

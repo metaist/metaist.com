@@ -44,7 +44,7 @@ The conference is Thursday-Friday, **March 18-19, 2010** at
 - [Conference page](http://academics.holycross.edu/crec/events/conferences/neuroscience)
   for a list of speakers and recordings.
 
-- <cite>[Thinking About Other People's Thoughts]({{BLOG_URL}}/2009/12/thinking-about-other-peoples-thoughts.html)</cite>
+- <cite>[Thinking About Other People's Thoughts](/blog/2009/12/thinking-about-other-peoples-thoughts.html)</cite>
 
 ## Updates
 

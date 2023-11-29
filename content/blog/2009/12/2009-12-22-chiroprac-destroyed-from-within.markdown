@@ -31,7 +31,7 @@ which is visible in x-rays). A group of chiropractors has shown that the work of
 ## Commentary
 
 Like [homeopathic remedies](http://en.wikipedia.org/wiki/Homeopathy)
-<small>(a rant for [another day]({{BLOG_URL}}/2010/01/dilute-homeopathy.html))</small>,
+<small>(a rant for [another day](/blog/2010/01/dilute-homeopathy.html))</small>,
 many have suggested that subluxation is ineffective. Simon Singh was
 [sued for libel](http://gimpyblog.wordpress.com/2008/08/17/the-libellous-simon-singh-article-on-chiropractors/)
 for writing an article highlighting the ineffectiveness of chiropractors (the UK
@@ -54,7 +54,7 @@ What other professions should apply similar systematic rigor to their claims?
 
 ## See Also
 
-- [The Dilute Homeopathy]({{BLOG_URL}}/2010/01/dilute-homeopathy.html)
+- [The Dilute Homeopathy](/blog/2010/01/dilute-homeopathy.html)
 
 ## Updates
 

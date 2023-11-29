@@ -20,10 +20,11 @@ activity.
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/GOCUH7TxHRI?rel=0" allowfullscreen></iframe>
 <figcaption>
-  <address markdown="1">
+<address markdown="1">
 
-(Video: [YouTube](http://www.youtube.com/watch?v=GOCUH7TxHRI) via [TED](http://www.ted.com/talks/rebecca_saxe_how_brains_make_moral_judgments.html))</address>
+(Video: [YouTube](http://www.youtube.com/watch?v=GOCUH7TxHRI) via TED)
 
+</address>
 </figcaption>
 </figure><!--more-->
 

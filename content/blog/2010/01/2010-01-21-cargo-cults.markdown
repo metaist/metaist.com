@@ -42,7 +42,7 @@ What are other examples of cargo cults?
 
 ## See Also
 
-- <cite>[Detached Lever Fallacy](http://lesswrong.com/lw/sp/detached_lever_fallacy/)</cite>
+- <cite>[Detached Lever Fallacy]</cite>
   at <span class="vcard org fn">Less Wrong</span> (formerly Overcoming Bias)
   for a somewhat related discussion on
   [artificial intelligence](http://en.wikipedia.org/wiki/Artificial_intelligence)
@@ -55,3 +55,5 @@ What are other examples of cargo cults?
 - <cite>[Great Designers Steal](http://www.youtube.com/watch?v=8CtC_qbQ51U)</cite>
   at <span class="vcard org fn">YouTube</span>
   for a discussion about a similar behavior among designers.
+
+[Detached Lever Fallacy]: https://www.lesswrong.com/posts/zY4pic7cwQpa9dnyk/detached-lever-fallacy

@@ -53,9 +53,9 @@ inefficient).
   at <span class="vcard org fn">Wikipedia</span>
   for another technique to change business practices.
 
-[amazon-1]: http://www.amazon.com/gp/product/0393338398/ref=as_li_ss_tl?ie=UTF8&tag=themet-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0393338398
+[amazon-1]: http://www.amazon.com/gp/product/0393338398
 [wiki-2]: http://en.wikipedia.org/wiki/5_Whys
 [wiki-3]: http://en.wikipedia.org/wiki/Status_quo_bias
 [wiki-4]: http://en.wikipedia.org/wiki/Eight_Disciplines_Problem_Solving
 [wiki-5]: http://en.wikipedia.org/wiki/Business_process_reengineering
-[meta-1]: {{BLOG_URL}}/2011/09/pretotyping.html
+[meta-1]: /blog/2011/09/pretotyping.html

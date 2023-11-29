@@ -1,7 +1,8 @@
 ---
-author: The Metaist
-tags: [technique]
+published: "2016-01-01T00:00:00Z"
+updated: "2023-11-28T17:09:10Z"
 title: "Time is a Box"
+tags: ["technique"]
 ---
 
 ## Summary
@@ -22,7 +23,7 @@ _I tried to fit 5,362 things in and got 4,917 of them in._
 
   <address markdown="1">
 
-Image: [Thomas Weidenhaupt](https://www.flickr.com/photos/streetpreacher/5465095532/) at Flickr)</address>
+Image: [Thomas Weidenhaupt](https://web.archive.org/web/20190126002518/https://www.flickr.com/photos/streetpreacher/5465095532/) at Flickr)</address>
 
 </figcaption>
 </figure><!--more-->
@@ -46,11 +47,17 @@ So take advantage of the [Fresh Start Effect][link-5] and commit to keeping the 
 - <cite>[Evidence Based Scheduling][link-1]</cite> for Joel Spolsky's discussion about how to schedule software development tasks.
 - <cite>[Your non-linear problem of 90% utilization][link-4]</cite> for Jason Cohen's insightful analogy to server utilization.
 
-[meta-1]: {{BLOG_URL}}/2012/06/parkinsons-law.html
-[meta-2]: {{BLOG_URL}}/2009/11/psychological-barriers.html
-[meta-3]: {{BLOG_URL}}/2009/11/pomodoro-technique.html
+[meta-1]: /blog/2012/06/parkinsons-law.html
+[meta-2]: /blog/2009/11/psychological-barriers.html
+[meta-3]: /blog/2009/11/pomodoro-technique.html
 [link-1]: http://www.joelonsoftware.com/items/2007/10/26.html
 [link-2]: http://fourhourworkweek.com/2015/12/14/derek-sivers-on-developing-confidence-finding-happiness-and-saying-no-to-millions/
 [link-3]: http://web.archive.org/web/20151230143627/developmentalobserver.blog.com/2010/06/09/an-overview-of-constructive-developmental-theory-cdt/
 [link-4]: http://blog.asmartbear.com/utilization.html
 [link-5]: http://www.strategy-business.com/article/00266?gko=6c11d
+
+## Updates
+
+### <span class="rel-date" title="2023-11-28T17:09:10Z">2023-11-28</span>
+
+- Updated broken links.

@@ -11,7 +11,7 @@ title: The Dilute Homeopathy
 [Homeopathy](http://en.wikipedia.org/wiki/Homeopathy) refers to treatment of
 symptoms by extremely diluted versions of poisons that are thought to create
 those symptoms. I'll defer to
-[The Amazing Randi]({{BLOG_URL}}/2010/01/amazing-randi.html) for a nice
+[The Amazing Randi](/blog/2010/01/amazing-randi.html) for a nice
 explanation of why that doesn't make any sense.
 
 </div>

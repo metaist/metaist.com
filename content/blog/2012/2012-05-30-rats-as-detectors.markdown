@@ -38,4 +38,4 @@ _Enjoy._
 - <cite>[Vending Machines for Crows][meta-1]</cite>
   for another example of training animals for useful purposes.
 
-[meta-1]: {{BLOG_URL}}/2009/12/vending-machines-for-crows.html
+[meta-1]: /blog/2009/12/vending-machines-for-crows.html

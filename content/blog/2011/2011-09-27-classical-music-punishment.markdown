@@ -50,7 +50,7 @@ half and hour writing about what they have learned.
 ## Meta
 
 This seems like it will have negative consequences for the Arts in the future.
-It's hard enough to [get people to appreciate classical music]({{BLOG_URL}}/2010/12/dr-tae-on-teaching-and-learning.html);
+It's hard enough to [get people to appreciate classical music](/blog/2010/12/dr-tae-on-teaching-and-learning.html);
 this policy just reinforces the notion that classical music is boring or torturous.
 
 ## See Also
@@ -68,5 +68,5 @@ this policy just reinforces the notion that classical music is boring or torturo
   for a discussion of The Mosquito.
 
 [1]: http://reason.com/archives/2010/02/24/weoponizing-mozart/singlepage
-[2]: http://www.classissima.com/en/news/113683-Bach-to-basics-regime-deters-school-troublemakers/
+[2]: https://web.archive.org/web/20160329011947/http://www.classissima.com/en/news/113683-Bach-to-basics-regime-deters-school-troublemakers/
 [3]: http://news.bbc.co.uk/2/hi/7240180.stm

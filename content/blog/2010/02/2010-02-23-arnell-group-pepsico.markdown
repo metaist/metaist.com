@@ -65,7 +65,7 @@ Other companies?
 
 ## See Also
 
-- <cite>[Breathtaking Design Strategy](http://usefullunacy.typepad.com/files/pepsi-gravitational-field.pdf)</cite>
+- <cite>[Breathtaking Design Strategy](https://web.archive.org/web/20210307163647/https://usefullunacy.typepad.com/files/pepsi-gravitational-field.pdf)</cite>
   for the original 27-page design document.
 
 - <cite>[Pepsi's Nonsensical Logo Redesign Document: $1 Million for This?](http://industry.bnet.com/advertising/1000821/pepsis-nonsensical-logo-redesign-document-1-million-for-this/)</cite>

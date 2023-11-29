@@ -43,9 +43,8 @@ While resetting large, somewhat unpredictable, systems to a known state is criti
 the lesson can also be applied to daily life.
 
 When I was in high school I found a small 7.5in. x 4in. wooden box. I had seen stores
-sell [valet trays](http://www.amazon.com/gp/product/B000HX8692/ref=as_li_ss_tl?ie=UTF8&tag=themet-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=B000HX8692),
+sell [valet trays](http://www.amazon.com/gp/product/B000HX8692),
 but they looked awkward; for me, this little box was sufficient.
-![.](http://www.assoc-amazon.com/e/ir?t=themet-20&l=as2&o=1&a=B000HX8692&camp=217145&creative=399373)
 
 Victorian notions of propriety aside, the major benefit of putting things away in a
 predictable location is the ease with which they are found&mdash;and the corresponding
@@ -63,5 +62,5 @@ this principle becomes more and more relevant.
   takeoff and landing were to put the system in a known state. Apparently, it's more for
   [emergency evacuations][faa-1] and to avoid physical shock.
 
-[meta-1]: {{BLOG_URL}}/2009/11/inbox-zero.html
-[faa-1]: http://www.faa.gov/about/initiatives/cabin_safety/regs/acob/media/acob209.rtf
+[meta-1]: /blog/2009/11/inbox-zero.html
+[faa-1]: https://web.archive.org/web/20170216163621/https://www.faa.gov/about/initiatives/cabin_safety/regs/acob/media/acob209.pdf

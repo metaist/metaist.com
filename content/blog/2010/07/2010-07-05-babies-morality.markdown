@@ -21,8 +21,8 @@ the world around them.
 
 </div>
 
-[1]: http://www.yale.edu/infantlab/Welcome.html
-[2]: http://www.yale.edu/infantlab/Our_Studies.html
+[1]: https://web.archive.org/web/20100324223406/https://www.yale.edu/infantlab/Welcome.html
+[2]: https://web.archive.org/web/20101015000000*/https://www.yale.edu/infantlab/Our_Studies.html
 
 <figure markdown="1">
 
@@ -37,18 +37,18 @@ the world around them.
 
 ## Commentary
 
-While I'm hesitant to label this as "[bunk]({{BLOG_URL}}/tag/bunk.html)", there appear
+While I'm hesitant to label this as "[bunk](/blog/tag/bunk/)", there appear
 to be at least two deficiencies in the research methods used <small>(based on
 five minutes of film and not much else)</small>.
 
 The first, pointed out to me by Professor Bitran, is that the caregivers always
 hold the children and may unconsciously influence the result (as in
-[facilitated communication]({{BLOG_URL}}/2010/07/facilitated-communication.html)).
+[facilitated communication](/blog/2010/07/facilitated-communication.html)).
 
 Second, the videos seem to show that the researchers who present the option
 _know_ which one is the "good" one. The babies may be responding to the
 researcher rather than the choice (similar to
-[Clever Hans]({{BLOG_URL}}/2010/01/clever-hans-effect.html)). Nonetheless, the
+[Clever Hans](/blog/2010/01/clever-hans-effect.html)). Nonetheless, the
 results of better controlled studies might show that a basic understanding of cooperation.
 
 ## See Also

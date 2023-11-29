@@ -40,14 +40,14 @@ Enjoy.
 
 ## Updates
 
-### <small class="rel-date" title="2011-09-19T20:48:00-04:00"></small>
+### <span class="rel-date" title="2011-09-19T20:48:00-04:00">2011-09-19</small>
 
 - Embedded videos replaced with links due to significantly slow load time.
 
-### <small class="rel-date" title="2012-12-05T20:59:00-05:00"></small>
+### <span class="rel-date" title="2012-12-05T20:59:00-05:00">2012-12-05</small>
 
 - Updated links to videos.
 
-[vbs-1]: http://www.vice.com/the-vice-guide-to-travel/vice-guide-to-north-korea-1-of-3
-[vbs-2]: http://www.vice.com/the-vice-guide-to-travel/vice-guide-to-north-korea-2-of-3
-[vbs-3]: http://www.vice.com/the-vice-guide-to-travel/vice-guide-to-north-korea-3-of-3
+[vbs-1]: https://www.youtube.com/watch?v=24R8JObNNQ4
+[vbs-2]: https://www.youtube.com/watch?v=xw46Ll-Zy4s
+[vbs-3]: https://www.youtube.com/watch?v=3HJj85K_7MQ

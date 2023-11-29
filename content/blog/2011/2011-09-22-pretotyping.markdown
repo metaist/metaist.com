@@ -66,7 +66,7 @@ _replacing complex machinery with humans_
 The name of this method comes from an [elaborate 1770 hoax](http://en.wikipedia.org/wiki/The_Turk)
 about a chess-playing machine that was later revealed to be box with a human player concealed
 inside. [Amazon Mechanical Turk](http://www.mturk.com/) service which facilitates
-[crowdsourcing]({{BLOG_URL}}/2009/12/crowdsourcing-crowd-wisdom.html) is named after this
+[crowdsourcing](/blog/2009/12/crowdsourcing-crowd-wisdom.html) is named after this
 same device.
 
 Savoia illustrates this technique with a story from IBM which was considering entering
@@ -97,7 +97,7 @@ If the latter numbers are low, there's little chance your product, as stated
 will succeed. Fail fast and try again.
 
 In some ways, this is similar to Eric Ries'
-[Minimum Viable Product](http://venturehacks.com/articles/minimum-viable-product).
+[Minimum Viable Product](https://venturehacks.com/minimum-viable-product).
 
 ## Meta
 
@@ -107,24 +107,28 @@ it is, itself, a pretotype.
 ## See Also
 
 - <cite>[Pretotype It][2]</cite>
-  by <span class="vcard fn">[Alberto Savoia](http://pretotyping.blogspot.com/)</span>
+  by <span class="vcard fn">[Alberto Savoia]</span>
   for the booklet that is itself a pretotype.
 
-- <cite>[Innovation at Google](http://www.infoq.com/presentations/QCon-Keynote-Innovation-at-Google)</cite>
+- <cite>[Innovation at Google]</cite>
   at <span class="vcard org fn">InfoQ</span>
   for a presentation about pretotyping.
 
-- <cite>[The Pretotyping Manifesto](http://www.pretotyping.org/the-pretotyping-manifesto-1)</cite>
+- <cite>[The Pretotyping Manifesto]</cite>
   for a list of principles modeled after the
   <cite>[Agile Manifesto](http://agilemanifesto.org/)</cite>.
 
-- <cite>[Wednesday Workout: Testing your assumptions](http://www.iwillteachyoutoberich.com/blog/wednesday-workout-testing-your-assumptions/)</cite>
+- <cite>[Wednesday Workout: Testing your assumptions]</cite>
   at <span class="vcard org fn">IWillTeachYouToBeRich</span>
   where <span class="vcard fn">Ramit Sethi</span> talks about the importance
   of actually testing your assumptions which is similar to pretotyping.
 
 [1]: http://www.pretotyping.org/
 [2]: https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0B0QztbuDlKs_NzBjYWNiOGQtNmQyNi00OWE2LWI2YzktN2Y3YTEzM2VjYTNj&hl=en_US&pli=1
+[Alberto Savoia]: http://pretotyping.blogspot.com/
+[Innovation at Google]: http://www.infoq.com/presentations/QCon-Keynote-Innovation-at-Google
+[The Pretotyping Manifesto]: https://web.archive.org/web/20110430052925/https://www.pretotyping.org/the-pretotyping-manifesto-1
+[Wednesday Workout: Testing your assumptions]: https://web.archive.org/web/20110903181319/http://www.iwillteachyoutoberich.com/blog/wednesday-workout-testing-your-assumptions/
 
 ## Updates
 

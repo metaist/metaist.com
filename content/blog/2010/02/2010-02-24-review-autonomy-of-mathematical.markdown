@@ -16,7 +16,7 @@ title: "Review: The Autonomy of Mathematical Knowledge"
 </figcaption>
 </figure>
 
-[amazon]: http://www.amazon.com/gp/product/0761147489?ie=UTF8&tag=themet-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0761147489
+[amazon]: http://www.amazon.com/gp/product/0761147489
 
 ## Review
 
@@ -33,7 +33,7 @@ philosophy that so many have spurned.
 
 <figure markdown="1">
 
-![David Hilbert]({{IMG_URL}}/2010-02-24-david-hilbert.jpg)
+![David Hilbert](/static/img/2010-02-24-david-hilbert.jpg)
 
 <figcaption>
   The face of a brilliant mathematician or of a sun-hat enthusiast.
@@ -50,7 +50,7 @@ In the 1920's, Hilbert
 [launched a program](http://en.wikipedia.org/wiki/Hilbert's_program) that was
 ostensibly aimed at solving the
 [foundational crisis of mathematics](http://en.wikipedia.org/wiki/Foundational_crisis_of_mathematics#Foundational_crisis)&mdash;the
-issues of paradoxes (e.g., [Russell's paradox]({{BLOG_URL}}/2009/11/russells-paradox.html)).
+issues of paradoxes (e.g., [Russell's paradox](/blog/2009/11/russells-paradox.html)).
 The traditional understanding is that Hilbert's program failed because
 [G&ouml;del's incompleteness theorems](http://en.wikipedia.org/wiki/G%C3%B6del's_incompleteness_theorems)
 threw a monkey wrench into any sufficiently sophisticated system that tried to
@@ -73,9 +73,9 @@ for a great read.
 
 ## See Also
 
-- <cite>[Russell's paradox]({{BLOG_URL}}/2009/11/russells-paradox.html)</cite>
+- <cite>[Russell's paradox](/blog/2009/11/russells-paradox.html)</cite>
   for our discussion of that issue.
 
-- <cite>[Computational Theory for Lawyers]({{BLOG_URL}}/2009/11/computational-theory-for-lawyers.html)</cite>
+- <cite>[Computational Theory for Lawyers](/blog/2009/11/computational-theory-for-lawyers.html)</cite>
   for our discussion of the issues of intensionality (discussed in the book;
   not to be confused with [intentionality](http://en.wikipedia.org/wiki/Intentionality)).

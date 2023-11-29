@@ -1,7 +1,8 @@
 ---
-author: The Metaist
-tags: [review, psychology, business, education]
+published: "2013-03-11T00:00:00Z"
+updated: "2023-11-28T17:09:10Z"
 title: "Review: Drive"
+tags: ["review", "psychology", "business", "education"]
 ---
 
 <figure class="cover" markdown="1">
@@ -92,13 +93,13 @@ and is equally interested in maximizing social benefit as it is profits.
 - <cite>[Enjoying the Process][meta-4]</cite>
 - <cite>[Focus on a Purpose to Inspire Action][meta-5]</cite>
 
-[amazon]: http://www.amazon.com/gp/product/1594484805/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1594484805&linkCode=as2&tag=themet-20
-[meta-img]: {{IMG_URL}}/2013-03-11-drive-mindmap.png
-[meta-1]: {{BLOG_URL}}/2009/12/intrinsic-v-extrinsic-motivation.html
-[meta-2]: {{BLOG_URL}}/2012/06/zone-of-proximal-development.html
-[meta-3]: {{BLOG_URL}}/2011/09/boredom-distraction.html
-[meta-4]: {{BLOG_URL}}/2012/01/enjoying-the-process.html
-[meta-5]: {{BLOG_URL}}/2012/05/inspiring-action.html
+[amazon]: http://www.amazon.com/gp/product/1594484805
+[meta-img]: /static/img/2013-03-11-drive-mindmap.png
+[meta-1]: /blog/2009/12/intrinsic-v-extrinsic-motivation.html
+[meta-2]: /blog/2012/06/zone-of-proximal-development.html
+[meta-3]: /blog/2011/09/boredom-distraction.html
+[meta-4]: /blog/2012/01/enjoying-the-process.html
+[meta-5]: /blog/2012/05/inspiring-action.html
 [1]: http://allthingsd.com/20130222/physically-together-heres-the-internal-yahoo-no-work-from-home-memo-which-extends-beyond-remote-workers/#
 [2]: http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf
 [wiki-1]: http://en.wikipedia.org/wiki/Flow_(psychology)
@@ -106,3 +107,9 @@ and is equally interested in maximizing social benefit as it is profits.
 [wiki-3]: http://en.wikipedia.org/wiki/Downton_abbey
 [wiki-4]: http://en.wikipedia.org/wiki/Baby_boomer
 [wiki-5]: http://en.wikipedia.org/wiki/Benefit_corporation
+
+## Updates
+
+### <span class="rel-date" title="2023-11-28T17:09:10Z">2023-11-28</span>
+
+- Updated broken links.

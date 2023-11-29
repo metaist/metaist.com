@@ -17,7 +17,7 @@ According to a recently published paper
 
 </div>
 
-[1]: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1612486
+[1]: https://web.archive.org/web/20100703222711/https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1612486
 
 <figure markdown="1">
 
@@ -70,3 +70,7 @@ over-paid managers)?
 - See <cite>[The Power Trip](http://online.wsj.com/article/SB10001424052748704407804575425561952689390.html)</cite>
   at <span class="vcard org fn">The Wall Street Journal</span>
   for another discussion.
+
+### <span class="rel-date" title="2023-11-28T21:39:55Z">2023-11-28</span>
+
+- This paper appears to have been retracted.

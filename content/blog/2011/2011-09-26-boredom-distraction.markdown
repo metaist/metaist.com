@@ -4,7 +4,7 @@ tags: [psychology, Jennifer Rohr]
 title: Boredom & Distraction
 ---
 
-_This post is based on submission by **[Jennifer Rohr](http://www.jenrohr.com/)**._
+_This post is based on submission by **[Jennifer Rohr](https://web.archive.org/web/20110208120916/http://www.jenrohr.com/)**._
 
 ## Summary
 
@@ -59,14 +59,13 @@ better explanations for creativity in low-stimulation environments.
   at the <span class="vcard org fn">University of Waterloo</span>
   for research into the link between proneness to boredom and depression.
 
-- <cite>[The Benefits of Boredom](http://sparkaction.org/content/benefits-boredom)</cite>
+- <cite>[The Benefits of Boredom](https://web.archive.org/web/20110604233314/http://sparkaction.org/content/benefits-boredom)</cite>
   at <span class="vcard org fn">SparkAction</span>
   for a discussion about how structured activities for children
   can supplant their annual summer boredom.
 
-- <cite>[Boredom - A lively history](http://www.amazon.com/gp/product/0300141106/ref=as_li_ss_tl?ie=UTF8&tag=themet-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=0300141106)</cite>
+- <cite>[Boredom - A lively history](http://www.amazon.com/gp/product/0300141106)</cite>
   by <span class="vcard fn">Peter Toohey</span>
-  ![.](http://www.assoc-amazon.com/e/ir?t=themet-20&l=as2&o=1&a=0300141106&camp=217145&creative=399373)
 
 - <cite>[Daydream](http://en.wikipedia.org/wiki/Daydream)</cite>
   at <span class="vcard org fn">Wikipedia</span>

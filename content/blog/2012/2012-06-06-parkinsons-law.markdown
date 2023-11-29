@@ -1,7 +1,8 @@
 ---
-author: The Metaist
-tags: [business]
+published: "2012-06-06T00:00:00Z"
+updated: "2023-11-28T17:09:10Z"
 title: "Parkinson's Law"
+tags: ["business"]
 ---
 
 ## Summary
@@ -24,7 +25,7 @@ _Can't hold me back._
 
   <address markdown="1">
 
-(Photo: [Mark Iverson](http://www.flickr.com/photos/iversonic/706592121/) at Flickr)</address>
+(Photo: [Mark Iverson](https://web.archive.org/web/20090312045249/http://www.flickr.com/photos/iversonic/706592121/) at Flickr)</address>
 
 </figcaption>
 </figure><!--more-->
@@ -57,3 +58,9 @@ and continue to produce the same level of output (e.g.,
 
 [wiki-1]: http://en.wikipedia.org/wiki/Parkinson%27s_Law
 [link-1]: http://calnewport.com/blog/2012/05/07/facebooks-coo-works-less-than-you/
+
+## Updates
+
+### <span class="rel-date" title="2023-11-28T17:09:10Z">2023-11-28</span>
+
+- Updated broken links.

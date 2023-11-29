@@ -14,7 +14,7 @@ tags:
   ]
 ---
 
-_Previously_: [2023-05-14 Weekend Notes]({{BLOG_URL}}/2023/05/2023-05-14-weekend-notes.html)
+_Previously_: [2023-05-14 Weekend Notes](/blog/2023/05/2023-05-14-weekend-notes.html)
 
 **Contents**
 [[toc]]
@@ -25,7 +25,7 @@ To migrate my old blog posts to [`eleventy`](https://www.11ty.dev/). If that doe
 
 ## Background
 
-I started this blog in 2004 on [blogger](https://www.blogger.com/) as part of an school assignment. In 2009, I deleted all the posts and started again as a place for my thoughts. In 2011, I decided to move all my content over to my own domain and I built a backwards-compatible version of the site using PHP ([here's my post at the time]({{BLOG_URL}}/2011/09/metaist-now-with-more-metaist.html)). Then at the end of 2012, I wrote my own python static site generator called [`blogit`](https://github.com/metaist/blogit/).
+I started this blog in 2004 on [blogger](https://www.blogger.com/) as part of an school assignment. In 2009, I deleted all the posts and started again as a place for my thoughts. In 2011, I decided to move all my content over to my own domain and I built a backwards-compatible version of the site using PHP ([here's my post at the time](/blog/2011/09/metaist-now-with-more-metaist.html)). Then at the end of 2012, I wrote my own python static site generator called [`blogit`](https://github.com/metaist/blogit/).
 
 Writing consistently has been difficult for me. I kept setting the bar too high. Each blog post needed a catchy thumbnail. I'd obsess and reword all the text hundreds of times and change the tags obsessively (even now I'm rewording this paragraph quite a bit). I've mitigated it a bit by having a monthly newsletter, but my public output has dropped to near-zero.
 
@@ -323,4 +323,4 @@ Now that I managed to get a basic thing working, let me try, one more time to po
 
 ### 2023-05-18
 
-- [I added table of contents support]({{BLOG_URL}}/2023/05/adding-a-toc.html).
+- [I added table of contents support](/blog/2023/05/adding-a-toc.html).

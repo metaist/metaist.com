@@ -5,7 +5,7 @@ title: "Trying whisperX"
 tags: ["trace", "Shalev NessAiver"]
 ---
 
-As part of making the [first episode]({{BLOG_URL}}/2023/06/design-lab-1.html) of [_Design Lab_]({{BLOG_URL}}/tag/design-lab/), I needed two assets: subtitles and a transcript.
+As part of making the [first episode](/blog/2023/06/design-lab-1.html) of [_Design Lab_](/blog/tag/design-lab/), I needed two assets: subtitles and a transcript.
 
 ## Problem
 
@@ -75,4 +75,4 @@ Overall, I was able to watch the video at `1.6x` and comfortably read the subtit
 
 The last bit was to create a transcript from the `.srt` file. My initial idea was to merge adjacent subtitles if they had the same speaker. I published [`srt2txt.py`](https://gist.github.com/metaist/b10433ccc6795d4ed82ef42e0b70a209) as a small gist to try it out.
 
-The walls of text are ugly, but it [made a reasonable transcript]({{BLOG_URL}}/2023/06/design-lab-1.html#introduction) which is great for a first pass. The whole thing made me realize how inarticulate one seems when transcribing their thought process.
+The walls of text are ugly, but it [made a reasonable transcript](/blog/2023/06/design-lab-1.html#introduction) which is great for a first pass. The whole thing made me realize how inarticulate one seems when transcribing their thought process.

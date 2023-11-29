@@ -1,6 +1,6 @@
 ---
 created: "2023-09-05T15:28:16Z"
-updated: "2023-09-05T15:28:16Z"
+updated: "2023-11-28T17:09:10Z"
 title: "Preventing link rot"
 tags: ["trace", "freshlinks"]
 description: "An initial approach for checking for link rot."
@@ -80,7 +80,7 @@ if __name__ == "__main__":
     main()
 ```
 
-This takes about 6 minutes to run on my locally-hosted version of my blog. Kinda slow, but a fine start. I also discover that [my port to `eleventy` missed an important variable]({{BLOG_URL}}/2023/05/adventures-in-eleventy.html).
+This takes about 6 minutes to run on my locally-hosted version of my blog. Kinda slow, but a fine start. I also discover that [my port to `eleventy` missed an important variable](/blog/2023/05/adventures-in-eleventy.html).
 
 ## Attempt 2: Naive Parallel
 
@@ -377,5 +377,11 @@ if __name__ == "__main__":
 - [x] get links from CSS (`@import`)
 - [x] ignore `data:`
 - [x] ignore `mailto:`
-- [ ] add cache
-- [ ] add args
+- [x] add cache
+- [x] add args
+
+## Updates
+
+### <span class="rel-date" title="2023-11-28T17:09:10Z">2023-11-28</span>
+
+- Updated broken links.

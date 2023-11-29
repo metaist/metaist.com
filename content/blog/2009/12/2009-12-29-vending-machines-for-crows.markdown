@@ -21,7 +21,7 @@ _Enjoy._
 <figcaption>
   <address markdown="1">
 
-(Video: [YouTube](http://www.youtube.com/watch?v=bXQAgzfwuNQ) via [TED](http://www.ted.com/talks/joshua_klein_on_the_intelligence_of_crows.html))</address>
+(Video: [YouTube](http://www.youtube.com/watch?v=bXQAgzfwuNQ) via TED)</address>
 
 </figcaption>
 </figure><!--more-->
@@ -29,5 +29,5 @@ _Enjoy._
 ## Meta <a name="meta" id="meta">&nbsp;</a>
 
 So we've harnessed the
-[power of children playing]({{BLOG_URL}}/2009/12/playgrounds-that-generate-electricity.html)
+[power of children playing](/blog/2009/12/playgrounds-that-generate-electricity.html)
 and the intelligence of crows; what's next?

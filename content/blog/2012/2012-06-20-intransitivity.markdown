@@ -67,6 +67,6 @@ that a relation is transitive.
 [wiki-2]: http://en.wikipedia.org/wiki/Intransitivity
 [wiki-3]: http://en.wikipedia.org/wiki/Rock_paper_scissors
 [wiki-4]: http://en.wikipedia.org/wiki/FOAF_(software)
-[meta-1]: {{BLOG_URL}}/2012/06/review-paradox-of-choice.html
-[meta-2]: {{BLOG_URL}}/2009/12/arrows-impossibility-theorm.html
-[meta-3]: {{BLOG_URL}}/2010/01/fmri-false-positives.html
+[meta-1]: /blog/2012/06/review-paradox-of-choice.html
+[meta-2]: /blog/2009/12/arrows-impossibility-theorm.html
+[meta-3]: /blog/2010/01/fmri-false-positives.html

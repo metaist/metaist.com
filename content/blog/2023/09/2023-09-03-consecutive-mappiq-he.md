@@ -1,6 +1,6 @@
 ---
-published: 2023-09-03T15:09:28Z
-updated: 2023-09-03T20:02:40Z
+published: "2023-09-03T15:09:28Z"
+updated: "2023-11-28T17:09:10Z"
 title: Consecutive Mappiq He
 tags: ["Torah", "concordance", "Harold Zazula"]
 ---
@@ -99,7 +99,7 @@ for path in sorted(Path(".").glob("*.xml")):
 | 3     | [Job 28:27](https://www.sefaria.org/Job.28.27)                 | רָ֭אָהּ, וַֽיְסַפְּרָ֑הּ, הֱ֝כִינָ֗הּ                   |
 | 2     | [Job 39:17](https://www.sefaria.org/Job.39.17)                 | הִשָּׁ֣הּ, אֱל֣וֹהַּ                                    |
 | 2     | [Joshua 8:2](https://www.sefaria.org/Joshua.8.2)               | שְׁלָלָ֥הּ, וּבְהֶמְתָּ֖הּ                              |
-| 2     | [Kings_2 4:14](https://www.sefaria.org/Kings_2.4.14)           | לָ֖הּ, וְאִישָׁ֥הּ                                      |
+| 2     | [Kings_2 4:14](https://www.sefaria.org/II_Kings.4.14)          | לָ֖הּ, וְאִישָׁ֥הּ                                      |
 | 2     | [Leviticus 2:2](https://www.sefaria.org/Leviticus.2.2)         | מִסָּלְתָּהּ֙, וּמִשַּׁמְנָ֔הּ                          |
 | 3     | [Leviticus 2:16](https://www.sefaria.org/Leviticus.2.16)       | אַזְכָּרָתָ֗הּ, מִגִּרְשָׂהּ֙, וּמִשַּׁמְנָ֔הּ          |
 | 2     | [Leviticus 15:19](https://www.sefaria.org/Leviticus.15.19)     | זֹבָ֖הּ, בִּבְשָׂרָ֑הּ                                  |
@@ -119,12 +119,18 @@ for path in sorted(Path(".").glob("*.xml")):
 | 2     | [Psalms 149:9](https://www.sefaria.org/Psalms.149.9)           | יָֽהּ׃, הַ֥לְלוּיָ֨הּ ׀                                 |
 | 2     | [Ruth 1:22](https://www.sefaria.org/Ruth.1.22)                 | כַלָּתָהּ֙, עִמָּ֔הּ                                    |
 | 2     | [Ruth 2:19](https://www.sefaria.org/Ruth.2.19)                 | לָ֨הּ, חֲמוֹתָ֜הּ                                       |
-| 2     | [Samuel_1 17:51](https://www.sefaria.org/Samuel_1.17.51)       | וַֽיִּשְׁלְפָ֤הּ, מִתַּעְרָהּ֙                          |
-| 2     | [Samuel_2 3:16](https://www.sefaria.org/Samuel_2.3.16)         | אִתָּ֜הּ, אִישָׁ֗הּ                                     |
-| 2     | [Samuel_2 10:3](https://www.sefaria.org/Samuel_2.10.3)         | וּלְרַגְּלָ֣הּ, וּלְהָפְכָ֔הּ                           |
-| 2     | [Samuel_2 12:29](https://www.sefaria.org/Samuel_2.12.29)       | בָּ֖הּ, וַֽיִּלְכְּדָֽהּ׃                               |
+| 2     | [I_Samuel 17:51](https://www.sefaria.org/I_Samuel.17.51)       | וַֽיִּשְׁלְפָ֤הּ, מִתַּעְרָהּ֙                          |
+| 2     | [II_Samuel 3:16](https://www.sefaria.org/II_Samuel.3.16)       | אִתָּ֜הּ, אִישָׁ֗הּ                                     |
+| 2     | [II_Samuel 10:3](https://www.sefaria.org/II_Samuel.10.3)       | וּלְרַגְּלָ֣הּ, וּלְהָפְכָ֔הּ                           |
+| 2     | [II_Samuel 12:29](https://www.sefaria.org/II_Samuel.12.29)     | בָּ֖הּ, וַֽיִּלְכְּדָֽהּ׃                               |
 | 2     | [Zechariah 4:2](https://www.sefaria.org/Zechariah.4.2)         | כֻּלָּ֜הּ, וְגֻלָּ֣הּ                                   |
 
 <!-- cspell:enable -->
 
 Luckily there aren't that many results, so by visual inspection we can see that the maximum number of consecutive words with a mappiq he is 4 in [Deuteronomy 28:56](https://www.sefaria.org/Deuteronomy.28.56) (with one word in the next verse) and [Hosea 2:13](https://www.sefaria.org/Hosea.2.13) (all in one verse with another mappiq-he two words later).
+
+## Updates
+
+### <span class="rel-date" title="2023-11-28T17:09:10Z">2023-11-28</span>
+
+- Updated broken links.

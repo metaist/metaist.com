@@ -1,7 +1,8 @@
 ---
-author: The Metaist
-tags: [economics]
+published: "2012-06-13T00:00:00Z"
+updated: "2023-11-28T17:09:10Z"
 title: "Economics of Dueling"
+tags: ["economics"]
 ---
 
 ## Summary
@@ -55,4 +56,10 @@ and more of a desire to avoid absolute destitution.
 [wiki-2]: http://en.wikipedia.org/wiki/Hamilton-Burr_duel
 [wiki-3]: http://en.wikipedia.org/wiki/Credit_market
 [wiki-4]: http://en.wikipedia.org/wiki/Male_chauvinism#Male_chauvinism
-[link-1]: http://www3.amherst.edu/~cgkingston/duels.pdf
+[link-1]: https://web.archive.org/web/20120417100921/http://www3.amherst.edu/~cgkingston/duels.pdf
+
+## Updates
+
+### <span class="rel-date" title="2023-11-28T17:09:10Z">2023-11-28</span>
+
+- Updated broken links.

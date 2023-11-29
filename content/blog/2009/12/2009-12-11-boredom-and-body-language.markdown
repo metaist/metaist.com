@@ -1,7 +1,8 @@
 ---
-author: The Metaist
-tags: psychology
-title: Boredom & Body Language
+published: "2009-12-11T00:00:00Z"
+updated: "2023-11-28T17:09:10Z"
+title: "Boredom & Body Language"
+tags: ["psychology"]
 ---
 
 ## Summary
@@ -32,17 +33,23 @@ What do you do when you realize you're boring someone?
 
 ## See Also
 
-- <cite>[Eight Tips to Know If You're Being Boring](http://www.psychologytoday.com/blog/the-happiness-project/200912/eight-tips-know-if-youre-being-boring)</cite>
+- <cite>[Eight Tips to Know If You're Being Boring](/static/archive/www.psychologytoday.com/blog/the-happiness-project/200912/eight-tips-know-if-youre-being-boring.pdf)</cite>
   at <span class="vcard org fn">PsychologyToday</span>
   for a nice writeup about eight cues that indicate you're boring someone.
 
-- <cite>[Popeye, the robot with brains not brawn](http://www.wired.co.uk/news/archive/2009-12/10/popeye,-the-robot-with-brains-not-brawn.aspx)</cite>
+- <cite>[Popeye, the robot with brains not brawn](https://web.archive.org/web/20091213201321/https://www.wired.co.uk/news/archive/2009-12/10/popeye%2C-the-robot-with-brains-not-brawn.aspx)</cite>
   at <span class="vcard org fn">Wired</span>
   for an article about a robot that can read body language.
 
-- <cite>[The Definitive Book of Body Language](http://www.amazon.com/gp/product/0553804723?ie=UTF8&tag=themet-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0553804723)</cite> by Barbara and Allen Pease which is more like a reference guide. ![.](http://www.assoc-amazon.com/e/ir?t=themet-20&l=as2&o=1&a=0553804723)
+- <cite>[The Definitive Book of Body Language](http://www.amazon.com/gp/product/0553804723)</cite> by Barbara and Allen Pease which is more like a reference guide.
 
-- <cite>[Autism seen as asset, not liability, in some jobs](http://www.msnbc.msn.com/id/34047713/ns/health-mental_health/)</cite>
+- <cite>[Autism seen as asset, not liability, in some jobs](https://web.archive.org/web/20091212224632/www.msnbc.msn.com/id/34047713/ns/health-mental_health/)</cite>
   at <span class="vcard org fn">MSNBC</span>
   for an article about a company that hires people with autism to test
   software.
+
+## Updates
+
+### <span class="rel-date" title="2023-11-28T17:09:10Z">2023-11-28</span>
+
+- Updated broken links.

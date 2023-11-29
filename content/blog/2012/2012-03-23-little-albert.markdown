@@ -70,6 +70,6 @@ phobia&mdash;a study with a child who has other issues introduces
 
 [wiki-3]: http://en.wikipedia.org/wiki/Behaviorism
 [wiki-4]: http://en.wikipedia.org/wiki/Confounding
-[link-1]: http://www2.macleans.ca/2012/02/22/bad-behaviour/
-[link-2]: http://www.integratedsociopsychology.net/little_albert.html
-[link-3]: http://htpprints.yorku.ca/archive/00000198/01/BHARRIS.HTM
+[link-1]: https://web.archive.org/web/20140305123401/http://www2.macleans.ca/2012/02/22/bad-behaviour/
+[link-2]: https://web.archive.org/web/20150212140529/http://www.integratedsociopsychology.net/little_albert.html/
+[link-3]: https://web.archive.org/web/20150106011120/http://htpprints.yorku.ca/archive/00000198/01/BHARRIS.HTM/

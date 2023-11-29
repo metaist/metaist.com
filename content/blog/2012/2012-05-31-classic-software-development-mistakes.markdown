@@ -25,7 +25,7 @@ during [software development][wiki-1]&mdash;many of which apply to
 <figcaption>
   <address markdown="1">
 
-(Photo: [Herman Yung](http://www.flickr.com/photos/doobybrain/360276843/) on Flickr)</address>
+(Photo: [Herman Yung](https://web.archive.org/web/20131024005313/http://www.flickr.com/photos/doobybrain/360276843/) on Flickr)</address>
 
 </figcaption>
 </figure><!--more-->
@@ -54,7 +54,7 @@ could be dramatically reduced if version control were used (e.g., tumblr
 
 [wiki-3]: http://en.wikipedia.org/wiki/Optimism_bias
 [wiki-4]: http://en.wikipedia.org/wiki/Version_control
-[meta-1]: {{BLOG_URL}}/2010/02/disease-screening-base-rate-fallacy.html
+[meta-1]: /blog/2010/02/disease-screening-base-rate-fallacy.html
 
 ## See Also
 

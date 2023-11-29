@@ -41,8 +41,9 @@ Suppose you were shown the overwhelming evidence of the harm of shoes on
   at <span class="vcard org fn">New York Magazine</span>
   for an article on the subject.
 
-- <cite>[Feet Hurt? Stop Wearing Shoes](http://www.npr.org/templates/text/s.php?sId=89830802&m=1)</cite>
+- <cite>[Feet Hurt? Stop Wearing Shoes]</cite>
   at <span class="vcard org fn">NPR</span>
   for another article.
 
 [1]: http://www.thefootjournal.com/article/S0958-2592(07)00053-3/abstract
+[Feet Hurt? Stop Wearing Shoes]: https://web.archive.org/web/20230203034258/https://www.npr.org/2008/04/22/89830802/feet-hurt-stop-wearing-shoes

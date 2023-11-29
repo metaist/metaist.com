@@ -61,5 +61,5 @@ brings are wonderful, and could provide the missing component to tools like
 - <cite>[dy/dan][dydan]</cite>
   for <span class="vcard org fn">Dan Meyer</span>'s blog.
 
-[meta-1]: {{BLOG_URL}}/2011/11/khan-academy.html
-[meta-2]: {{BLOG_URL}}/2009/11/importance-of-numeracy.html
+[meta-1]: /blog/2011/11/khan-academy.html
+[meta-2]: /blog/2009/11/importance-of-numeracy.html

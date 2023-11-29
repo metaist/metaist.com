@@ -28,7 +28,7 @@ a product or business.
 
 ## Commentary
 
-A benefit of [pretotyping]({{BLOG_URL}}/2011/09/pretotyping.html)
+A benefit of [pretotyping](/blog/2011/09/pretotyping.html)
 is that you start to explore who your potential customers are before
 you invest heavily in creating a product.
 
@@ -57,5 +57,5 @@ to pay.
   also at <span class="vcard org fn">A Smart Bear</span>
   for the most common issues with startup pitches.
 
-- <cite>[Pretotyping]({{BLOG_URL}}/2011/09/pretotyping.html)</cite>
+- <cite>[Pretotyping](/blog/2011/09/pretotyping.html)</cite>
   for our discussion on rapidly testing out ideas.

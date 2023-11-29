@@ -56,4 +56,4 @@ technology will bring.
 
 [1]: http://portal.acs.org/portal/acs/corg/content?_nfpb=true&_pageLabel=PP_ARTICLEMAIN&node_id=222&content_id=CNBP_025406&use_sec=true&sec_url_var=region1&__uuid=7980a5fb-0466-4fda-96d5-97345b695337
 [2]: http://www.scientificamerican.com/article.cfm?id=scientists-create-dry-wat
-[3]: http://www.telegraph.co.uk/science/science-news/7964109/Scientists-create-dry-water.html
+[3]: https://web.archive.org/web/20100827181409/https://www.telegraph.co.uk/science/science-news/7964109/Scientists-create-dry-water.html

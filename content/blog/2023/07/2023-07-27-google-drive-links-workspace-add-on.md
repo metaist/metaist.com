@@ -5,7 +5,7 @@ title: "Google Drive Links: Workspace Add-on"
 tags: ["gdrive", "gscript", "trace"]
 ---
 
-_Previously_: [Problem: Google Drive Links]({{BLOG_URL}}/2023/07/google-drive-links.html)
+_Previously_: [Problem: Google Drive Links](/blog/2023/07/google-drive-links.html)
 
 My first approach was to create a [Google Workspace Addon](https://workspace.google.com/products/add-ons/) for Google Drive so that I could select some documents and get the links.
 

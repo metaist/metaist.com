@@ -8,7 +8,7 @@ title: Metaist, Now with More Metaist
 
 <div class="entry-summary" markdown="1">
 
-This blog has a new home at [metaist.com]({{BLOG_URL}}). Some things are the same,
+This blog has a new home at [metaist.com](/blog). Some things are the same,
 but there are few changes you might want to know about.
 
 </div>
@@ -33,8 +33,8 @@ but there are few changes you might want to know about.
   influenced by Dmitry Fadeyev's post
   <cite>[What's Left?](http://www.usabilitypost.com/2011/04/15/whats-left/)</cite>
 
-- **Thumbnails** - If you click on a [tag]({{BLOG_URL}}/tag) or an
-  [archive]({{BLOG_URL}}/archive) you'll see thumbnails of the posts which
+- **Thumbnails** - If you click on a [tag](/blog/tag) or an
+  [archive](/blog/archive) you'll see thumbnails of the posts which
   should make it easier to find things.
 
 - **Comments** - For now, if you want to comment on something,
