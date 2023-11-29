@@ -20,10 +20,10 @@ const pluginImages = require("./eleventy.config.images.js");
 
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 module.exports = function (eleventyConfig) {
-  eleventyConfig.addPassthroughCopy("content/**/*.{svg,webp,png,jpeg}");
-
   // watch targets
-  eleventyConfig.addWatchTarget("content/**/*.{svg,webp,png,jpeg}");
+  const static_glob = "content/**/*.{pdf,gif,jpeg,jpg,png,svg,webp}";
+  eleventyConfig.addPassthroughCopy(static_glob);
+  eleventyConfig.addWatchTarget(static_glob);
 
   // local plugins
   eleventyConfig.addPlugin(pluginDrafts);
