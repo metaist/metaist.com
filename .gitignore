@@ -4,7 +4,9 @@ _site/
 .vscode
 node_modules/
 
+content/blog/**/*.jpeg
+content/blog/**/*.jpg
+content/blog/**/*.pdf
 content/blog/**/*.png
 content/blog/**/*.svg
-content/blog/**/*.jpg
-content/blog/**/*.jpeg
+content/static/archive/
