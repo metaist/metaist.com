@@ -4,7 +4,6 @@
   "words": [
     "11tydata",
     "1happysnapper",
-    "DALL-E",
     "Alderfer",
     "Alexa",
     "Amirav-Drory",
@@ -15,6 +14,7 @@
     "Arnell",
     "attrbox",
     "Atul",
+    "autocompose",
     "autoplay",
     "autoremove",
     "babeld",
@@ -32,10 +32,13 @@
     "Boden",
     "bric-a-brac",
     "bulgaricus",
+    "Bulma",
     "callosum",
     "Calsidyrose",
     "Campanero",
     "cavale",
+    "certbot",
+    "Chatbots",
     "chatgpt",
     "Chovevei",
     "Cirillo",
@@ -50,6 +53,8 @@
     "ctype",
     "Cuil",
     "Cyborgization",
+    "Cygwin",
+    "DALL-E",
     "decompile",
     "delbrueckii",
     "delims",
@@ -111,6 +116,7 @@
     "Houben",
     "Hydrick",
     "hydrolase",
+    "Hypercorn",
     "Ibrahim",
     "inattentional",
     "infographics",
@@ -174,6 +180,7 @@
     "pomodoro",
     "Pomodoros",
     "Popen",
+    "POSIX",
     "Predictioneer",
     "pretotype",
     "pretotyping",
@@ -244,6 +251,7 @@
     "typable",
     "Umwelt",
     "Unported",
+    "uwsgi",
     "vcard",
     "Vedol",
     "virtualenv",
@@ -266,6 +274,7 @@
     "xclip",
     "xiao",
     "XKCD",
+    "Xubuntu",
     "Yeshivat",
     "Yung",
     "Zazula",
@@ -274,5 +283,7 @@
     "Zombieland",
     "Zotero"
   ],
-  "ignorePaths": ["node_modules/**"]
+  "ignorePaths": [
+    "node_modules/**"
+  ]
 }
