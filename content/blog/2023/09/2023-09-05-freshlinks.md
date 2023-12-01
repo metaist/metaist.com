@@ -1,6 +1,6 @@
 ---
 created: "2023-09-05T15:28:16Z"
-updated: "2023-11-28T17:09:10Z"
+updated: "2023-12-01T02:39:24Z"
 title: "Preventing link rot"
 tags: ["trace", "freshlinks"]
 description: "An initial approach for checking for link rot."
@@ -385,3 +385,7 @@ if __name__ == "__main__":
 ### <span class="rel-date" title="2023-11-28T17:09:10Z">2023-11-28</span>
 
 - Updated broken links.
+
+### <span class="rel-date" title="2023-12-01T02:39:24Z">2023-11-28</span>
+
+- [`freshlinks 1.0.0`](https://github.com/metaist/freshlinks/releases/tag/1.0.0) is now published.
