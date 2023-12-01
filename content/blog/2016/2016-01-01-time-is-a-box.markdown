@@ -1,5 +1,5 @@
 ---
-published: "2016-01-01T00:00:00Z"
+created: "2016-01-01T00:00:00Z"
 updated: "2023-11-28T17:09:10Z"
 title: "Time is a Box"
 tags: ["technique"]

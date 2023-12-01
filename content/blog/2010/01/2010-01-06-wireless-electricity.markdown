@@ -1,5 +1,5 @@
 ---
-published: "2010-01-06T00:00:00Z"
+created: "2010-01-06T00:00:00Z"
 updated: "2023-11-28T17:09:10Z"
 title: "Wireless Electricity"
 tags: ["physics"]

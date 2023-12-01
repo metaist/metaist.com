@@ -1,5 +1,5 @@
 ---
-published: "2023-05-18T05:55:38Z"
+created: "2023-05-18T05:55:38Z"
 updated: "2023-11-28T17:09:10Z"
 title: 2023-05-14 Weekend Notes
 slug: 2023-05-14-weekend-notes

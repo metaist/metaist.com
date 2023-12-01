@@ -1,5 +1,5 @@
 ---
-published: "2009-11-18T00:00:00Z"
+created: "2009-11-18T00:00:00Z"
 updated: "2023-11-28T17:09:10Z"
 title: "Discontent Grows with Google: Wave, Closure and Go"
 tags: ["technology"]

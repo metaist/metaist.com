@@ -1,5 +1,5 @@
 ---
-published: "2023-09-06T22:04:15Z"
+created: "2023-09-06T22:04:15Z"
 updated: "2023-09-06T22:04:15Z"
 title: "Why I prefer pnpm over npm"
 tags: ["LTS", "principle", "pnpm", "npm", "yarn", "black", "pylint", "pipenv"]

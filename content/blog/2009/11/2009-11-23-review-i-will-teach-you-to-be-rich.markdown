@@ -1,5 +1,5 @@
 ---
-published: "2009-11-23T00:00:00Z"
+created: "2009-11-23T00:00:00Z"
 updated: "2023-11-28T17:09:10Z"
 title: "Review: I Will Teach You To Be Rich"
 tags: ["review", "money"]

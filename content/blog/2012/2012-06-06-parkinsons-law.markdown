@@ -1,5 +1,5 @@
 ---
-published: "2012-06-06T00:00:00Z"
+created: "2012-06-06T00:00:00Z"
 updated: "2023-11-28T17:09:10Z"
 title: "Parkinson's Law"
 tags: ["business"]

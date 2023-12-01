@@ -1,5 +1,5 @@
 ---
-published: "2012-06-13T00:00:00Z"
+created: "2012-06-13T00:00:00Z"
 updated: "2023-11-28T17:09:10Z"
 title: "Economics of Dueling"
 tags: ["economics"]

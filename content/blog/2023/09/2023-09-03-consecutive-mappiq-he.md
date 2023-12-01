@@ -1,5 +1,5 @@
 ---
-published: "2023-09-03T15:09:28Z"
+created: "2023-09-03T15:09:28Z"
 updated: "2023-11-28T17:09:10Z"
 title: Consecutive Mappiq He
 tags: ["Torah", "concordance", "Harold Zazula"]

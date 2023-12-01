@@ -1,5 +1,5 @@
 ---
-published: "2023-09-04T21:08:52Z"
+created: "2023-09-04T21:08:52Z"
 updated: "2023-11-28T17:09:10Z"
 title: "Non-Consecutive Mappiq He"
 tags: ["Torah", "concordance"]

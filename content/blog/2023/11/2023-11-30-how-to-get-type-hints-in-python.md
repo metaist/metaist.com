@@ -1,5 +1,5 @@
 ---
-published: "2023-11-30T13:52:23Z"
+created: "2023-11-30T13:52:23Z"
 updated: "2023-11-30T13:52:23Z"
 title: "Access type hints in python"
 tags: ["python", "freshlinks"]
