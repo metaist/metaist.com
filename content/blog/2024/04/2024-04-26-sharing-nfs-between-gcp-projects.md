@@ -1,6 +1,6 @@
 ---
-created: ""
-updated: ""
+created: "2024-04-26T19:28:03Z"
+updated: "2024-04-26T19:28:03Z"
 title: "Sharing NFS Between GCP Projects"
 tags: ["nfs", "gcp"]
 ---
