@@ -5,7 +5,7 @@ title: Consecutive Mappiq He
 tags: ["Torah", "concordance", "Harold Zazula"]
 ---
 
-**Harold Zazula** asks: What is the longest consecutive string of words with a [mappiq he](https://en.wikipedia.org/wiki/Mappiq).
+**Harold Zazula** asks: What is the longest consecutive string of words with a [mappiq he](https://en.wikipedia.org/wiki/Mappiq)?
 
 To figure this out, let's use the [Leningrad Codex](https://tanach.us/Books/Tanach.xml.zip) which has a nice XML representation of all of Tanach. You need to download this bit manually to avoid 403 errors.
 
