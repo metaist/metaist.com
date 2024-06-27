@@ -1,23 +1,13 @@
 ---
 created: "2024-06-27T18:58:45Z"
-updated: "2024-06-27T18:58:45Z"
+updated: "2024-06-27T19:19:49Z"
 title: "Generating Audiobooks"
-tags:
-  [
-    "attrbox",
-    "tts",
-    "literature",
-    "Coqui",
-    "tachotron",
-    "tortoise-tts",
-    "ffmpeg",
-    "kid3",
-  ]
+tags: ["attrbox", "tts", "literature", "ffmpeg", "kid3"]
 ---
 
-When I was in high school I used to use [Microsoft Agent](https://en.wikipedia.org/wiki/Microsoft_Agent) to read books from [Project Gutenberg](https://www.gutenberg.org/).
+When I was in high school I used to use [Microsoft Agent](https://en.wikipedia.org/wiki/Microsoft_Agent) to read books from [Project Gutenberg](https://www.gutenberg.org/). Nowadays, I use [@Voice Aloud Reader](https://play.google.com/store/apps/details?id=com.hyperionics.avar&hl=en_US) on Android to listen to `.epub` files.
 
-Now one of my sons has an old-school MP3 player and he wants to fill it with audiobooks. The [Internet Archive has a large collection of audiobooks](https://archive.org/details/audio_bookspoetry), but some of the books only come in text form.
+One of my sons got an old-school MP3 player and he wants to fill it with audiobooks. The [Internet Archive has a large collection of audiobooks](https://archive.org/details/audio_bookspoetry), but some of the books only come in text form.
 
 On my wife's recommendation, I decided to try an make an audiobook out of the E.L. Konigsburg book [From The Mixed Up Files Of Mrs Basil E. Frankweiler](https://archive.org/details/FromTheMixedUpFilesOfMrsBasilEFrankweiler).
 
@@ -37,7 +27,7 @@ rye add attrbox tts
 
 [`attrbox`](https://github.com/metaist/attrbox) is my library for doing things like processing command-line arguments.
 
-`tts` is the [Coqui.ai repository](https://github.com/coqui-ai/TTS) for doing text-to-speech. However, I just discovered that **Coqui.ai, the company behind the project is shutting down**, so I don't know how well this package will be maintained in the future.
+`tts` is the [Coqui.ai repository](https://github.com/coqui-ai/TTS) for doing text-to-speech. However, I just discovered that **Coqui.ai, the company behind the project [is shutting down](https://twitter.com/_josh_meyer_/status/1742522906041635166)**, so I don't know how well this package will be maintained in the future.
 
 Wrote up a quick script:
 

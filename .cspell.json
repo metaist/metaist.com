@@ -88,6 +88,7 @@
     "eleventy-plugin-syntaxhighlight",
     "elif",
     "endswith",
+    "epub",
     "Esguerra",
     "Fadeyev",
     "Fahlman",
@@ -201,6 +202,7 @@
     "Predictioneer",
     "pretotype",
     "pretotyping",
+    "pubdate",
     "pylint",
     "PyPI",
     "pyproject",
@@ -315,7 +317,5 @@
     "הֲנֹטַע",
     "הֲשָׁלוֹם"
   ],
-  "ignorePaths": [
-    "node_modules/**"
-  ]
+  "ignorePaths": ["node_modules/**"]
 }
