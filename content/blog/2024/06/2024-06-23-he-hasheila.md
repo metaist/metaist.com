@@ -1,7 +1,6 @@
 ---
-draft: true
-created: ""
-updated: ""
+created: "2024-06-23T20:30:51Z"
+updated: "2024-06-23T20:30:51Z"
 title: "Maximum He HaShe'elah"
 tags: ["Torah", "concordance", "Harold Zazula"]
 ---
