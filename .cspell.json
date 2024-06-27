@@ -14,6 +14,8 @@
     "Arnell",
     "attrbox",
     "Atul",
+    "audiobook",
+    "audiobooks",
     "autocompose",
     "autoplay",
     "autoremove",
@@ -49,6 +51,7 @@
     "CMYK",
     "codeql",
     "compat_banner",
+    "Coqui",
     "CPUS",
     "Crinity",
     "Crowdsourcing",
@@ -96,6 +99,7 @@
     "Forer",
     "Francesco",
     "Frankenapple",
+    "Frankweiler",
     "Frédéric",
     "freshlinks",
     "Fruitarians",
@@ -136,10 +140,12 @@
     "KEXINIT",
     "KHTML",
     "Kickstarter",
+    "Konigsburg",
     "Korem",
     "Krauss",
     "Lintgen",
     "Litwin",
+    "ljspeech",
     "Loglan",
     "Lukas",
     "Lupia",
@@ -243,6 +249,8 @@
     "SUMIF",
     "SUNY",
     "Surowiecki",
+    "tachotron",
+    "tacotron",
     "talkin'",
     "Tanna",
     "Tappe",
@@ -307,5 +315,7 @@
     "הֲנֹטַע",
     "הֲשָׁלוֹם"
   ],
-  "ignorePaths": ["node_modules/**"]
+  "ignorePaths": [
+    "node_modules/**"
+  ]
 }
