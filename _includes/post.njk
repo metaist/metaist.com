@@ -8,8 +8,10 @@ layout: base.njk
   {% endif -%}
 
   <h1>{{ title }}</h1>
-  <time datetime="{{ created | htmlDateString }}">{{ created | readableDate("yyyy-LL-dd") }}</time> &bull;
   <ul class="post-metadata">
+    <li>
+      <time datetime="{{ created | htmlDateString }}">{{ created | readableDate("yyyy-LL-dd") }}</time>
+    </li>
     {%- for tag in tags | filterTagList %}
       {%- set tagUrl %}/blog/tag/{{ tag | slugify }}/{% endset %}
       <li>
