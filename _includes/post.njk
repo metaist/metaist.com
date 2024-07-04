@@ -1,25 +1,23 @@
 ---
 layout: base.njk
 ---
-<section>
-  <article>
-    {%- if draft %}
-      <div class="draft-banner" style="color: #fff; background-color: #f53; text-align: center">DRAFT</div>
-    {% endif -%}
-    <h1>{{ title }}</h1>
-    <ul class="post-metadata">
-      <li>
-        <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
-      </li>
-      {%- for tag in tags | filterTagList %}
-        {%- set tagUrl %}/blog/tag/{{ tag | slugify }}/{% endset %}
-        <li>
-          <a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>
-          {%- if not loop.last %}, {% endif %}
-        </li>
-      {%- endfor %}
-    </ul>
 
-    {{ content | safe }}
-  </article>
-</section>
+<article data-pagefind-body>
+  {%- if draft %}
+    <div class="draft-banner" style="color: #fff; background-color: #f53; text-align: center">DRAFT</div>
+  {% endif -%}
+
+  <h1>{{ title }}</h1>
+  <time datetime="{{ created | htmlDateString }}">{{ created | readableDate("yyyy-LL-dd") }}</time> &bull;
+  <ul class="post-metadata">
+    {%- for tag in tags | filterTagList %}
+      {%- set tagUrl %}/blog/tag/{{ tag | slugify }}/{% endset %}
+      <li>
+        <a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>
+        {%- if not loop.last %}, {% endif %}
+      </li>
+    {%- endfor %}
+  </ul>
+
+  {{ content | safe }}
+</article>

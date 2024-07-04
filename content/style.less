@@ -51,9 +51,11 @@ body {
   color: var(--text-color);
   background-color: var(--background-color);
 }
+
 html {
   overflow-y: scroll;
 }
+
 body {
   max-width: 40em;
 }
@@ -224,40 +226,6 @@ header {
   }
 }
 
-.postlist {
-  list-style: none;
-  padding: 0;
-  padding-left: 1.5rem;
-}
-.postlist-item {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: baseline;
-  counter-increment: start-from -1;
-  margin-bottom: 1em;
-  &:before {
-    display: inline-block;
-    pointer-events: none;
-    content: "" counter(start-from, decimal-leading-zero) ". ";
-    line-height: 100%;
-    text-align: right;
-    margin-left: -1.5rem;
-  }
-}
-.postlist-date,
-.postlist-item:before {
-  font-size: 0.8125em; /* 13px /16 */
-  color: var(--color-gray-90);
-}
-.postlist-date {
-  word-spacing: -0.5px;
-}
-.postlist-link {
-}
-.postlist-item-active .postlist-link {
-  font-weight: bold;
-}
-
 /* Tags */
 .post-tag {
   display: inline-flex;
@@ -302,38 +270,29 @@ a[href].header-anchor:focus,
 }
 
 h2 + .header-anchor {
-  font-size: 1.5em;
+  font-size: 1.25rem;
 }
-
-// section {
-//   display: flex;
-//   align-items: center;
-//   justify-content: center;
-
-//   margin: 0 1rem;
-//   padding: 0;
-// }
-
-// article {
-//   max-width: 40rem;
-// }
-
-// h1,
-// h2 {
-//   margin-bottom: 0;
-//   padding-bottom: 0;
-// }
-
-// h1 {
-//   font-size: 2.3rem;
-// }
-
-// h2 {
-//   font-size: 1.2rem;
-// }
 
 article {
   text-align: justify;
+
+  h1 {
+    margin: 0;
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+    margin-bottom: 0;
+  }
+
+  h3 {
+    font-size: 1.1rem;
+  }
+
+  time {
+    font-size: 0.8rem;
+  }
 }
 
 img {
