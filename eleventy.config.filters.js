@@ -22,6 +22,14 @@ module.exports = (eleventyConfig) => {
     return array.slice(0, n);
   });
 
+  // Sort array by a date field.
+  eleventyConfig.addFilter("sortByDate", (array, field = "created") => {
+    if (!Array.isArray(array) || array.length === 0) return [];
+    return array.sort(
+      (a, b) => (a.data[field] || a.page.date) - (b.data[field] || b.data.date)
+    );
+  });
+
   // Return the smallest number argument
   eleventyConfig.addFilter("min", (...numbers) => {
     return Math.min.apply(null, numbers);

@@ -6,7 +6,7 @@
       {% endif %}
 
       <div>
-        <time datetime="{{ post.data.created | htmlDateString }}">{{ post.data.created | readableDate("yyyy-LL-dd") }}</time><br/>
+        <time datetime="{{ post.data.created | htmlDateString }}">{{ post.data.created | readableDate("yyyy-LL-dd HH:mm") }}</time><br/>
 
         <a href="{{ post.url }}">
           {% if post.data.title %}{{ post.data.title }}

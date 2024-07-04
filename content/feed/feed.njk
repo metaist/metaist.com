@@ -6,12 +6,12 @@ permalink: /blog/feed/index.xml
   <title>{{ metadata.title }}</title>
   <link rel="self" href="{{ permalink | htmlBaseUrl(metadata.url) }}"/>
   <link href="{{ metadata.url | addPathPrefixToFullUrl }}"/>
-  <updated>{{ collections.post | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
+  <updated>{{ collections.post | sortByDate | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
   <author>
     <name>{{ metadata.author.name }}</name>
   </author>
   <id>tag:metaist.com,2010:blog</id>
-  {%- for post in collections.post | reverse -%}
+  {%- for post in collections.post | sortByDate | reverse -%}
     {%- set absolutePostUrl %}{{ post.url | htmlBaseUrl(metadata.url) }}{% endset %}
     <entry>
       <title>{{ post.data.title }}</title>

@@ -16,7 +16,7 @@ eleventyComputed:
 ---
 <h1>Tagged “{{ tag }}”</h1>
 
-{% set postslist = collections[tag] %}
+{% set postslist = collections[tag] | sortByDate %}
 {% include "postslist.njk" %}
 
 <p>See <a href="/blog/tag/">all tags</a>.</p>

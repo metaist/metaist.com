@@ -5,8 +5,7 @@ eleventyNavigation:
   key: Posts
   order: 1
 ---
+<h1>All Posts</h1>
 
-<h1>Posts</h1>
-
-{% set postslist = collections.post %}
+{% set postslist = collections.post | sortByDate %}
 {% include "postslist.njk" %}
