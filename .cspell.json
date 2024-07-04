@@ -181,6 +181,7 @@
     "Northsky71",
     "Novikov",
     "Omri",
+    "pagefind",
     "pageview",
     "parkinsons-law",
     "Parsha",
@@ -317,5 +318,7 @@
     "הֲנֹטַע",
     "הֲשָׁלוֹם"
   ],
-  "ignorePaths": ["node_modules/**"]
+  "ignorePaths": [
+    "node_modules/**"
+  ]
 }

@@ -7,9 +7,9 @@
     <meta name="description" content="{{ description or metadata.description }}"/>
 
     {%- if title %}
-    <title>{{ title }} - {{ metadata.title }}</title>
+      <title>{{ title }} - {{ metadata.title }}</title>
     {% else %}
-    <title>{{ metadata.title }}</title>
+      <title>{{ metadata.title }}</title>
     {% endif -%}
 
     {%- if metadata.IS_DEV %}
@@ -45,14 +45,30 @@
       </nav>
     </header>
 
-    <main id="skip">{{ content | safe }}</main>
+    <div id="search" style="padding-top: 0.5rem;"></div>
+    <link rel="stylesheet" href="/pagefind/pagefind-ui.css"/>
+    <script src="/pagefind/pagefind-ui.js"></script>
+    <script>
+      window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({element: "#search", showSubResults: true});
+      });
+    </script>
+
+    <main id="skip" data-pagefind-body>{{ content | safe }}</main>
 
     <footer>
       <ul>
-        <li><a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a> Metaist LLC</li>
-        <li><a href="/terms">Terms</a></li>
-        <li><a href="/privacy">Privacy</a></li>
-        <li><a href="https://github.com/metaist">GitHub</a></li>
+        <li>
+          <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a> Metaist LLC</li>
+        <li>
+          <a href="/terms">Terms</a>
+        </li>
+        <li>
+          <a href="/privacy">Privacy</a>
+        </li>
+        <li>
+          <a href="https://github.com/metaist">GitHub</a>
+        </li>
       </ul>
     </footer>
 

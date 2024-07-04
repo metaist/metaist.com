@@ -1,3 +1,5 @@
+const PLUGIN = "drafts";
+
 function eleventyComputedPermalink() {
   // When using `addGlobalData` and you *want* to return a function, you must nest functions like this.
   // `addGlobalData` acts like a global data file and runs the top level function it receives.
@@ -25,11 +27,19 @@ function eleventyComputedExcludeFromCollections() {
 }
 
 module.exports.eleventyComputedPermalink = eleventyComputedPermalink;
-module.exports.eleventyComputedExcludeFromCollections = eleventyComputedExcludeFromCollections;
+module.exports.eleventyComputedExcludeFromCollections =
+  eleventyComputedExcludeFromCollections;
 
+/** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 module.exports = (eleventyConfig) => {
-  eleventyConfig.addGlobalData("eleventyComputed.permalink", eleventyComputedPermalink);
-  eleventyConfig.addGlobalData("eleventyComputed.eleventyExcludeFromCollections", eleventyComputedExcludeFromCollections);
+  eleventyConfig.addGlobalData(
+    "eleventyComputed.permalink",
+    eleventyComputedPermalink
+  );
+  eleventyConfig.addGlobalData(
+    "eleventyComputed.eleventyExcludeFromCollections",
+    eleventyComputedExcludeFromCollections
+  );
 
   let logged = false;
   eleventyConfig.on("eleventy.before", ({ runMode }) => {
@@ -40,7 +50,7 @@ module.exports = (eleventyConfig) => {
       text = "Including";
     }
 
-    if (!logged) console.log(`[draft plugin] ${text} drafts.`);
+    if (!logged) console.log(`[${PLUGIN}] ${text} drafts.`);
     logged = true;
   });
 };
