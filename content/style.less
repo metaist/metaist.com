@@ -202,6 +202,28 @@ header {
 }
 
 /* Posts list */
+.posts {
+  .post {
+    display: flex;
+    margin-bottom: 1rem;
+    align-items: center;
+
+    time {
+      font-size: 0.8rem;
+    }
+
+    img {
+      max-width: 3rem;
+      width: auto;
+      margin-right: 1rem;
+    }
+
+    a {
+      font-size: 1.1rem;
+    }
+  }
+}
+
 .postlist {
   list-style: none;
   padding: 0;
@@ -231,14 +253,6 @@ header {
   word-spacing: -0.5px;
 }
 .postlist-link {
-  font-size: 1.1875em; /* 19px /16 */
-  font-weight: 700;
-  flex-basis: calc(100% - 1.5rem);
-  padding-left: 0.25em;
-  padding-right: 0.5em;
-  text-underline-position: from-font;
-  text-underline-offset: 0;
-  text-decoration-thickness: 1px;
 }
 .postlist-item-active .postlist-link {
   font-weight: bold;
