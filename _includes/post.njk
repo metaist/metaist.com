@@ -1,16 +1,15 @@
 ---
 layout: base.njk
 ---
-
 <article data-pagefind-body>
   {%- if draft %}
-    <div class="draft-banner" style="color: #fff; background-color: #f53; text-align: center">DRAFT</div>
+    <div class="draft-banner">DRAFT</div>
   {% endif -%}
 
   <h1>{{ title }}</h1>
   <ul class="post-metadata">
     <li>
-      <time datetime="{{ created | htmlDateString }}">{{ created | readableDate("yyyy-LL-dd") }}</time>
+      <time title="{{created.toISOString()}}" datetime="{{ created | htmlDateString }}">{{ created | readableDate("yyyy-LL-dd") }}</time>
     </li>
     {%- for tag in tags | filterTagList %}
       {%- set tagUrl %}/blog/tag/{{ tag | slugify }}/{% endset %}
