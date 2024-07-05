@@ -4,19 +4,31 @@
     <meta charset="utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <meta name="description" content="{{ description or metadata.description }}"/>
+    <meta name="theme-color" content="{{ metadata.color }}"/>
+    <meta name="msapplication-TileColor" content="{{ metadata.color }}"/>
 
-    {%- if title %}
+    {% if tags and "post" in tags -%}
+      <meta property="og:type" content="article"/>
+    {% else -%}
+      <meta property="og:type" content="website"/>
+    {%- endif %}
+    {% if title -%}
       <title>{{ title }} - {{ metadata.title }}</title>
-    {% else %}
+      <meta property="og:title" content="{{ title }} - {{ metadata.title }}"/>
+    {% else -%}
       <title>{{ metadata.title }}</title>
-    {% endif -%}
+      <meta property="og:title" content="{{ metadata.title }}" data-pagefind-meta="title[content]"/>
+    {%- endif %}
+    <meta name="description" content="{{ description or metadata.description }}"/>
+    <meta property="og:description" content="{{ description or metadata.description }}"/>
+    <meta property="og:url" content="{{ page.url | htmlBaseUrl(metadata.url) }}"/>
+    {% if thumbnail -%}<meta property="og:image" content="{{thumbnail}}" data-pagefind-meta="image[content]"/>{%- endif %}
 
-    {%- if metadata.IS_DEV %}
+    {% if metadata.IS_DEV -%}
       <link rel="alternate" type="application/atom+xml" title="{{ metadata.title }}" href="/blog/feed/index.xml"/>
-    {% else %}
-      <link rel="alternate" type="application/atom+xml" title="{{ metadata.title }}" href="http://feeds.feedburner.com/metaist"/>
-    {% endif %}
+    {%- else -%}
+      <link rel="alternate" type="application/atom+xml" title="{{ metadata.title }}" href="https://feeds.feedburner.com/metaist"/>
+    {%- endif %}
 
     <link rel="preconnect" href="https://fonts.googleapis.com"/>
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
