@@ -3,6 +3,7 @@ created: "2024-06-27T18:58:45Z"
 updated: "2024-06-27T19:19:49Z"
 title: "Generating Audiobooks"
 tags: ["attrbox", "tts", "literature", "ffmpeg", "kid3"]
+description: "How I used Coqui.ai TTS and The Internet Archive to make audiobook MP3 files."
 ---
 
 When I was in high school I used to use [Microsoft Agent](https://en.wikipedia.org/wiki/Microsoft_Agent) to read books from [Project Gutenberg](https://www.gutenberg.org/). Nowadays, I use [@Voice Aloud Reader](https://play.google.com/store/apps/details?id=com.hyperionics.avar&hl=en_US) on Android to listen to `.epub` files.

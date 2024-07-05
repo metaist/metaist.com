@@ -3,6 +3,7 @@ created: "2024-06-23T19:01:15Z"
 updated: "2024-06-23T19:01:15Z"
 title: "Trying Firefox"
 tags: ["firefox", "chrome", "Patrick Kage"]
+description: "After 15 years of using Google Chrome as my primary browser, I'm back to using Firefox."
 ---
 
 After 15 years of using Google Chrome as my primary browser, I'm back to using Firefox. Firefox was better than Mozilla and certainly better than Internet Explorer, but it had memory leak issues which caused to slow down quite a bit. Chrome was snappy and auto-updated and it was fun to develop for.

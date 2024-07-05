@@ -3,6 +3,7 @@ created: "2024-04-26T19:28:03Z"
 updated: "2024-04-26T19:28:03Z"
 title: "Sharing NFS Between GCP Projects"
 tags: ["nfs", "gcp"]
+description: "A step-by-step guide for future me."
 ---
 
 One of the parts of Google Cloud that I haven't fully explored yet is their networking stack. However, I got a nice first taste yesterday while trying to share a Google Filestore (NFS) between two Google Cloud projects.

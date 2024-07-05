@@ -3,6 +3,7 @@ created: "2024-06-23T20:30:51Z"
 updated: "2024-06-23T20:30:51Z"
 title: "Maximum He HaShe'elah"
 tags: ["Torah", "concordance", "Harold Zazula"]
+description: "What is the largest number of interrogative prefixes in a pasuk or parsha?"
 ---
 
 _Previously: [Consecutive Mappiq He](/blog/2023/09/consecutive-mappiq-he.html), [Non-Consecutive Mappiq He](/blog/2023/09/non-consecutive-mappiq-he.html)_
