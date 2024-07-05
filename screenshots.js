@@ -38,8 +38,8 @@ const screenshot = async (url, path) =>
   $`firefox -P screenshot --screenshot ${path} ${url}`;
 
 /** Crop an image. */
-const crop = async (path, size = "1200x630") =>
-  $`convert ${path} -gravity north -crop ${size}+0+100 +repage ${path}`;
+const crop = async (path, size = "1200x630+0+100") =>
+  $`convert ${path} -gravity north -crop ${size} +repage ${path}`;
 
 /** Get list of slugs from a file.  */
 const getSlugs = async (path) =>
