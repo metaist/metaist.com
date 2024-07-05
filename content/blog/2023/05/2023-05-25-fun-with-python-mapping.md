@@ -2,7 +2,7 @@
 created: "2023-05-25T23:10:50Z"
 updated: "2023-05-25T23:10:51Z"
 title: "Fun with Python Mapping"
-tags: ["note", "python", "mypy"]
+tags: ["python", "mypy"]
 ---
 
 [`mypy`](https://mypy-lang.org/) is a static type-checking tool. It's like a very pedantic linter and I have a personal goal to try and satisfy it's `--strict` mode demands.

@@ -29,6 +29,9 @@ importers:
       cspell:
         specifier: ^6.31.1
         version: 6.31.1
+      docopt:
+        specifier: ^0.6.2
+        version: 0.6.2
       glob:
         specifier: ^10.2.4
         version: 10.2.4
@@ -658,6 +661,10 @@ packages:
     resolution: {integrity: sha512-LmVkry/oDShEgSZPNgqCIp2/TlqtExeGmymru3uCELnfyjY11IzpAproLYs+1X88fXO6DBoYP3ul2Xo2yz2j6A==}
     engines: {node: '>= 0.8.0'}
     hasBin: true
+
+  docopt@0.6.2:
+    resolution: {integrity: sha512-NqTbaYeE4gA/wU1hdKFdU+AFahpDOpgGLzHP42k6H6DKExJd0A55KEVWYhL9FEmHmgeLvEU2vuKXDuU+4yToOw==}
+    engines: {node: '>=0.10.0'}
 
   doctypes@1.1.0:
     resolution: {integrity: sha512-LLBi6pEqS6Do3EKQ3J0NqHWV5hhb78Pi8vvESYwyOy2c31ZEZVdtitdzsQsKb7878PEERhzUk0ftqGhG6Mz+pQ==}
@@ -2382,6 +2389,8 @@ snapshots:
   detect-libc@2.0.1: {}
 
   dev-ip@1.0.1: {}
+
+  docopt@0.6.2: {}
 
   doctypes@1.1.0: {}
 
