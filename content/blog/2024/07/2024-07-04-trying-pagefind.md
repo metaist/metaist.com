@@ -3,6 +3,7 @@ created: "2024-07-05T00:05:57Z"
 updated: "2024-07-05T01:39:22Z"
 title: "Trying pagefind"
 tags: ["pagefind", "trace", "eleventy"]
+description: "Adding a search box to the blog."
 ---
 
 _Previously: [Adding a table of contents](/blog/2023/05/adding-a-toc.html), [Adventures in Eleventy](/blog/2023/05/adventures-in-eleventy.html)_

@@ -5,7 +5,7 @@
         <a href="{{ post.url }}"><img src="{{post.data.thumbnail}}" alt="{{post.data.title}}"/></a>
       {% endif %}
 
-      <div>
+      <div class="metadata">
         {% if post.data.draft %}
           <span class="draft">DRAFT</span>
         {% endif %}
@@ -18,6 +18,11 @@
             <code>{{ post.url }}</code>
           {% endif %}
         </a>
+
+        {% if post.data.description %}
+          <br/>
+          <span class="description">{{post.data.description}}</span>
+        {% endif %}
       </div>
     </div>
   {% endfor %}
