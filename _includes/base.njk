@@ -26,11 +26,12 @@
     <meta name="description" content="{{ description or metadata.description }}"/>
     <meta property="og:description" content="{{ description or metadata.description }}"/>
     <meta property="og:url" content="{{ page.url | htmlBaseUrl(metadata.url) }}"/>
-    {% if thumbnail -%}<meta property="og:image" content="{{thumbnail}}" data-pagefind-meta="image[content]"/>{%- endif %}
 
     {% if metadata.IS_DEV -%}
+      {% if thumbnail -%}<meta property="og:image" content="{{thumbnail}}" data-pagefind-meta="image[content]"/>{%- endif %}
       <link rel="alternate" type="application/atom+xml" title="{{ metadata.title }}" href="/blog/feed/index.xml"/>
     {%- else -%}
+      {% if thumbnail -%}<meta property="og:image" content="{{thumbnail | htmlBaseUrl(metadata.url)}}" data-pagefind-meta="image[content]"/>{%- endif %}
       <link rel="alternate" type="application/atom+xml" title="{{ metadata.title }}" href="https://feeds.feedburner.com/metaist"/>
     {%- endif %}
 
