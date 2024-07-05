@@ -2,7 +2,7 @@
 created: "2024-07-05T00:05:57Z"
 updated: "2024-07-05T01:39:22Z"
 title: "Trying pagefind"
-tags: ["pagefind", "trace", "eleventy"]
+tags: ["pagefind", "eleventy", "search", "metaist"]
 description: "Adding a search box to the blog."
 ---
 

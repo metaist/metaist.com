@@ -41,3 +41,4 @@
 2024-06-27-generating-audiobooks
 
 2024-07-04-trying-pagefind
+2024-07-05-screenshot-thumbnails
