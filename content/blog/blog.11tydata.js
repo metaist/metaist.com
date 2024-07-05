@@ -27,17 +27,12 @@ const findThumbnail = async (data) => {
   return files.length ? files[0].replace(/^content/, "") : "";
 };
 
-const parseDate = (attr) => (data) =>
-  data[attr] ? new Date(data[attr]) : data.page.date;
-
 module.exports = {
   layout: "post.njk",
   author: "The Metaist",
   tags: ["post"],
   eleventyComputed: {
     id: makeID,
-    created: parseDate("created"),
-    updated: parseDate("updated"),
     permalink: makePermalink,
     thumbnail: findThumbnail,
   },

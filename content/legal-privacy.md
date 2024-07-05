@@ -4,9 +4,10 @@ updated: "2023-07-27T19:13:39Z"
 title: "Privacy Policy"
 layout: "post.njk"
 permalink: /privacy/
+tags: ["legal"]
 ---
 
-**Last updated**: 2023-07-27
+**Last updated**: {{updated | readableDate: "yyyy-LL-dd" }}
 
 [[toc]]
 

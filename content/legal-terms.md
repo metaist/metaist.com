@@ -4,6 +4,7 @@ updated: "2023-07-27T19:13:39Z"
 title: "Terms of Service"
 layout: "post.njk"
 permalink: /terms/
+tags: ["legal"]
 ---
 
 **Last updated**: 2023-07-27<br />
