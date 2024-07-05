@@ -1,6 +1,6 @@
 ---
 created: "2024-07-05T00:05:57Z"
-updated: "2024-07-05T01:34:10Z"
+updated: "2024-07-05T01:39:22Z"
 title: "Trying pagefind"
 tags: ["pagefind", "trace", "eleventy"]
 ---
@@ -13,7 +13,7 @@ In the past I've used [Google Custom Search](https://en.wikipedia.org/wiki/Googl
 
 It took me so long to write down my thoughts on this that I actually solve this problem for a different website using [`pagefind`](https://pagefind.app/) which generates a static index _after_ you've built your site.
 
-The actual changes are recording issue [#7](https://github.com/metaist/metaist.com/issues/7), but all it took was:
+The actual changes are recorded in issue [#7](https://github.com/metaist/metaist.com/issues/7), but all it took was:
 
 ```bash
 $ pnpm add --save-dev pagefind
