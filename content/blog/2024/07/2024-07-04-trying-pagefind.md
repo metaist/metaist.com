@@ -1,6 +1,6 @@
 ---
 created: "2024-07-05T00:05:57Z"
-updated: "2024-07-05T00:05:58Z"
+updated: "2024-07-05T01:34:10Z"
 title: "Trying pagefind"
 tags: ["pagefind", "trace", "eleventy"]
 ---
@@ -16,7 +16,7 @@ It took me so long to write down my thoughts on this that I actually solve this 
 The actual changes are recording issue [#7](https://github.com/metaist/metaist.com/issues/7), but all it took was:
 
 ```bash
-$ pnpm add pagefind
+$ pnpm add --save-dev pagefind
 ```
 
 ```js
