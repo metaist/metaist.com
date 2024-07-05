@@ -3,6 +3,7 @@ created: "2023-07-27T20:07:41Z"
 updated: "2023-07-27T20:07:41Z"
 title: "Google Drive Links: Workspace Add-on"
 tags: ["gdrive", "gscript", "trace"]
+description: "My first approach to getting multiple Google Drive links."
 ---
 
 _Previously_: [Problem: Google Drive Links](/blog/2023/07/google-drive-links.html)

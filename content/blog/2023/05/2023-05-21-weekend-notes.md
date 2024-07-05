@@ -4,6 +4,7 @@ updated: "2023-05-22T03:03:26Z"
 title: "2023-05-21 Weekend Notes"
 slug: 2023-05-21-weekend-notes
 tags: ["note", "ezq", "LTS"]
+description: "New ezq release and some notes about setting up the new blog."
 ---
 
 ## Releases

@@ -9,18 +9,17 @@
         {% if post.data.draft %}
           <span class="draft">DRAFT</span>
         {% endif %}
-
         <time title="{{post.data.created.toISOString()}}" datetime="{{ post.data.created | htmlDateString }}">{{ post.data.created | readableDate("yyyy-LL-dd") }}</time><br/>
 
         <a href="{{ post.url }}">
-          {% if post.data.title %}{{ post.data.title }}
-          {% else %}
+          {%- if post.data.title -%}{{ post.data.title }}
+          {%- else -%}
             <code>{{ post.url }}</code>
-          {% endif %}
+          {%- endif -%}
         </a>
 
         {% if post.data.description %}
-          <br/>
+          &ndash;
           <span class="description">{{post.data.description}}</span>
         {% endif %}
       </div>

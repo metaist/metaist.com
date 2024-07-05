@@ -3,6 +3,7 @@ created: "2023-11-30T13:52:23Z"
 updated: "2023-11-30T13:52:23Z"
 title: "Access type hints in python"
 tags: ["python", "freshlinks"]
+description: "Spoiler: typing.get_type_hints() does the trick."
 ---
 
 While working on [freshlinks], I got frustrated with not having my arguments typed correctly when coming from `docopt`. I know there's [`type-docopt`](https://pypi.org/project/type-docopt/), but that introduces a new syntax and I haven't fully evaluated that library yet.

@@ -3,6 +3,7 @@ created: "2023-07-26T15:13:12Z"
 updated: "2023-07-26T21:39:14Z"
 title: "Problem: Google Drive Links"
 tags: ["gdrive", "problem"]
+description: "I need to get multiple links from Google Drive all the time."
 ---
 
 Several times a day I need to send emails with links to Google Drive documents. However, I do not like the default "Insert File from Google Drive" formatting in Gmail and Google Docs; I just want plain links with the title of the document as the link text.

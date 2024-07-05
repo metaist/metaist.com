@@ -4,6 +4,7 @@ updated: "2023-06-06T20:31:45Z"
 title: "2023-06-06 Weeknotes"
 slug: "2023-06-06-weeknotes"
 tags: ["note"]
+description: "New versions of attrbox, pdfmerge, and ezq; a Design Lab for a Visual Schedule; converting subtitles into transcripts."
 ---
 
 Going forward, I'm going to start calling these "weeknotes" following the apparent convention for this kind of thing.

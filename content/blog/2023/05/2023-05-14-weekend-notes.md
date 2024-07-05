@@ -15,6 +15,7 @@ tags:
     "shields.io",
     "eleventy",
   ]
+description: "New ezq release and some experiments with ruff and eleventy."
 ---
 
 ## Releases

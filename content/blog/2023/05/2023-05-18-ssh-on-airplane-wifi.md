@@ -3,6 +3,7 @@ created: "2023-05-18T09:41:41Z"
 updated: "2023-05-18T09:41:41Z"
 title: "SSH on Airplane WiFi"
 tags: ["trace"]
+description: "In which I try, unsuccessfully, to run ssh over an airplane wifi."
 ---
 
 **Contents**

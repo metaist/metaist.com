@@ -4,6 +4,7 @@ updated: "2023-11-01T15:20:30Z"
 title: "DALL-E: Reel-to-Reel"
 tags: ["trace", "chatgpt", "dall-e"]
 thumbnail: /blog/2023/10/2023-10-31-dall-e-reel-to-reel/dall-e-1.png
+description: "In which I ask DALL-E to draw a version of a scene from Real Genius."
 ---
 
 **User**: Please draw a simple line-art drawing based on the following paragraphs: There's a ▶️ montage in Real Genius&nbsp;(that we often reference at work) where a lecture hall with students gradually chooses to leave a tape recorder to record the lecture instead of attending. Eventually, the professor chooses to leave a reel-to-reel player to recite the lecture to the room full of recorders.&nbsp;

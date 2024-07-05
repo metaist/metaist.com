@@ -4,6 +4,7 @@ updated: "2023-10-20T18:23:00Z"
 title: "Transcript: ChatGPT with DALL-E"
 tags: ["trace", "chatgpt", "dall-e"]
 thumbnail: /blog/2023/10/2023-10-20-transcript-chatgpt-with-dall-e/dall-e-5.png
+description: "In which I ask DALL-E to draw a picture after some hard times."
 ---
 
 **User**: I would like a 1950's themed image that captures the essential quality of the following paragraphs: Apologies for the delay of this email. Originally this email was going to be a couple of days late because of the holiday of Sukkot spanned the end of September and start of October. But then as the holiday ended and news from Israel started flooding in, I (like many of you) got into a spiral of watching my phone constantly and trying to find out how family and friends were doing and what developments were being reported.

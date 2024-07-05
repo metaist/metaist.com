@@ -2,7 +2,8 @@
 created: "2023-06-06T20:31:34Z"
 updated: "2023-06-06T20:31:35Z"
 title: "Trying whisperX"
-tags: ["trace", "Shalev NessAiver"]
+tags: ["trace", "Shalev NessAiver", "whisper"]
+description: "How I converted a video into a transcript."
 ---
 
 As part of making the [first episode](/blog/2023/06/design-lab-1.html) of [_Design Lab_](/blog/tag/design-lab/), I needed two assets: subtitles and a transcript.

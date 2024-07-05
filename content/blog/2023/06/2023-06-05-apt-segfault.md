@@ -3,6 +3,7 @@ created: "2023-06-05T14:13:10Z"
 updated: "2023-06-05T14:13:10Z"
 title: "apt segfault"
 tags: ["trace", "apt"]
+description: "One fix to apt crashing."
 ---
 
 Tried doing a `apt upgrade -y` and got:

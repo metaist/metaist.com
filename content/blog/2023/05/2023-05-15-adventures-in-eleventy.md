@@ -13,6 +13,7 @@ tags:
     "less",
     "metaist",
   ]
+description: "Long post tracing my attempt to convert my blog to eleventy."
 ---
 
 _Previously_: [2023-05-14 Weekend Notes](/blog/2023/05/2023-05-14-weekend-notes.html)

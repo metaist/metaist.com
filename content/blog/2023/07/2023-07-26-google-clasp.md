@@ -3,6 +3,7 @@ created: "2023-07-26T21:23:07Z"
 updated: "2023-07-26T21:23:07Z"
 title: "Google Clasp"
 tags: ["gscript", "clasp"]
+description: "Very useful if you work with Google Apps Script."
 ---
 
 I've been writing Google Apps Scripts for a while, but only recently discovered that Google has a command-line tool called [`clasp`](https://github.com/google/clasp).

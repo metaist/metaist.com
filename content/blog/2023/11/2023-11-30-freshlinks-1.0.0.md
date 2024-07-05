@@ -3,6 +3,7 @@ created: "2023-12-01T02:39:24Z"
 updated: "2023-12-01T02:39:24Z"
 title: "freshlinks 1.0.0"
 tags: ["release", "freshlinks", "LTS"]
+description: "Initial release of a link checker."
 ---
 
 [`freshlinks 1.0.0`](https://github.com/metaist/freshlinks/releases/tag/1.0.0) is now published.

@@ -4,6 +4,7 @@ updated: "2023-05-18T09:04:10Z"
 title: "Adding a table of contents"
 slug: "adding-a-toc"
 tags: ["trace", "markdown", "eleventy"]
+description: "In which I learn how to add a table of contents to posts."
 ---
 
 **Contents**

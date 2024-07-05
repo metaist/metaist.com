@@ -3,6 +3,7 @@ created: "2023-10-27T12:51:21Z"
 updated: "2023-10-27T12:51:21Z"
 title: LLMs for Tip-of-the-Tongue Search
 tags: ["llm", "chatgpt"]
+description: "It works pretty well."
 ---
 
 Although I've been playing with ChatGPT for a while, today marks the first time I actually used it to remember the name of a piece of software that was on the tip of my tongue, but Google searches didn't help.
