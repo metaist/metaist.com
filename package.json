@@ -2,10 +2,10 @@
   "scripts": {
     "clean": "rm -rf _site",
     "lint:spell": "cspell --gitignore '**/*.{txt,md,markdown}'",
-    "lint": "pnpm lint:spell",
+    "lint": "ds lint:spell",
     "dev": "eleventy --serve",
     "build": "eleventy",
-    "all": "pnpm clean && pnpm lint && pnpm build",
+    "all": "ds clean lint build",
     "push": "rsync -aP _site/ boson:/var/www/metaist.com/public_html/"
   },
   "devDependencies": {
