@@ -43,3 +43,5 @@
 2024-07-04-trying-pagefind
 2024-07-05-screenshot-thumbnails
 #2024-07-05-weeknotes
+2024-07-26-python-dev-deps
+#2024-07-26-ds-0.1.3
