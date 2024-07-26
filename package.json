@@ -6,7 +6,8 @@
     "dev": "eleventy --serve",
     "build": "eleventy",
     "all": "ds clean lint build",
-    "push": "rsync -aP _site/ boson:/var/www/metaist.com/public_html/"
+    "push": "rsync -aP _site/ boson:/var/www/metaist.com/public_html/",
+    "publish": "ds all push"
   },
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
