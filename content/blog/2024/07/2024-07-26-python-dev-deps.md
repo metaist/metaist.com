@@ -1,7 +1,7 @@
 ---
 created: "2024-07-26T21:15:14Z"
 updated: "2024-07-26T21:15:14Z"
-title: "On Python [dev] Dependencies"
+title: "Stop Hiding Python Dev Dependencies"
 tags: ["python", "pdm", "poetry"]
 description: "The most popular python tools each have a different place to put dev dependencies. I think they should just be optional."
 ---
@@ -36,3 +36,5 @@ In [this lengthy discussion on `pdm`](https://github.com/pdm-project/pdm/discuss
 Sure it would have probably been better for `pyproject.toml` to have defined a `dev-dependencies` section. But until it's defined, why not use the standard mechanism for optional dependencies to define dev dependencies?
 
 I can be convinced otherwise, but my current policy is to put dev dependencies in `project.optional-dependencies.dev`.
+
+**Update** (2024-07-29): Thanks to **Shalev NessAiver** who suggested a much better title for this article.
