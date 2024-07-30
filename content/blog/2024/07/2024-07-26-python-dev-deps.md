@@ -1,12 +1,12 @@
 ---
 created: "2024-07-26T21:15:14Z"
-updated: "2024-07-26T21:15:14Z"
+updated: "2024-07-30T21:11:40Z"
 title: "Stop Hiding Python Dev Dependencies"
 tags: ["python", "pdm", "poetry"]
 description: "The most popular python tools each have a different place to put dev dependencies. I think they should just be optional."
 ---
 
-Both [PEP 621](https://peps.python.org/pep-0621/) and the newer [`pyproject.toml` Specification](https://packaging.python.org/en/latest/specifications/pyproject-toml/) describe how a Python project should specify it's `dependencies` which are required to run the project. They also describe `optional-dependencies` which are "extra" to the project and can be added for additional features. Groups of `optional-dependencies` are grouped under a common name.
+Both [PEP 621](https://peps.python.org/pep-0621/) and the newer [`pyproject.toml` Specification](https://packaging.python.org/en/latest/specifications/pyproject-toml/) describe how a Python project should specify its `dependencies` which are required to run the project. They also describe `optional-dependencies` which are "extra" to the project and can be added for additional features. Groups of `optional-dependencies` are grouped under a common name.
 
 There's another class of dependencies that are not discussed in the aforementioned standards and these are known as `dev-dependencies`: those packages which you need during _development_ of the project, but not to _use_ the project itself.
 
