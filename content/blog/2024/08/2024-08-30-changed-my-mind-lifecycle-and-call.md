@@ -1,7 +1,7 @@
 ---
 created: "2024-08-30T20:40:06Z"
 updated: "2024-08-30T20:40:06Z"
-title: "Changed My Mind: Lifecycle Events"
+title: "Changed My Mind: Lifecycle Events and call-style Tasks"
 tags: ["ds"]
 description: "I still don't like 'em, so I'll make it opt-in."
 ---
