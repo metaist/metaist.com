@@ -45,3 +45,7 @@
 #2024-07-05-weeknotes
 2024-07-26-python-dev-deps
 #2024-07-26-ds-0.1.3
+
+2024-08-30-ds-1.3.0
+2024-08-30-formatting-bash
+2024-08-30-changed-my-mind-lifecycle-and-call
