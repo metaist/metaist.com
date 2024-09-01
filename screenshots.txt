@@ -50,3 +50,4 @@
 2024-08-30-formatting-bash
 2024-08-30-changed-my-mind-lifecycle-and-call
 2024-08-30-command-duration
+2024-08-31-packaging-python-with-cosmopolitan
