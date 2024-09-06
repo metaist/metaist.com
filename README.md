@@ -1,23 +1,15 @@
 # metaist.com
 
-## Why?
+This repository is for the static content of [metaist.com](https://metaist.com) (mostly the blog) lives. This is not for projects or tools or other bits hosted on that domain.
 
-This is where the static content for [metaist.com](https://metaist.com) (mostly the blog) lives. This is not for projects or tools or other bits hosted on that domain.
-
-## Dev
+To run the local server:
 
 ```bash
-pnpm dev
+ds dev
 ```
 
-## Build
+To build and publish articles:
 
 ```bash
-pnpm all
-```
-
-## Release
-
-```bash
-pnpm push
+ds publish
 ```
