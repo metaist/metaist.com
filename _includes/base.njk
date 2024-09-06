@@ -73,6 +73,30 @@
 
     <main id="skip">{{ content | safe }}</main>
 
+    {%- if series %}
+      {% set previousPost = collections[series] | getPreviousCollectionItem %}
+      {% set nextPost = collections[series] | getNextCollectionItem %}
+
+      <nav class="prev-next">
+        {% if previousPost %}
+          <a class="prev" href="{{ previousPost.url }}">
+            <small>&laquo; Previous</small><br/>
+            {{ previousPost.data.title }}
+          </a>
+        {% else %}
+          <div class="prev">&nbsp;</div>
+        {% endif %}
+        {% if nextPost %}
+          <a class="next" href="{{ nextPost.url }}">
+            <small>Next &raquo;</small><br/>
+            {{ nextPost.data.title }}
+          </a>
+        {% else %}
+          <div class="prev">&nbsp;</div>
+        {% endif %}
+      </nav>
+    {% endif -%}
+
     <footer>
       <ul>
         <li>

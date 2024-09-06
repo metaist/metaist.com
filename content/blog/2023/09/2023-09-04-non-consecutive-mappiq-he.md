@@ -3,6 +3,7 @@ created: "2023-09-04T21:08:52Z"
 updated: "2023-11-28T17:09:10Z"
 title: "Non-Consecutive Mappiq He"
 tags: ["Torah", "concordance"]
+series: "concordance"
 description: "What is the maximum number of mappiq he in any one verse?"
 ---
 

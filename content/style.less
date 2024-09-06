@@ -334,12 +334,39 @@ img {
   aspect-ratio: 16 / 9;
 }
 
+.prev-next {
+  border-top: 1px solid var(--text-color-link);
+  background-color: var(--color-gray-50);
+  padding: 0.5rem 1.2rem;
+
+  display: flex;
+
+  a[href] {
+    text-decoration: none;
+    font-size: 1.2rem;
+    color: var(--text-color);
+
+    &:hover,
+    &:active {
+      color: var(--text-color-link-active);
+    }
+  }
+
+  .prev,
+  .next {
+    width: 50%;
+  }
+
+  .next {
+    text-align: right;
+  }
+}
+
 footer {
   border-top: 1px solid var(--text-color-link);
 
   font-size: 0.75rem;
   padding: 0;
-  margin: 0.5rem;
   text-align: center;
 
   a,

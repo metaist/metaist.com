@@ -3,6 +3,7 @@ created: "2024-06-23T20:30:51Z"
 updated: "2024-06-23T20:30:51Z"
 title: "Maximum He HaShe'elah"
 tags: ["Torah", "concordance", "Harold Zazula"]
+series: "concordance"
 description: "What is the largest number of interrogative prefixes in a pasuk or parsha?"
 ---
 
