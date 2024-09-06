@@ -15,7 +15,7 @@
 
   --background-color: #fff;
 
-  --text-color: var(--color-gray-90);
+  --text-color: #333;
   --text-color-link: #336699;
   --text-color-link-active: lighten(#336699, 10%);
   --text-color-link-visited: darken(#336699, 10%);
@@ -29,12 +29,22 @@
     --color-gray-50: #c0c0c0;
     --color-gray-90: #dad8d8;
 
-    /* --text-color is assigned to --color-gray-_ above */
-    --text-color-link: #1493fb;
-    --text-color-link-active: #6969f7;
-    --text-color-link-visited: #a6a6f8;
+    --text-color: #dad8d8;
+    --text-color-link: lighten(#336699, 35%);
+    --text-color-link-active: lighten(#336699, 35%);
+    --text-color-link-visited: lighten(#336699, 35%);
 
     --background-color: #15202b;
+
+    --pagefind-ui-text: #dad8d8;
+    --pagefind-ui-background: #15202b;
+  }
+
+  #search {
+    input,
+    button {
+      color: var(--text-color);
+    }
   }
 }
 
