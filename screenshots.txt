@@ -51,3 +51,6 @@
 2024-08-30-changed-my-mind-lifecycle-and-call
 2024-08-30-command-duration
 2024-08-31-packaging-python-with-cosmopolitan
+
+2024-09-30-google-drive-links-rclone
+2024-09-30-google-drive-links-thunar-and-finder
