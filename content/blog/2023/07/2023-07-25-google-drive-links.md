@@ -3,6 +3,7 @@ created: "2023-07-26T15:13:12Z"
 updated: "2023-07-26T21:39:14Z"
 title: "Problem: Google Drive Links"
 tags: ["gdrive", "problem"]
+series: "gdrive"
 description: "I need to get multiple links from Google Drive all the time."
 ---
 
