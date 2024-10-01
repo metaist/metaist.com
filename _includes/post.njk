@@ -6,7 +6,6 @@ layout: base.njk
     <div class="draft-banner">DRAFT</div>
   {% endif -%}
 
-  <h1>{{ title }}</h1>
   <ul class="post-metadata">
     <li>
       <time title="{{created.toISOString()}}" datetime="{{ created | htmlDateString }}">{{ created | readableDate("yyyy-LL-dd") }}</time>
@@ -19,6 +18,11 @@ layout: base.njk
       </li>
     {%- endfor %}
   </ul>
-
+  <h1>{{ title }}</h1>
+  {%- if description -%}
+    <p>
+      <em>{{description}}</em>
+    </p>
+  {%- endif -%}
   {{ content | safe }}
 </article>
