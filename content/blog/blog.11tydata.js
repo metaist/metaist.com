@@ -10,6 +10,8 @@ const makeID = (data) => {
 };
 
 const makePermalink = (data) => {
+  if (data.draft && !process.env.BUILD_DRAFTS) return false;
+
   const fileDate = path.basename(data.page.inputPath).substring(0, 10);
   const yearMonth = `${fileDate.substring(0, 4)}/${fileDate.substring(5, 7)}`;
   const slug = data.slug || data.page.fileSlug;
