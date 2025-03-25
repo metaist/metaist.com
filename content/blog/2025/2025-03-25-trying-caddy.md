@@ -3,6 +3,7 @@ created: "2025-03-25T17:32:19Z"
 updated: "2025-03-25T17:32:19Z"
 title: "Trying Caddy"
 tags: ["trace", "caddy", "LTS"]
+description: "How quickly I've abandoned nginx + certbot."
 ---
 
 I accidentally blew away my server (with several websites), so today was a good a day as any to try [`caddy`](https://caddyserver.com/).
