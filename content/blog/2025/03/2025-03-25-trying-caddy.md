@@ -2,7 +2,7 @@
 created: "2025-03-25T17:32:19Z"
 updated: "2025-03-25T17:32:19Z"
 title: "Trying Caddy"
-tags: ["trace", "caddy", "LTS"]
+tags: ["caddy", "LTS"]
 description: "How quickly I've abandoned nginx + certbot."
 ---
 
