@@ -2,7 +2,7 @@
 created: "2025-04-08T00:31:42Z"
 updated: "2025-04-08T13:19:30Z"
 title: "TIL: contextvars in python"
-tags: ["TIL", "python", "contextvars"]
+tags: ["TIL", "python", "contextvars", "Shalev NessAiver"]
 description: "What they are and how to use them."
 ---
 
@@ -68,7 +68,9 @@ Most of the time I just want to call `my_function` and have it do the right thin
 
 While all the advice about global variables is reasonable, this is one of those cases where I actually think python's `with` statement works incredibly well.
 
-**Update (2025-04-08)**: Shalev NessAiver asks whether `ContextVar` acts like a stack and whether you can `pop` and `push` to the same token's value.
+## Is it like a stack?
+
+**Update 2025-04-08**: [Shalev NessAiver](https://github.com/Pugio) asked me whether `ContextVar` acts like a stack and whether you can `pop` and `push` to the same token's value.
 
 Nope. First, unlike a stack you reset the values in a different order than you set them.
 
@@ -100,3 +102,7 @@ assert v.get() == 0
 
 v.reset(token) # raises RuntimeError: <Token ...> has already been used once
 ```
+
+## Updates
+
+- 2025-04-08: added Shalev NessAiver's question
