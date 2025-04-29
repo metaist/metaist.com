@@ -63,3 +63,4 @@
 2025-04-07-til-contextvars
 2025-04-16-cropping-and-merging-pdfs
 2025-04-21-attrbox-0.1.6
+2025-04-29-class-based-docopt
