@@ -3,6 +3,7 @@ created: "2024-09-30T22:45:06Z"
 updated: "2024-09-30T22:45:06Z"
 title: "pythonoid: Emulating the Python CLI in Python"
 tags: ["python", "cosmofy"]
+series: "cosmofy"
 description: "How much of the Python CLI can you emulate in Python?"
 ---
 

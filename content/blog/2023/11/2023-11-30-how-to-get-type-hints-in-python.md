@@ -2,7 +2,8 @@
 created: "2023-11-30T13:52:23Z"
 updated: "2023-11-30T13:52:23Z"
 title: "Access type hints in python"
-tags: ["python", "freshlinks"]
+tags: ["python", "freshlinks", "typed"]
+series: "typed"
 description: "Spoiler: typing.get_type_hints() does the trick."
 ---
 

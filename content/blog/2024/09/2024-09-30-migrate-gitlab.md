@@ -3,7 +3,7 @@ created: "2024-10-01T02:13:02Z"
 updated: "2024-10-01T02:13:02Z"
 title: "Migrate and Upgrade GitLab"
 tags: ["git", "gitlab"]
-# series: "git"
+series: "git"
 description: "How to move GitLab from one server to another."
 ---
 

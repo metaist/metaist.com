@@ -3,6 +3,7 @@ created: "2023-12-01T02:39:24Z"
 updated: "2023-12-01T02:39:24Z"
 title: "freshlinks 1.0.0"
 tags: ["release", "freshlinks", "LTS"]
+series: "freshlinks"
 description: "Initial release of a link checker."
 ---
 
