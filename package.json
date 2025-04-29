@@ -1,7 +1,7 @@
 {
   "scripts": {
     "clean": "rm -rf _site",
-    "lint:spell": "cspell --gitignore '**/*.{txt,md,markdown}'",
+    "lint:spell": "npx --yes cspell lint --unique --gitignore '**/*.{txt,md,markdown}'",
     "lint": "ds lint:spell",
     "dev": "eleventy --serve",
     "build": "eleventy",
