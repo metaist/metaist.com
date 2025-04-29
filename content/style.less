@@ -135,10 +135,20 @@ ul.contains-task-list {
 }
 
 table {
+  border-collapse: collapse;
   margin: 1em 0;
+
+  tr {
+    border-bottom: 1px solid #333;
+  }
+
   td,
   th {
     padding-right: 1em;
+  }
+
+  td {
+    vertical-align: top;
   }
 }
 
@@ -174,6 +184,11 @@ pre:not([class*="language-"]) {
   white-space: pre;
   word-spacing: normal;
   word-break: normal;
+}
+
+hr {
+  border: none;
+  border-bottom: 1px solid black;
 }
 
 /* Header */
