@@ -1,28 +1,32 @@
 <div class="posts">
   {% for post in postslist | reverse %}
     <div class="post">
-      {% if post.data.thumbnail %}
-        <a href="{{ post.url }}"><img src="{{post.data.thumbnail}}" alt="{{post.data.title}}"/></a>
-      {% endif %}
+      <div>
+        <div class="post-metadata">
+          <time title="{{post.data.created.toISOString()}}" datetime="{{ post.data.created | htmlDateString }}">{{ post.data.created | readableDate("yyyy-LL-dd") }}</time>
 
-      <div class="metadata">
-        {% if post.data.draft %}
-          <span class="draft">DRAFT</span>
-        {% endif %}
-        <time title="{{post.data.created.toISOString()}}" datetime="{{ post.data.created | htmlDateString }}">{{ post.data.created | readableDate("yyyy-LL-dd") }}</time><br/>
+          {% if post.data.draft %}
+            <span class="draft">DRAFT</span>
+          {% endif %}
+        </div>
+        <br/>
 
         <a href="{{ post.url }}">
-          {%- if post.data.title -%}{{ post.data.title }}
-          {%- else -%}
+          {% if post.data.title %}{{ post.data.title }}
+          {% else %}
             <code>{{ post.url }}</code>
-          {%- endif -%}
+          {% endif %}
         </a>
 
-        {% if post.data.description %}
-          &ndash;
+        {%- if post.data.description -%}
+          <br/>
           <span class="description">{{post.data.description}}</span>
         {% endif %}
       </div>
+
+      {% if post.data.thumbnail %}
+        <a href="{{ post.url }}"><img src="{{post.data.thumbnail}}" alt="{{post.data.title}}"/></a>
+      {% endif %}
     </div>
   {% endfor %}
 </div>
