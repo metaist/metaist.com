@@ -11,6 +11,7 @@
         </div>
         <br/>
 
+        {%- if post.data.link -%}➡{%- endif %}
         <a href="{{ post.url }}">
           {% if post.data.title %}{{ post.data.title }}
           {% else %}
@@ -20,7 +21,9 @@
 
         {%- if post.data.description -%}
           <br/>
-          <span class="description">{{post.data.description}}</span>
+          <span class="description">
+            <em>{{post.data.description}}</em>
+          </span>
         {% endif %}
       </div>
 

@@ -19,7 +19,17 @@ layout: base.njk
     {%- endfor %}
   </ul>
 
-  <h1>{{ title }}</h1>
+  {%- if link %}
+    <p>
+      ➡
+      <a href="{{link}}">
+        <strong>{{ title }}</strong>
+      </a>
+    </p>
+  {% else %}
+    <h1>{{ title }}</h1>
+  {% endif %}
+
   {%- if description -%}
     <p class="description">
       <em>{{description}}</em>

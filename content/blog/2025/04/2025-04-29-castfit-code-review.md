@@ -3,7 +3,7 @@ created: "2025-04-29T17:23:35Z"
 updated: "2025-04-29T17:23:37Z"
 title: "castfit code review"
 tags: ["castfit", "chatgpt", "gemini", "review"]
-description: "Some reasonable feedback"
+description: "Some reasonable feedback."
 series: "castfit"
 ---
 
