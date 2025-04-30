@@ -1,3 +1,4 @@
+const fs = require("node:fs");
 const { DateTime } = require("luxon");
 
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
@@ -48,9 +49,16 @@ module.exports = (eleventyConfig) => {
     return Array.from(tagSet);
   });
 
-  eleventyConfig.addFilter("filterTagList", function filterTagList(tags) {
+  eleventyConfig.addFilter("filterTagList", (tags) => {
     return (tags || []).filter(
       (tag) => ["all", "nav", "post", "posts"].indexOf(tag) === -1
     );
+  });
+
+  eleventyConfig.addFilter("fileExists", (filename) => fs.existsSync(filename));
+  eleventyConfig.addFilter("units", (num, singular, plural) => {
+    return `${num.toLocaleString("en-US")} ${
+      num === 1 ? singular : plural || singular + "s"
+    }`;
   });
 };

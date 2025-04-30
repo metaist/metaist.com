@@ -14,9 +14,14 @@ pagination:
 eleventyComputed:
   title: Tagged “{{ tag }}”
 ---
-<h1>Tagged “{{ tag }}”</h1>
+{%- set postslist = collections[tag] | sortByDate -%}
 
-{% set postslist = collections[tag] | sortByDate %}
-{% include "postslist.njk" %}
+<h1>{{collections[tag].length | units('post')}} tagged “{{ tag }}”</h1>
 
-<p>See <a href="/blog/tag/">all tags</a>.</p>
+{%- set introPath %}_includes/tag/{{ tag | slugify }}.md{% endset -%}
+{%- if introPath | fileExists %}
+  {% renderFile introPath %}
+  <hr/>
+{% endif -%}
+
+{%- include "postslist.njk" -%}
