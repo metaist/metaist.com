@@ -66,3 +66,5 @@
 2025-04-29-class-based-docopt
 2025-04-29-castfit-0.1.1
 2025-04-29-castfit-code-review
+2025-04-29-why-cattrs-is-fast
+2025-04-29-dangerous-professional-voice

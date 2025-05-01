@@ -151,6 +151,22 @@ a[href] {
   }
 }
 
+blockquote {
+  border-left: 0.5rem solid var(--color-gray-50);
+  margin-left: 2rem;
+  margin-right: 0;
+  padding-left: 1rem;
+}
+
+figure {
+  background-color: var(--color-gray-90);
+  text-align: center;
+  padding: 1rem;
+  figcaption {
+    color: var(--background-color);
+  }
+}
+
 p,
 li {
   line-height: 1.5;
@@ -223,6 +239,9 @@ hr {
   border-bottom: 1px solid var(--color-gray-20);
 }
 
+.left {
+  text-align: left;
+}
 .center {
   text-align: center;
 }
@@ -383,7 +402,8 @@ footer {
   border-top: 1px solid var(--text-color-link);
 
   font-size: 0.75rem;
-  padding: 0;
+  margin: 1rem 0 2rem 0;
+  padding: 0 1rem 0 1rem;
   text-align: center;
 
   a,
