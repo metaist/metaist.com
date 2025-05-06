@@ -6,6 +6,7 @@ tags:
   - link
   - business
   - sales
+  - Jason Cohen
 link:
   author: Jason Cohen
   date: 2025-05-04

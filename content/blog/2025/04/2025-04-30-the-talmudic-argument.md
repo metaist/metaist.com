@@ -3,6 +3,7 @@ created: "2025-04-30T23:33:00Z"
 updated: "2025-04-30T23:33:00Z"
 title: The Talmudic Argument
 tags:
+  - link
   - book
   - talmud
   - thinking

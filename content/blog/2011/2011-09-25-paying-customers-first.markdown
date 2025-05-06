@@ -1,6 +1,8 @@
 ---
 author: The Metaist
-tags: business
+tags:
+  - business
+  - Jason Cohen
 title: Get Paying Customers First
 ---
 
