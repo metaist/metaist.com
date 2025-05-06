@@ -1,13 +1,13 @@
 <p class="post-metadata">
+  {% if post.data.draft %}
+    <span class="draft">DRAFT</span>
+  {% endif %}
+
   <time
       title="{{post.data.created.toISOString()}}"
       datetime="{{ post.data.created | htmlDateString }}">{{ post.data.created | readableDate("yyyy-LL-dd") }}</time>
 
   <a href="{{ post.url }}">#</a>
-
-  {% if post.data.draft %}
-    <span class="draft">DRAFT</span>
-  {% endif %}
 
   {%- for tag in post.data.tags | filterTagList %}
     {%- set tagUrl %}/blog/tag/{{ tag | slugify }}/{% endset %}
