@@ -21,6 +21,11 @@ const pluginPagefind = require("./eleventy.config.pagefind.js");
 
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 module.exports = function (eleventyConfig) {
+  eleventyConfig.setFrontMatterParsingOptions({
+    excerpt: true,
+    excerpt_separator: "<!--more-->",
+  });
+
   // watch targets
   const static_glob = "content/**/*.{pdf,gif,jpeg,jpg,png,svg,webp}";
   eleventyConfig.addPassthroughCopy(static_glob);

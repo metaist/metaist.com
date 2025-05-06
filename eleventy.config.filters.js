@@ -61,4 +61,28 @@ module.exports = (eleventyConfig) => {
       num === 1 ? singular : plural || singular + "s"
     }`;
   });
+
+  const emojiTags = {
+    book: "📖",
+    paper: "📄",
+    podcast: "🎙️",
+    tweet: "🐦",
+    bluesky: "🦋",
+    video: "▶️",
+    article: "📝", // generic
+    link: "📝", // generic
+  };
+
+  eleventyConfig.addShortcode("emojiTag", (tags) => {
+    for (const [s, u] of Object.entries(emojiTags)) {
+      if (tags.includes(s)) return u;
+    }
+    return "";
+  });
+
+  const slugify = eleventyConfig.getFilter("slugify");
+  eleventyConfig.addFilter(
+    "tagify",
+    (tag) => `[${tag}](/blog/tag/${slugify(tag)}/)`
+  );
 };
