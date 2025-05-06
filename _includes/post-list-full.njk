@@ -1,0 +1,11 @@
+<div>
+  {% for post in postslist | reverse %}
+    <article>
+      {% include "post-content.njk" %}
+      {% include "post-metadata.njk" %}
+    </article>
+    {%- if not loop.last %}<hr/>{% endif %}
+  {% endfor %}
+
+  <a class="btn view-all" href="/blog/archive">View all posts</a>
+</div>

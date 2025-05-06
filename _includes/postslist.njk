@@ -1,24 +1,23 @@
 <div class="posts">
   {% for post in postslist | reverse %}
     <div class="post">
-      <div>
+      <div class="left">
         <div class="post-metadata">
-          <time title="{{post.data.created.toISOString()}}" datetime="{{ post.data.created | htmlDateString }}">{{ post.data.created | readableDate("yyyy-LL-dd") }}</time>
+          <time
+            title="{{post.data.created.toISOString()}}"
+            datetime="{{ post.data.created | htmlDateString }}">{{ post.data.created | readableDate("yyyy-LL-dd") }}</time>
 
           {% if post.data.draft %}
             <span class="draft">DRAFT</span>
           {% endif %}
         </div>
-        <br/>
 
-        {%- if post.data.link -%}➡{%- endif %}
         <a href="{{ post.url }}">
-          {% if post.data.title %}{{ post.data.title }}
+          {%- if post.data.title %}{{ post.data.title }}
           {% else %}
             <code>{{ post.url }}</code>
-          {% endif %}
+          {% endif -%}
         </a>
-
         {%- if post.data.description -%}
           <br/>
           <span class="description">

@@ -4,4 +4,4 @@ layout: home.njk
 count: 10
 ---
 {% set postslist = collections.post | sortByDate | head(-1 * count) %}
-{% include "postslist.njk" %}
+{% include "post-list-full.njk" %}

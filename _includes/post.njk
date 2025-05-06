@@ -2,38 +2,20 @@
 layout: base.njk
 ---
 <article data-pagefind-body>
-  {%- if draft %}
-    <div class="draft-banner">DRAFT</div>
-  {% endif -%}
+  {% set post = {
+    url: page.url,
+    content: content,
+    data: {
+      draft: draft,
+      created: created,
+      updated: updated,
+      title: title,
+      description: description,
+      tags: tags,
+      link: link
+    }
+  } %}
 
-  <ul class="post-metadata">
-    <li>
-      <time title="{{created.toISOString()}}" datetime="{{ created | htmlDateString }}">{{ created | readableDate("yyyy-LL-dd") }}</time>
-    </li>
-    {%- for tag in tags | filterTagList %}
-      {%- set tagUrl %}/blog/tag/{{ tag | slugify }}/{% endset %}
-      <li>
-        <a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>
-        {%- if not loop.last %}, {% endif %}
-      </li>
-    {%- endfor %}
-  </ul>
-
-  {%- if link %}
-    <p>
-      ➡
-      <a href="{{link}}">
-        <strong>{{ title }}</strong>
-      </a>
-    </p>
-  {% else %}
-    <h1>{{ title }}</h1>
-  {% endif %}
-
-  {%- if description -%}
-    <p class="description">
-      <em>{{description}}</em>
-    </p>
-  {%- endif -%}
-  {{ content | safe }}
+  {% include "post-content.njk" %}
+  {% include "post-metadata.njk" %}
 </article>

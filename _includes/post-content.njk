@@ -1,0 +1,20 @@
+{% if not post.data.link %}
+  <h1>
+    <a href="{{ post.url }}">
+      {% if post.data.title %}
+        {{ post.data.title }}
+      {% else %}
+        <code>{{ post.url }}</code>
+      {% endif %}
+    </a>
+    <a class="header-anchor" href="{{ post.url }}">#</a>
+  </h1>
+{% endif %}
+
+{%- if post.data.description -%}
+  <p class="description">
+    <em>{{post.data.description}}</em>
+  </p>
+{%- endif -%}
+
+{{ post.content | safe }}
