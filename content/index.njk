@@ -1,7 +1,7 @@
 ---
 permalink: /blog/
 layout: home.njk
-count: 10
+count: 30
 ---
 {% set postslist = collections.post | sortByDate | head(-1 * count) %}
 {% include "post-list-full.njk" %}

@@ -73,11 +73,40 @@ module.exports = (eleventyConfig) => {
     link: "📝", // generic
   };
 
-  eleventyConfig.addShortcode("emojiTag", (tags) => {
+  const emojiTag = (tags) => {
     for (const [s, u] of Object.entries(emojiTags)) {
       if (tags.includes(s)) return u;
     }
     return "";
+  };
+
+  eleventyConfig.addShortcode("emojiTag", emojiTag);
+
+  const citeAuthorJournal = (link) => {
+    details = [];
+    if (link.author) details.push(link.author);
+    if (link.journal) details.push(link.journal);
+    return details.length ? details.join(" / ") : "";
+  };
+
+  const citeDateVia = (link, start = "") => {
+    details = [];
+    if (start) details.push(start);
+    if (link.date) details.push(link.date);
+    if (link.via) details.push(`via ${link.via}`);
+    return details.length ? ` (${details.join("; ")})` : "";
+  };
+
+  eleventyConfig.addShortcode("linkPost", (title, tags, link) => {
+    const emoji = emojiTag(tags);
+    let result = `${emoji} [${title}](${link.url})`;
+    if (link.author) {
+      if (tags.includes("book") || tags.includes("paper"))
+        result += ` by ${link.author}${citeDateVia(link)}`;
+      else result += citeDateVia(link, citeAuthorJournal(link));
+    } else result += citeDateVia(link);
+    result += ".";
+    return result;
   });
 
   const slugify = eleventyConfig.getFilter("slugify");
