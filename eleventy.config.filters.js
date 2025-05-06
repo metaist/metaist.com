@@ -3,6 +3,11 @@ const { DateTime } = require("luxon");
 
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 module.exports = (eleventyConfig) => {
+  const slugify = eleventyConfig.getFilter("slugify");
+  const isString = (value) => typeof value === "string";
+  const isDate = (date) =>
+    Object.prototype.toString.call(date) === "[object Date]";
+
   // Filters
   const readableDate = (dateObj, format, zone) => {
     // Formatting tokens for Luxon: https://moment.github.io/luxon/#/formatting?id=table-of-tokens
@@ -52,7 +57,7 @@ module.exports = (eleventyConfig) => {
 
   eleventyConfig.addFilter("filterTagList", (tags) => {
     return (tags || []).filter(
-      (tag) => ["all", "nav", "post", "posts"].indexOf(tag) === -1
+      (tag) => !["all", "nav", "post", "posts"].includes(tag)
     );
   });
 
@@ -80,7 +85,6 @@ module.exports = (eleventyConfig) => {
     }
     return "";
   };
-
   eleventyConfig.addShortcode("emojiTag", emojiTag);
 
   const citeAuthorJournal = (link) => {
@@ -89,10 +93,6 @@ module.exports = (eleventyConfig) => {
     if (link.journal) details.push(link.journal);
     return details.length ? details.join(" / ") : "";
   };
-
-  const isString = (value) => typeof value === "string";
-  const isDate = (date) =>
-    Object.prototype.toString.call(date) === "[object Date]";
 
   const citeDateVia = (link, start = "") => {
     details = [];
@@ -107,7 +107,11 @@ module.exports = (eleventyConfig) => {
       if (isString(link.via) && link.via.startsWith("http"))
         link.via = { url: link.via };
       if (link.via.name) via = link.via.name;
-      if (link.via.known) via = `**${via}**`;
+      if (link.via.known) {
+        via = `**${via}**`;
+        // if (!link.via.url)
+        //   link.via.url = `/blog/tag/${slugify(link.via.name)}/`;
+      }
       if (link.via.url) via = `[${via}](${link.via.url})`;
       if (!link.via.name && !link.via.url) via = link.via;
 
@@ -130,7 +134,6 @@ module.exports = (eleventyConfig) => {
     return result;
   });
 
-  const slugify = eleventyConfig.getFilter("slugify");
   eleventyConfig.addFilter(
     "tagify",
     (tag) => `[${tag}](/blog/tag/${slugify(tag)}/)`
