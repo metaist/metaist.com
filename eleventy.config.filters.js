@@ -90,6 +90,7 @@ module.exports = (eleventyConfig) => {
     return details.length ? details.join(" / ") : "";
   };
 
+  const isString = (value) => typeof value === "string";
   const isDate = (date) =>
     Object.prototype.toString.call(date) === "[object Date]";
 
@@ -101,7 +102,17 @@ module.exports = (eleventyConfig) => {
         details.push(readableDate(link.date, "yyyy-LL-dd"));
       } else details.push(link.date);
     }
-    if (link.via) details.push(`via ${link.via}`);
+    if (link.via) {
+      let via = "via";
+      if (isString(link.via) && link.via.startsWith("http"))
+        link.via = { url: link.via };
+      if (link.via.name) via = link.via.name;
+      if (link.via.known) via = `**${via}**`;
+      if (link.via.url) via = `[${via}](${link.via.url})`;
+      if (!link.via.name && !link.via.url) via = link.via;
+
+      details.push(`via ${via}`);
+    }
     return details.length ? ` (${details.join("; ")})` : "";
   };
 
@@ -115,7 +126,7 @@ module.exports = (eleventyConfig) => {
         result += ` by ${link.author}${citeDateVia(link)}`;
       else result += citeDateVia(link, citeAuthorJournal(link));
     } else result += citeDateVia(link);
-    result += ".";
+    if (link.author || link.date || link.via) result += ".";
     return result;
   });
 

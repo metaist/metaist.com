@@ -5,10 +5,12 @@ title: "cattrs I: un/structuring speed"
 tags: ["link", "cattrs", "castfit"]
 description: "Maybe better overall than castfit."
 link:
+  author: The Three Wands
+  date: 2022-01-19
   url: https://threeofwands.com/why-cattrs-is-so-fast/
 ---
 
-{% emojiTag tags %} [{{title}}]({{link.url}})
+{% linkPost title, tags, link %}
 
 During the [code review for `castfit`][1], Gemini pointed me at [`attrs`] and [`cattrs`]. Many of the features of the `attrs` became `dataclasses` in the standard python library while the features of the `cattrs` look _very_ similar to my own `castfit` library.
 

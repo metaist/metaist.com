@@ -12,7 +12,9 @@ tags:
 link:
   author: Brock Eide
   date: 2023
-  via: "**Jacqueline Novikov**"
+  via:
+    known: true
+    name: Jacqueline Novikov
   url: https://www.amazon.com/Dyslexic-Advantage-Revised-Updated-Unlocking-ebook/dp/B0B1BRHS6S
 ---
 

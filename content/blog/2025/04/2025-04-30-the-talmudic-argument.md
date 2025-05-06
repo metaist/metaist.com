@@ -10,7 +10,9 @@ tags:
 link:
   author: Louis Jacobs
   date: 1984
-  via: "**Jeremy Wertheimer**"
+  via:
+    known: true
+    name: Jeremy Wertheimer
   url: https://www.amazon.com/Talmudic-Argument-Study-Reasoning-Methodology/dp/0521269482
 ---
 
