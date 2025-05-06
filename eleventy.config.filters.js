@@ -4,7 +4,7 @@ const { DateTime } = require("luxon");
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 module.exports = (eleventyConfig) => {
   // Filters
-  eleventyConfig.addFilter("readableDate", (dateObj, format, zone) => {
+  const readableDate = (dateObj, format, zone) => {
     // Formatting tokens for Luxon: https://moment.github.io/luxon/#/formatting?id=table-of-tokens
     if (typeof dateObj === "string" || dateObj instanceof String) {
       dateObj = new Date(dateObj);
@@ -13,7 +13,8 @@ module.exports = (eleventyConfig) => {
     return DateTime.fromJSDate(dateObj, { zone: zone || "utc" }).toFormat(
       format || "dd LLLL yyyy"
     );
-  });
+  };
+  eleventyConfig.addFilter("readableDate", readableDate);
 
   eleventyConfig.addFilter("htmlDateString", (dateObj) => {
     // dateObj input: https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
@@ -89,15 +90,24 @@ module.exports = (eleventyConfig) => {
     return details.length ? details.join(" / ") : "";
   };
 
+  const isDate = (date) =>
+    Object.prototype.toString.call(date) === "[object Date]";
+
   const citeDateVia = (link, start = "") => {
     details = [];
     if (start) details.push(start);
-    if (link.date) details.push(link.date);
+    if (link.date && link.tags.includes("book")) {
+      if (isDate(link.date)) {
+        details.push(readableDate(link.date, "yyyy-LL-dd"));
+      } else details.push(link.date);
+    }
     if (link.via) details.push(`via ${link.via}`);
     return details.length ? ` (${details.join("; ")})` : "";
   };
 
   eleventyConfig.addShortcode("linkPost", (title, tags, link) => {
+    link.title = title;
+    link.tags = tags;
     const emoji = emojiTag(tags);
     let result = `${emoji} [${title}](${link.url})`;
     if (link.author) {
