@@ -6,6 +6,7 @@ tags:
   - link
   - book
   - business
+  - Iridescent Learning
 link:
   author: Guy Kawasaki
   url: https://www.amazon.com/Art-Start-2-0-Time-Tested-Battle-Hardened-ebook/dp/B00MNNAOX0
