@@ -3,7 +3,7 @@ created: "2023-05-31T14:54:03Z"
 updated: "2023-05-31T14:54:03Z"
 title: PEP 8 Thoughts (2023)
 tags: ["LTS", "python", "style"]
-description: "Revising the classic python style guide."
+description: "Revisiting the classic python style guide."
 ---
 
 It's been a little while since I read [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/), but I was [recently prompted to read it by ChatGPT](https://github.com/metaist/attrbox/issues/7#issuecomment-1570237330) which made me realize I don't agree with all of the guidance.
