@@ -13,3 +13,6 @@ content/blog/**/*.pdf
 content/blog/**/*.png
 content/blog/**/*.svg
 content/static/archive/
+
+.frontmatter
+frontmatter.json

@@ -68,3 +68,5 @@
 2025-04-29-castfit-code-review
 2025-04-29-why-cattrs-is-fast
 2025-04-29-dangerous-professional-voice
+
+2025-05-07-astral-type-checker
