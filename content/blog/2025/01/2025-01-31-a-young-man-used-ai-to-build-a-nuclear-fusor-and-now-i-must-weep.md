@@ -5,7 +5,7 @@ title: A Young Man Used AI to Build A Nuclear Fusor and Now I Must Weep
 tags:
   - link
   - machine learning
-  - artificial intelligence
+  - ai
 link:
   author: Ashlee Vance
   url: https://www.corememory.com/p/a-young-man-used-ai-to-build-a-nuclear

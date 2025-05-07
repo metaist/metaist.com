@@ -5,7 +5,7 @@ title: Six Thoughts On AI Safety
 tags:
   - link
   - machine learning
-  - artificial intelligence
+  - ai
 link:
   author: Boaz Barak
   url: https://windowsontheory.org/2025/01/24/six-thoughts-on-ai-safety/
