@@ -2,7 +2,7 @@
 created: "2009-11-17T00:00:00Z"
 updated: "2023-11-28T17:09:10Z"
 title: "Inbox Zero"
-tags: ["technique"]
+tags: ["technique", "productivity", "Inbox Zero", "Getting Things Done"]
 ---
 
 ## Technique

@@ -70,3 +70,4 @@
 2025-04-29-dangerous-professional-voice
 
 2025-05-07-astral-type-checker
+2025-05-16-trying-pyrefly
