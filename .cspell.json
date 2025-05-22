@@ -65,6 +65,7 @@
     "callosum",
     "Calsidyrose",
     "Campanero",
+    "Caplan",
     "castfit",
     "cattrs",
     "cavale",
@@ -325,6 +326,7 @@
     "nonvariant",
     "Northsky71",
     "Novikov",
+    "numpy",
     "Omri",
     "OPSEC",
     "optvar",
@@ -363,6 +365,7 @@
     "Presh",
     "pretotype",
     "pretotyping",
+    "ProPublica",
     "pubdate",
     "Pydantic",
     "pylint",
@@ -537,7 +540,5 @@
     "הֲנֹטַע",
     "הֲשָׁלוֹם"
   ],
-  "ignorePaths": [
-    "node_modules/**"
-  ]
+  "ignorePaths": ["node_modules/**"]
 }
