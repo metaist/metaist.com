@@ -99,7 +99,7 @@ module.exports = (eleventyConfig) => {
     if (start) details.push(start);
     if (link.date && link.tags.includes("book")) {
       if (isDate(link.date)) {
-        details.push(readableDate(link.date, "yyyy-LL-dd"));
+        details.push(readableDate(link.date, "yyyy"));
       } else details.push(link.date);
     }
     if (link.via) {
