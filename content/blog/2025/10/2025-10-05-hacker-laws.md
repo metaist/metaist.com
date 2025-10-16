@@ -1,7 +1,7 @@
 ---
 created: "2025-10-05T23:39:57Z"
 updated: "2025-10-05T23:39:57Z"
-title: Hacker Laws#
+title: Hacker Laws
 tags:
   - link
   - programming
