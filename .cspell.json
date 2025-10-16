@@ -11,6 +11,7 @@
     "Agarwal's",
     "Aharon",
     "Ahron",
+    "Aimen",
     "Ajeya",
     "Alderfer",
     "Aled",
@@ -47,6 +48,7 @@
     "Baratz",
     "Barners",
     "Barretto",
+    "Bastani",
     "Bastiat",
     "Batchelder",
     "Beleń",
@@ -128,6 +130,7 @@
     "Cremieux",
     "Crinity",
     "Crowdsourcing",
+    "Cruickshank",
     "Csikszentmihalyi",
     "ctype",
     "Cuil",
@@ -271,6 +274,7 @@
     "hostkeys",
     "Hostyk",
     "Houben",
+    "Houtan",
     "Howlett",
     "Husain",
     "Hydrick",
@@ -298,7 +302,9 @@
     "Kage",
     "Kaling",
     "Kallen",
+    "Kaplan",
     "Kapoor",
+    "Karger",
     "Karlsson",
     "Karpathy",
     "Kegan",
@@ -320,6 +326,7 @@
     "Konigsburg",
     "Korem",
     "Krauss",
+    "Kučinskas",
     "Kwok",
     "Labatut",
     "Lamport",
@@ -468,6 +475,7 @@
     "pythonic",
     "pythonoid",
     "pyversions",
+    "Qaeda",
     "Rakison",
     "Ramit",
     "Rampersad",
@@ -518,6 +526,7 @@
     "Sideberry",
     "sidekiq",
     "sidenotes",
+    "Simas",
     "Sinek",
     "Sirota",
     "Sivers",
@@ -533,6 +542,7 @@
     "Soloveitchik",
     "Somers",
     "Spolsky",
+    "Sponheim",
     "Squidoo",
     "Stackdriver",
     "Stankuns",
@@ -659,7 +669,5 @@
     "הֲנֹטַע",
     "הֲשָׁלוֹם"
   ],
-  "ignorePaths": [
-    "node_modules/**"
-  ]
+  "ignorePaths": ["node_modules/**"]
 }
