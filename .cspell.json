@@ -148,6 +148,7 @@
     "Deloitte",
     "Derren",
     "DHMO",
+    "Diamandis",
     "Diamandis's",
     "diarization",
     "diarize",
@@ -282,6 +283,7 @@
     "Hyman",
     "Hynes",
     "Hypercorn",
+    "Hyrum",
     "Ibrahim",
     "Ichiro",
     "Ideaflow",
@@ -325,6 +327,7 @@
     "Kolmogorov",
     "Konigsburg",
     "Korem",
+    "Kotler",
     "Krauss",
     "Kučinskas",
     "Kwok",
@@ -359,6 +362,7 @@
     "Mappiq",
     "maqaf",
     "Marblestone",
+    "Marlen",
     "Marlinspike",
     "Marwick",
     "MasalaTime",
@@ -669,5 +673,7 @@
     "הֲנֹטַע",
     "הֲשָׁלוֹם"
   ],
-  "ignorePaths": ["node_modules/**"]
+  "ignorePaths": [
+    "node_modules/**"
+  ]
 }
