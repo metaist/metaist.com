@@ -11,6 +11,7 @@ link:
   author: Sam Walker
   date: 2017-05-16
   url: https://www.amazon.com/Captain-Class-New-Theory-Leadership-ebook/dp/B01LKCRKFY
+  via: Ryan Holiday
 ---
 
 {% linkPost title, tags, link %} A book about leadership in various sports dressed up as a business book. The main thing it seems to promote is "unusual" leadership which would seem to account for all the contradictory advice.

@@ -6,8 +6,8 @@ tags:
   - link
   - food
 link:
-  author: "Redacted"
-  journal: "ACX"
+  author: Chris Finkle
+  journal: ACX
   date: 2025-08-08
   url: https://www.astralcodexten.com/p/your-review-my-fathers-instant-mashed
 ---

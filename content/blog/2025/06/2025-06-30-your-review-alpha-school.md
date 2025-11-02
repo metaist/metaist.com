@@ -6,8 +6,8 @@ tags:
   - link
   - education
 link:
-  author: "Redacted"
-  journal: "ACX"
+  author: Edward Nevraumont
+  journal: ACX
   date: 2025-06-27
   url: https://www.astralcodexten.com/p/your-review-alpha-school
 ---
