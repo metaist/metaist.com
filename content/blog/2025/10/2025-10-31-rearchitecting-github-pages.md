@@ -5,7 +5,7 @@ title: "Rearchitecting GitHub Pages"
 tags:
   - link
   - programming
-  - GitHub
+  - github
 link:
   author: Hailey Somerville
   journal: GitHub Blog
