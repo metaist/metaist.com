@@ -73,3 +73,5 @@
 2025-05-16-trying-pyrefly
 2025-05-16-til-typevar
 2025-05-21-castfit-0.1.2
+
+2025-11-26-castfit-0.1.3
