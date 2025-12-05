@@ -556,6 +556,8 @@
     "setattr",
     "setattrs",
     "Sethi",
+    "setuptools",
+    "importlib",
     "Shalev",
     "Shavit",
     "Shayna",
@@ -716,7 +718,5 @@
     "הֲנֹטַע",
     "הֲשָׁלוֹם"
   ],
-  "ignorePaths": [
-    "node_modules/**"
-  ]
+  "ignorePaths": ["node_modules/**"]
 }

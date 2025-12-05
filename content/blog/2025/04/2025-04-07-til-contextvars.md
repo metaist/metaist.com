@@ -4,6 +4,7 @@ updated: "2025-04-08T13:19:30Z"
 title: "TIL: contextvars in python"
 tags: ["TIL", "python", "contextvars", "Shalev NessAiver"]
 description: "What they are and how to use them."
+series: TIL
 ---
 
 While I was working on my third attempt of a python version of [`idempotent-bash`](https://github.com/metaist/idempotent-bash), ChatGPT suggested I use [`contextvars`](https://docs.python.org/3/library/contextvars.html) which has apparently been part of the standard library since python 3.7. This is different from [`contextlib`](https://docs.python.org/3/library/contextlib.html) which I know and like.

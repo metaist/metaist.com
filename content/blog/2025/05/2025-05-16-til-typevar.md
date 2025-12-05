@@ -8,7 +8,7 @@ tags:
   - python
   - typed
   - castfit
-series: typed
+series: TIL
 ---
 
 While working on {{ "`castfit`" | tagify }}, I ended up going down a rabbit hole learning about what makes something a subtype of something else. I vaguely knew the terms "invariant", "covariant", and "contravariant", but have very carefully avoided ever learning what they meant.
