@@ -59,6 +59,7 @@
     "Batchelder",
     "Beleń",
     "Benj",
+    "Berkovits",
     "Bessis",
     "bikeshed",
     "bikeshedding",
@@ -105,6 +106,7 @@
     "Chaikin",
     "Chaim",
     "Challande",
+    "Chanan",
     "Chandar",
     "charliermarsh",
     "chataf",
@@ -301,6 +303,7 @@
     "Ichiro",
     "Ideaflow",
     "idempy",
+    "importlib",
     "inattentional",
     "infographics",
     "Inma",
@@ -557,7 +560,6 @@
     "setattrs",
     "Sethi",
     "setuptools",
-    "importlib",
     "Shalev",
     "Shavit",
     "Shayna",
@@ -565,6 +567,7 @@
     "Shirky",
     "Shivan",
     "Shneier",
+    "Shreya",
     "Sideberry",
     "sidekiq",
     "sidenotes",
@@ -666,6 +669,7 @@
     "Voege",
     "voels",
     "Vogel",
+    "Vogler",
     "Voss",
     "voxel",
     "voxels",
@@ -718,5 +722,7 @@
     "הֲנֹטַע",
     "הֲשָׁלוֹם"
   ],
-  "ignorePaths": ["node_modules/**"]
+  "ignorePaths": [
+    "node_modules/**"
+  ]
 }
