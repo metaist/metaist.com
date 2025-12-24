@@ -27,12 +27,12 @@
     "Anscombe",
     "appsscript",
     "Arazi",
+    "argparse",
     "Arirang",
     "Armin",
     "Arnell",
     "Artem",
     "Arussy",
-    "argparse",
     "Arvind",
     "Asthenes",
     "Attia",
@@ -113,6 +113,7 @@
     "chataf",
     "Chatbots",
     "chatgpt",
+    "chdir",
     "Chovevei",
     "Cirillo",
     "Civalleri",
@@ -659,6 +660,7 @@
     "Unported",
     "unrepresentable",
     "Unseeable",
+    "urlopen",
     "Utley",
     "uwsgi",
     "VALIS",
@@ -730,5 +732,7 @@
     "הֲנֹטַע",
     "הֲשָׁלוֹם"
   ],
-  "ignorePaths": ["node_modules/**"]
+  "ignorePaths": [
+    "node_modules/**"
+  ]
 }

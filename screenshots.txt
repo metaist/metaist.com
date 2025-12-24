@@ -81,3 +81,4 @@
 2025-12-24-emulating-astral-cli
 2025-12-24-emulating-ls
 2025-12-24-cosmofy-0.2.0
+2025-12-24-cosmofy-0.2.1
