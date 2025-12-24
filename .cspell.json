@@ -32,6 +32,7 @@
     "Arnell",
     "Artem",
     "Arussy",
+    "argparse",
     "Arvind",
     "Asthenes",
     "Attia",
@@ -503,6 +504,7 @@
     "pretotyping",
     "ProPublica",
     "pubdate",
+    "Pugio",
     "Pydantic",
     "pylint",
     "pymupdf",
@@ -532,6 +534,7 @@
     "Reengineering",
     "Reinhard",
     "relpath",
+    "removeprefix",
     "repage",
     "Ricki",
     "Ries",
@@ -727,7 +730,5 @@
     "הֲנֹטַע",
     "הֲשָׁלוֹם"
   ],
-  "ignorePaths": [
-    "node_modules/**"
-  ]
+  "ignorePaths": ["node_modules/**"]
 }
