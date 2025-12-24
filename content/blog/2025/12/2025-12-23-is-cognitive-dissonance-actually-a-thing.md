@@ -16,4 +16,4 @@ link:
     url: https://marginalrevolution.com/marginalrevolution/2025/12/friday-assorted-links-552.html
 ---
 
-{% linkPost title, tags, link %} I need to believe its a thing and not a thing at the same time.
+{% linkPost title, tags, link %} I need to believe it's a thing and not a thing at the same time.
