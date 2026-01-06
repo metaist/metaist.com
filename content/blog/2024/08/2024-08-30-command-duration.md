@@ -3,6 +3,7 @@ created: "2024-08-30T21:22:42Z"
 updated: "2024-08-30T21:22:42Z"
 title: "How long do commands run?"
 tags: ["bash", "uv"]
+series: bash
 ---
 
 One of the most remarkable things about [`uv`](https://github.com/astral-sh/uv) is just how fast it is. In fact, [Charlie Marsh] and the Astral team have been such an inspiration, that I got curious about how long commands take.
