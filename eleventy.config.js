@@ -27,7 +27,7 @@ module.exports = function (eleventyConfig) {
   });
 
   // watch targets
-  const static_glob = "content/**/*.{pdf,gif,jpeg,jpg,png,svg,webp}";
+  const static_glob = "content/**/*.{html,pdf,gif,jpeg,jpg,png,svg,webp}";
   eleventyConfig.addPassthroughCopy(static_glob);
   eleventyConfig.addWatchTarget(static_glob);
 

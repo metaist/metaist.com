@@ -100,6 +100,7 @@
     "Campanero",
     "Canuma",
     "Caplan",
+    "Cascadia",
     "castfit",
     "cattrs",
     "cavale",
@@ -133,6 +134,7 @@
     "compat_banner",
     "compileall",
     "Connor",
+    "Consolas",
     "Constantin",
     "contextlib",
     "contextvars",
@@ -466,6 +468,7 @@
     "mypy",
     "naïveté",
     "Narayanan",
+    "nbdev",
     "NCCAM",
     "nedbatchelder",
     "nerdsniped",
@@ -643,6 +646,7 @@
     "Stenberg",
     "stenospermocarpy",
     "Stubblebine",
+    "stuffyokodraws",
     "Stupple",
     "stylesheet",
     "subsp",
@@ -776,5 +780,7 @@
     "הֲנֹטַע",
     "הֲשָׁלוֹם"
   ],
-  "ignorePaths": ["node_modules/**"]
+  "ignorePaths": [
+    "node_modules/**"
+  ]
 }
