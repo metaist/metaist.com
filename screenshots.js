@@ -27,7 +27,7 @@ Options:
 const slug2url = (slug) =>
   `http://localhost:8080/blog/${slug.slice(0, 4)}/${slug.slice(
     5,
-    7
+    7,
   )}/${slug.slice(11)}.html`;
 
 /** Return an absolute path to an image. */
@@ -35,7 +35,7 @@ const slug2img = (slug) => resolve(`./content/static/img/${slug}.png`);
 
 /** Take a screenshot of a URL and save it to a path. */
 const screenshot = async (url, path) =>
-  $`firefox -P screenshot --screenshot ${path} ${url}`;
+  $`uvx playwright screenshot ${url} ${path}`;
 
 /** Crop an image. */
 const crop = async (path, size = "1200x630+0+100") =>
