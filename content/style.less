@@ -1,8 +1,8 @@
 /* Defaults */
 :root {
   --font-family: -apple-system, system-ui, sans-serif;
-  --font-family-monospace: "Roboto Mono", Monaco, Courier New, Courier,
-    monospace;
+  --font-family-monospace:
+    "Roboto Mono", Monaco, Courier New, Courier, monospace;
 }
 
 /* Theme colors */
@@ -287,9 +287,27 @@ img {
 /* Posts list */
 .draft-banner {
   color: #fff;
-  color: #fff;
   background-color: #f53;
   text-align: center;
+}
+
+.aigen-banner {
+  border-radius: 0.5rem;
+  border: 1px solid rgb(112, 87, 255);
+  font-size: 0.9rem;
+  font-style: italic;
+  padding: 0.5rem;
+  text-align: center;
+}
+
+.post-tag.aigen,
+span.aigen {
+  background-color: rgb(112, 87, 255);
+  border-radius: 0.1rem;
+  color: #fff !important;
+  font-size: 0.8rem;
+  padding: 0 0.2rem;
+  text-decoration: none;
 }
 
 span.draft {

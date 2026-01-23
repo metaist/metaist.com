@@ -1,7 +1,6 @@
 {% if post.data.draft %}
   <div class="draft-banner">DRAFT</div>
 {% endif %}
-
 {% if not post.data.link %}
   <h1>
     <a href="{{ post.url }}">
@@ -20,5 +19,14 @@
     <em>{{post.data.description}}</em>
   </p>
 {%- endif -%}
+
+{% if post
+  .data
+  .tags
+  .includes('aigen') %}
+  <div class="aigen-banner">
+    Note: This page contains content that was substantially written by an AI.
+  </div>
+{% endif %}
 
 {{ post.content | safe }}

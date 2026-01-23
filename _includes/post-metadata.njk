@@ -11,7 +11,7 @@
 
   {%- for tag in post.data.tags | filterTagList %}
     {%- set tagUrl %}/blog/tag/{{ tag | slugify }}/{% endset %}
-    <a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>
+    <a href="{{ tagUrl }}" class="post-tag {{tag | slugify}}">{{ tag }}</a>
     {%- if not loop.last %}, {% endif %}
   {%- endfor %}
 </p>
