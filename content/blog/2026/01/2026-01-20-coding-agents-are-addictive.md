@@ -3,7 +3,9 @@ created: "2026-01-20T03:24:26Z"
 updated: "2026-01-20T03:24:26Z"
 title: "Coding Agents are Addictive"
 description: "Many lessons learned"
-tags: ["ai", "programming", "Claude", "Simon Willison", "Armin Ronacher"]
+tags:
+  ["ai", "programming", "agents", "Claude", "Simon Willison", "Armin Ronacher"]
+series: agents
 ---
 
 Despite having used LLMs since before they could produce reasonable English paragraphs, and despite reading [Simon Willison](https://simonwillison.net/) and [Armin Ronacher](https://lucumr.pocoo.org/) wax rhapsodic about what they've been able to accomplish the AI agents, I've been stuck in the occasionally-copy-from-chat routine.
